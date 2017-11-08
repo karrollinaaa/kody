@@ -5,6 +5,26 @@ body{
     background-color: lightpink;
 }
 
+img { border: 5px solid white;}
+
+.header img { border: 8px solid purple; }
+#header img { border-color: white; }
+
+div#header{
+    border-color: black;
+}
+
+#header {
+    padding-top: 50px;
+    border-top: 40px dashed purple;
+}
+
+.header{
+    padding: 20px 20px 20px 200px;
+    border: 10px solid purple;
+    margin: 15px;
+}
+
 h1 {
     font-size: 250%;
 }

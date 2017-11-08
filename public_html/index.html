@@ -27,9 +27,14 @@
     <meta charset="utf-8" />
     <title>pierwsza strona w HTML</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
+    <style>
+        body{
+        font-size: 14pt;
+    }
+    </style>
 </head>
 
-<body>
+<body style="font-size: 16pt;">
     <div id="menu">
         <a class="menu" href="index.html">Strona główna</a>
         <a class="menu" href="listy.html">Listy</a>
@@ -37,12 +42,16 @@
         <a class="menu" href="specjalne/klasa1a.html">Klasa 1A</a>
     </div>
     
+    <div id="header" class="header">
+        <img style="border-color: white;" src="img/leniwiec_dlon.jpg" width="80%">   
+    </div>
+    
     <div id="tresc">
     <h1>Nagłówek 1</h1>
     <h2>Ulubione obrazki</h2>
         
-        <div>
-            <img src="http://www.national-geographic.pl/media/cache/default_view/uploads/media/default/0001/93/6cb8a2b08949de412b1481b60a9d1a13486193d4.jpeg">
+        <div class="header">
+            <img src="http://www.national-geographic.pl/media/cache/default_view/uploads/media/default/0001/93/6cb8a2b08949de412b1481b60a9d1a13486193d4.jpeg" width="80%">
             <a href="http://www.national-geographic.pl/media/cache/default_view/uploads/media/default/0001/93/6cb8a2b08949de412b1481b60a9d1a13486193d4.jpeg">Leniwiec</a>
         </div>
     
