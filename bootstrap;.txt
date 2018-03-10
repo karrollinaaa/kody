@@ -1,0 +1,25 @@
+====== bootstrap; ======
+Created poniedziałek 26 luty 2018
+
+primary- niebieskie tło
+warning-zółte tło
+
+extra samall <576px
+small >=576px
+medium >=768
+large >= 992
+extra large >= 1200px
+
+spacing- odstępy
+rem- jednostka względna do rozmiaru czcionki
+spacer- podstawowa jednostka odstępu 1=0.25  3spacer=1jednostka
+	y- margines od góry i dołu
+	x- margines z lewej i prawej
+	
+	
+d-none   ukrywanie obrazka
+d-xl-none na dużej rozdzielczości
+d-md-block  pokaże się na innej rodzielczości
+
+len- jednostka względna wobec rodzica danego elementu
+
