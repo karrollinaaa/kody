@@ -1,0 +1,8 @@
+DROP TABLE IF EXISTS filmy;
+CREATE TABLE filmy (
+	id INTEGER PRIMARY KEY,
+	name TEXT NOT NULL,
+	genre TEXT DEAFULT '',
+	year INTEGER,
+	rating DECIMAL
+);
