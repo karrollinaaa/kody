@@ -6,11 +6,18 @@
 
 
 def main(args):
-    a = input("Podaj pierszą liczbę: ")
+    a = int(input("Podaj pierszą liczbę: "))
     print(a)
     
-    b = input("Podaj drugą liczbę: ")
+    b = int(input("Podaj drugą liczbę: "))
     print(b)
+    
+    print("Suma: ", a + b)
+    
+    print("Iloczyn: ", a * b)
+    
+    print("Iloraz: ", a / b)
+    
     return 0
 
 if __name__ == '__main__':

@@ -22,6 +22,7 @@ int main(int argc, char **argv)
     
     cout << endl << "Suma: " << a + b << endl;
     cout << endl << "Różnica: " << a - b << endl;
+    cout << endl << "Iloczyn: " << a * b << endl;
     cout << endl << "Iloraz: " << a / b << endl;
     
 	return 0;
