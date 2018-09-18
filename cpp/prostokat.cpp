@@ -1,4 +1,4 @@
-/*
+  /*
  * prostokat.cpp
  * 
  * Copyright 2018  <>
@@ -50,7 +50,7 @@ int main(int argc, char **argv)
     cout << endl << "Podaj bok b: ";
     cin >> b;
     
-    cout << a << "," << b;
+    cout << a << "x" << b;
     
     cout << endl << "pole: "; 
     cout << pole(a, b);

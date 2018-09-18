@@ -30,8 +30,8 @@ def main(args):
     cur = con.cursor()  # utworzenie kursora
 
     # utworzenie tabeli w bazie
-    # with open('apps.sql', 'r') as plik:
-        # cur.executescript(plik.read())
+    with open('magazyn.sql', 'r') as plik:
+        cur.executescript(plik.read())
 
     # dodawanie danych do bazy
     dane = dane_z_pliku('dane_customers.txt')
