@@ -1,22 +1,22 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
- 
+#
+#  petla_cw2.py
+#
+# DANE WEJŚCIOWE:
+# początek i koniec przedziału podanego przez użytkownika
+# DANE WYJŚCIOWE:
+# liczby naturalne z <start, stop>
 
 
 def main(args):
-    a = int(input("Podaj liczbę: ")) 
-    b = int(input("Podaj liczbę: "))
+    start = int(input("Przedzial lewy: "))
+    stop = int(input("Przedzial prawy: "))
     
-    while a >= b:
-        b = int(input("Podaj większą liczbę niż pierwsza! Liczba 2: "))
-		
-    
-    if a <= b:
-        for liczba in range(a, b + 1):
-                print(liczba, end = " ")
-        
+    for liczba in range(start, stop + 1):
+        print(liczba, " ", end='')
     return 0
 
 if __name__ == '__main__':
     import sys
-    sys.exit(main(sys.argv))
+sys.exit(main(sys.argv))
