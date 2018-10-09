@@ -10,20 +10,23 @@
 
 def main(args):
     
-    a = int(input("Podaj bok a: "))
+    a = int(input("Podaj bok a: ")) 
     b = int(input("Podaj bok b: "))
-    i = 0
     
-    while i < a:
-        a = a - 1
-        print("*", end='')
-        
-    while i < b:
-        b = b - 1
-        print("*")
+    for i in range(a):
+        if i == 0  or i == a - 1:
+            print("*"*b)
+            continue
+        for j in range(b):
+            if j > 0  and j < b - 1:
+                print(" ", end='')
+            else:
+                print("*", end='')
+            
+        print()
     
     return 0
 
 if __name__ == '__main__':
     import sys
-    sys.exit(main(sys.argv))
+sys.exit(main(sys.argv))
