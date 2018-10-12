@@ -10,32 +10,32 @@ CREATE TABLE nazwiska
 DROP TABLE IF EXISTS dane_osobowe;
 CREATE TABLE dane_osobowe
 (
+    id_ucznia INTEGER,
 	Dzien_urodzenia NOT NULL,
 	Miesiac_urodzenia NOT NULL,
 	Rok_urodzenia INTEGER PRIMARY KEY,
     Miejsce_urodzenia TEXT,
-    id_ucznia INTEGER,
 	FOREIGN KEY (id_ucznia) REFERENCES nazwiska(id_ucznia)
 );
 DROP TABLE IF EXISTS oceny;
 CREATE TABLE oceny
 (
-	Zachowanie INTEGER,
-	Religia_etyka INTEGER,
-	Jezyk_polski INTEGER,
-    Jezyk_angielski INTEGER,
-    Jezyk_niemiecki INTEGER,
-    Matematyka INTEGER,
-    Historia INTEGER,
-    Geografia INTEGER,
-    Biologia INTEGER,
-    Fizyka INTEGER,
-    Chemia INTEGER,
-    Technika INTEGER,
-    Informatyka INTEGER,
-    Plastyka INTEGER,
-    PO INTEGER,
-    Wf TEXT,
     id_ucznia INTEGER,
+	Zachowanie INTEGER DEFAULT NULL,
+	Religia_etyka INTEGER DEFAULT NULL,
+	Jezyk_polski INTEGER DEFAULT NULL,
+    Jezyk_angielski INTEGER DEFAULT NULL,
+    Jezyk_niemiecki INTEGER DEFAULT NULL,
+    Matematyka INTEGER DEFAULT NULL,
+    Historia INTEGER DEFAULT NULL,
+    Geografia INTEGER DEFAULT NULL,
+    Biologia INTEGER DEFAULT NULL,
+    Fizyka INTEGER DEFAULT NULL,
+    Chemia INTEGER DEFAULT NULL,
+    Technika INTEGER DEFAULT NULL,
+    Informatyka INTEGER DEFAULT NULL,
+    Plastyka INTEGER DEFAULT NULL,
+    PO INTEGER DEFAULT NULL,
+    Wf TEXT,
 	FOREIGN KEY (id_ucznia) REFERENCES nazwiska(id_ucznia)
 );
