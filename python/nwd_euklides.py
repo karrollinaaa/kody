@@ -6,11 +6,14 @@
 
 
 def NWD_klasyczny(a, b):
-    while a == b:
-            
-    return nwd
+    while a != b:
+        if a > b:
+            a -= b
+        else:
+            b -= a
+    return a
 
-def main(args)
+def main(args):
     a = int(input("Podaj liczbę a: "))
     b = int(input("Podaj liczbę b: "))
     
