@@ -31,11 +31,10 @@ void tabliczka(int a,int b) {
     for(int i = 1; i <= a; i++) {
         for (int j = 1; j <= b; j++) {
             cout << setw(4) << i * j;
-            
+            }
+            cout << endl;
         }
-        cout << endl;
     }
-}
 
 int main(int argc, char **argv)
 {
