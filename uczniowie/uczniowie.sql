@@ -14,8 +14,8 @@ CREATE TABLE uczniowie
 DROP TABLE IF EXISTS klasy;
 CREATE TABLE klasy
 (
-    id INTEGER,
-    klasa TEXT PRIMARY KEY,
+    id INTEGER PRIMARY KEY,
+    klasa TEXT,
     rok_naboru DATE,
     rok_matury DATE
 );
@@ -23,8 +23,8 @@ CREATE TABLE klasy
 DROP TABLE IF EXISTS przedmioty;
 CREATE TABLE przedmioty
 (
-    id INTEGER,
-    przedmiot TEXT PRIMARY KEY,
+    id INTEGER PRIMARY KEY,
+    przedmiot TEXT,
     nazwisko_naucz TEXT,
     imie_naucz TEXT,
     plec_naucz TEXT,
@@ -34,9 +34,9 @@ CREATE TABLE przedmioty
 DROP TABLE IF EXISTS oceny;
 CREATE TABLE oceny 
 (
-    id INTEGER,
+    id INTEGER PRIMARY KEY,
     datad DATE,
-    id_uczen INTEGER PRIMARY KEY,
+    id_uczen INTEGER,
     id_przedmiot INTEGER,
     ocena INTEGER,
     FOREIGN KEY (id) REFERENCES uczniowie(id)
