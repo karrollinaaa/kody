@@ -26,14 +26,15 @@ def minmax1():
     
 
 def minmax2(lista):
+    liczba = lista[0]
     min = liczba
     max = liczba
     
     for liczba in (lista):
         if liczba < min:
-            liczba = min
+            min = liczba
         if liczba > max:
-            liczba = max
+            max = liczba
             
     return min, max
         
@@ -50,6 +51,7 @@ def main(args):
     for i in range(100):
         lista.append(random.randint(1, 100))
     print(lista)
+    
     min, max = minmax2(lista)
     
     print("najmniejsza liczba: ", min)
