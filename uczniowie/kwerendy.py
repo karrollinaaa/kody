@@ -10,13 +10,15 @@ import sqlite3
 
 def kwerenda1(cur):
     cur.execute("""
-        SELECT klasa, COUNT(uczniowie.id) AS ile FROM klasy INNER JOIN uczniowie ON klasy.id=uczniowie.id_klasa GROUP BY klasa ORDER BY ile DESC
+        SELECT imie, nazwisko, AVG(ocena) FROM oceny INNER JOIN uczniowie ON oceny.id_uczen=uczniowie.id WHERE 
     """)
     
     wyniki = cur.fetchall()
     for row in wyniki:
         print(row)
 
+#SELECT imie, nazwisko, AVG(ocena) FROM oceny INNER JOIN uczniowie ON oceny.id_uczen=uczniowie.id WHERE nazwisko='Nowak' AND imie='Dorota'
+#SELECT imie, nazwisko, COUNT(ocena) FROM oceny INNER JOIN uczniowie ON oceny.id_uczen=uczniowie.id WHERE nazwisko='Nowak' AND imie='Dorota'
 #SELECT klasa, COUNT(uczniowie.id) AS ile FROM klasy INNER JOIN uczniowie ON klasy.id=uczniowie.id_klasa GROUP BY klasa ORDER BY ile DESC
 #SELECT klasa, nazwisko, imie, egz_mat FROM klasy INNER JOIN uczniowie ON klasy.id=uczniowie.id_klasa WHERE klasa='1A'
 #SELECT nazwisko, imie, egz_hum, egz_mat FROM uczniowie WHERE egz_hum > 40 AND egz_mat > 40 ORDER BY nazwisko ASC
