@@ -10,7 +10,12 @@ import sqlite3
 
 def kwerenda1(cur):
     cur.execute("""
-        SELECT imie, nazwisko, AVG(ocena) FROM oceny INNER JOIN uczniowie ON oceny.id_uczen=uczniowie.id WHERE 
+        WITH srednie AS (
+            SELECT imie, nazwisko, AVG(ocena) AS poile FROM uczniowie
+            INNER JOIN oceny ON uczniowie.id=oceny.id_uczen   
+            GROUP BY uczniowie.id 
+        ) SELECT nazwisko, imie, poile FROM srednie
+        WHERE poile >= 4.0
     """)
     
     wyniki = cur.fetchall()
