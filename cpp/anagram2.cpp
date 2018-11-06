@@ -17,8 +17,10 @@ int main(int argc, char **argv)
         for(i2 = 0; i2 < 4; i2++) {
             if(i1==i2) continue;
             for(i3 = 0; i3 < 4; i3++) {
-                i4=1;
-                cout << i1 << i2 << i3 << i4 << endl;
+                if(i1==i3) continue;
+                if(i2==i3) continue;
+                i4 = 6 - i1 - i2 - i3;
+                cout << wyraz[i1] << wyraz[i2] << wyraz[i3] << wyraz[i4] << endl;
             }
         }
     }
