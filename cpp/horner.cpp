@@ -13,10 +13,23 @@
 using namespace std;
 
 void drukujw(int st, float tbwsp[]) {
-    for (int i = 0; i < st; i++) {
-        cout << tbwsp[i] << "x^" << st-i << " + ";;
+    int i = 0;
+    for (i = 0; i < st; i++) {
+        cout << tbwsp[i] << "x^" << st-i << " + ";
     }
+    cout << tbwsp[i] << endl;
 }
+
+float horner_it(int st, float tbwsp[], float x) {
+    0, 1, 2, 3
+    x (x (2x + 3) + 5) + 4
+    float wynik = ???;
+    for (int i = 0; i < st+1; i++) {
+        wynik = ???;
+    }
+    return wynik;
+}
+
 
 int main(int argc, char **argv)
 {
