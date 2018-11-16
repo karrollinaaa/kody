@@ -15,36 +15,42 @@ class BazaModel(Model):
     class Meta:
         database = baza
     
-    
-class Klasa(BazaModel):
-    nazwa = CharField(null=False)
-    roknaboru = IntegerField(default=0)
-    rokmatury = IntegerField(default=0)
-    
         
-class Uczen(BazaModel):
-    imie = CharField(default=0)
-    nazwisko = CharField(null=False)
-    plec = BooleanField()
-    klasa = ForeignKeyField(Klasa, related_name='uczniowie')
-    
+class Klasa(BazaModel):
+    klasa = CharField()
+    roknaboru = IntegerField()
+    rokmatury = IntegerField()
 
-class Wynik(BazaModel):
+
+class Uczen(BazaModel):
+    imie = CharField()
+    nazwisko = CharField()
+    plec = BooleanField()
+    klasa = ForeignKeyField(Klasa, related_name='numer')
     egzhum = FloatField(default=0)
     egzmat = FloatField(default=0)
     egzjez = FloatField(default=0)
+    
+
+class Przedmiot(BazaModel):
+    przedmiot = CharField()
+    nazwisko_naucz = CharField()
+    imie_naucz = CharField()
+    plec_naucz = BooleanField()
+    
+    
+class Ocena(BazaModel):
+    datad = DateField()
     uczen = ForeignKeyField(Uczen, related_name='wyniki')
+    przedmiot = ForeignKeyField(Przedmiot, related_name='cos')
+    ocena = IntegerField()
     
-    
+
 def main(args):
     if os.path.exists(baza_plik):
         os.remove(baza_plik)
     baza.connect() #połaczenie z bazą
-    baza.create_tables([Klasa, Uczen, Wynik])
-    
-    kl2a = Klasa(nazwa="2A", roknaboru=2010, rokmatury=2013)
-    kl2a.save()
-    
+    baza.create_tables([Klasa, Uczen, Przedmiot, Ocena])
     return 0
 
 
