@@ -7,7 +7,14 @@ def rysujKwadrat(zolw, bok, ile):
     zolw.forward(bok)
     zolw.right(90)
     if ile > 0:
-        rysujKwadrat(zolw, bok, ile-1)
+        rysujKwadrat(zolw, bok)
+    
+def rysujKwadrat2(zolw, bok):
+    for i in range(4):
+        zolw.forward(bok)
+        zolw.right(90)
+    if bok > 0:
+        rysujKwadrat2(zolw, bok-10)
     
 def main(args):
     turtle.title("Kwadraty")
@@ -15,8 +22,12 @@ def main(args):
     
     zolw = turtle.Turtle()
     zolw.color('pink')
+    zolw.speed(0)
     
-    rysujKwadrat(zolw, 100, 4)
+    #rysujKwadrat(zolw, 100, 4)
+    zolw.begin_fill()
+    rysujKwadrat2(zolw, 200)
+    zolw.end_fill()
     
     turtle.done()
     
