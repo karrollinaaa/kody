@@ -45,6 +45,17 @@ def main(args):
     kl2a = Klasa(nazwa="2A", roknaboru=2010, rokmatury=2013)
     kl2a.save()
     
+    ul = Uczen(imie="Mateusz", nazwisko="Bernyś", plec=False, klasa=kl2a)
+    ul.save()
+    
+    kl1a = Klasa(nazwa="1A", roknaboru=2011, rokmatury=2014)
+    kl2a.save()
+    
+    ul1 = Uczen(imie="Paweł", nazwisko="Sroczyński", plec=False, klasa=kl1a)
+    ul1.save()
+    
+    uczniowie = Uczen.select()
+    
     return 0
 
 
