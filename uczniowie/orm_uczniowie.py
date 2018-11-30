@@ -4,56 +4,37 @@
 #  orm_peewee.py
 # 
 
-import os
-from peewee import *
+import os  
+from modele import *
+from baza import dane_z_pliku
 
-baza_plik = 'test.db'
-baza = SqliteDatabase(baza_plik) #instancja bazy
-
-### MODELE DANYCH
-class BazaModel(Model):
-    class Meta:
-        database = baza
-    
+def dodaj_dane(dane):
+    for model, plik in dane.items():
+        pola = [pole for pole in model._meta.fields]
+        pola.pop(0)
         
-class Klasa(BazaModel):
-    klasa = CharField()
-    roknaboru = IntegerField()
-    rokmatury = IntegerField()
-
-
-class Uczen(BazaModel):
-    imie = CharField()
-    nazwisko = CharField()
-    plec = BooleanField()
-    klasa = ForeignKeyField(Klasa, related_name='numer')
-    egzhum = FloatField(default=0)
-    egzmat = FloatField(default=0)
-    egzjez = FloatField(default=0)
-    
-
-class Przedmiot(BazaModel):
-    przedmiot = CharField()
-    nazwisko_naucz = CharField()
-    imie_naucz = CharField()
-    plec_naucz = BooleanField()
-    
-    
-class Ocena(BazaModel):
-    datad = DateField()
-    uczen = ForeignKeyField(Uczen, related_name='wyniki')
-    przedmiot = ForeignKeyField(Przedmiot, related_name='cos')
-    ocena = IntegerField()
-    
+        wpisy = dane_z_pliku(plik + '.csv')
+        print(wpisy)
+        model.insert_many(wpisy, fields=pola).execute()
+        
+        #model.insert_many()
 
 def main(args):
     if os.path.exists(baza_plik):
         os.remove(baza_plik)
-    baza.connect() #połaczenie z bazą
+    baza.connect() # połączeie z bazą
     baza.create_tables([Klasa, Uczen, Przedmiot, Ocena])
+    
+    dane = {
+        Klasa: 'klasy',
+        Uczen: 'uczniowie',
+        Przedmiot: 'przedmioty',
+        Ocena: 'oceny',
+    }
+    dodaj_dane(dane)
+    baza.close()
     return 0
-
 
 if __name__ == '__main__':
     import sys
-    sys.exit(main(sys.argv))
+sys.exit(main(sys.argv))

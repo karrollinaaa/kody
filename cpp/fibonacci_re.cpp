@@ -22,7 +22,7 @@ int main(int argc, char **argv)
     
     for (int i = 0; i <= n; i++) {
         cout << fibonacci_re(i) << " ";
-        if ( i == 0) continue;
+        if ( i < 2) continue;
         else {
             cout << (float)fibonacci_re(i) / (float)fibonacci_re(i-1) << endl;
         }
