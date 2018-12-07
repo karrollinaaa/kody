@@ -17,6 +17,9 @@ def hello():
 def strona():
     return render_template('strona.html')
 
+@app.route("/klasa")
+def klasa():
+    return render_template('klasa.html')
 print(__name__)
 
 
