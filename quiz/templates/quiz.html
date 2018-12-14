@@ -2,8 +2,6 @@
 <html lang="pl">
 <!--
    strona.html
-   
-   
 -->
 
 <head>
@@ -13,7 +11,13 @@
 </head>
 
 <body>
-    <h1>Witam serdecznie</h1>
+    <h1>Quiz</h1>
+    <h2>Pytania</h2>
+    {% for p in query %}
+    <p>
+        {{ p.id }} {{ p.pytanie }}
+    </p>
+    {% endfor %}
 </body>
 
 </html>

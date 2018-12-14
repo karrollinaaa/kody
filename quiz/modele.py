@@ -1,26 +1,32 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+#
+#  modele.py
+
 from peewee import *
-import os
 
-baza_plik = 'test.db'
-baza = SqliteDatabase(baza_plik) #instancja bazy
+baza_plik = 'quiz.db'
+baza = SqliteDatabase(baza_plik)  # instancja bazy
 
-### MODELE DANYCH
+### MODELE #
 class BazaModel(Model):
     class Meta:
         database = baza
-    
-        
+
 class Kategoria(BazaModel):
-    kategoria = CharField()
+    kategoria = CharField(null=False)
 
 class Pytanie(BazaModel):
-    pytanie = CharField()
-    kat = ForeignKeyField(Kategoria, related_name='kategoria')
+    pytanie = CharField(null=False)
+    kategoria = ForeignKeyField(Kategoria, related_name='pytania')
 
 class Odpowiedz(BazaModel):
-    p = ForeignKeyField(Pytanie, related_name='pytanie')
-    odpowiedz = CharField()
-    odpok = FloatField(default=0)
+    odpowiedz = CharField(null=False)
+    pytanie = ForeignKeyField(Pytanie, related_name='odpowiedzi')
+    odpok = IntegerField(default=0)
 
+
+
+if __name__ == '__main__':
+    import sys
+    sys.exit(main(sys.argv))
