@@ -1,14 +1,16 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-#  quiz.py 
+#  quiz.py
 #  
-
-from flask import Flask, g
-from flask import render_template, request
+from flask import g
 from modele import *
+from views import *
 
-app = Flask(__name__)
+# konfiguracja aplikacji
+app.config.update(dict(
+    SECRET_KEY='kjlsdajhksdfjkhnjksdfkjsdcjkcszd',
+))
 
 @app.before_request
 def before_request():
@@ -19,25 +21,6 @@ def before_request():
 def after_request(response):
     g.db.close()
     return response
-
-@app.route("/")
-def hello():
-    return "<h1>Witaj Świecie!</h1><h2>Aplikacja Quiz</h2>" 
-
-@app.route("/lista")
-def lista():
-    pytania = Pytanie.select()
-    return render_template('lista.html', query = pytania)
-    
-@app.route("/quiz")
-def quiz():
-    pytania = Pytanie.select().join(Odpowiedz).distinct()
-    return render_template('quiz.html', query = pytania)
-
-@app.route("/klasa")
-def klasa():
-    return render_template('klasa.html')
-print(__name__)
 
 
 if __name__ == '__main__':
