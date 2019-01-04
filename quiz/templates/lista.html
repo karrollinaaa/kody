@@ -1,23 +1,11 @@
-<!DOCTYPE html>
-<html lang="pl">
-<!--
-   strona.html
--->
+{% extends "szablon.html" %}
+{% block tytuł %}Quiz - lista pytań{% endblock %}
+{% block h1 %}Quiz - lista pytań{% endblock %}
 
-<head>
-<meta charset="utf-8" />
-<title>Moja strona</title>
-<meta name="generator" content="Geany 1.32" />
-</head>
-
-<body>
-    <h1>Quiz</h1>
-    <h2>Pytania</h2>
+{% block treść %}
     {% for p in query %}
     <p>
         {{ p.id }} {{ p.pytanie }}
     </p>
     {% endfor %}
-</body>
-
-</html>
+{% endblock %} 

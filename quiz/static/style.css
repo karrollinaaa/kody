@@ -1,4 +1,2 @@
-body {
-    color: black;
-    background-color: pink;
-}
+#menu li { display: inline; }
+.info { color: pink; font-weight: bold; }

@@ -1,29 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<!--
-   index.html
-   
--->
+{% extends "szablon.html" %}
+{% block tytul %}Strona główna{% endblock %}
+{% block h1 %}Quiz{% endblock %}
+{% block tresc %}
 
-<head>
-<meta charset="utf-8" />
-<title>Quiz - pytania bez ściemy</title>
-    <style type="text/css">
-        #menu li { display: inline; }
-    </style>
-</head>
-
-<body>
-    <ul>
-        <li><a href="{{ url_for('index') }}">Strona główna</a></li>
-        <li><a href="{{ url_for('lista') }}">Lista pytań</a></li>
-        <li><a href="{{ url_for('quiz') }}">Quiz</a></li>
-        <li><a href="#">Dodaj pytanie</a></li>
-       
-    </ul>
-    
-    <h1>Quiz dla odważnych</h1>
-    
     <div id="komunikaty">
         {% with komunikaty = get_flashed_messages(with_categories=true) %}
         {% if komunikaty %}
@@ -33,7 +12,4 @@
         {% endif %}
         {% endwith %}
     </div>
-    
-</body>
-
-</html>
+{% endblock %}
