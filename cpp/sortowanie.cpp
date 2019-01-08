@@ -1,71 +1,136 @@
 /*
  * sortowanie.cpp
- * 
- * Copyright 2018  <>
  */
 
-
 #include <iostream>
+#include <cstdlib>
+
 using namespace std;
 
-void wypelnij_los(int tab[], int roz)
-{   
-    srand(time(NULL));  // inicjacja generatora pseudolosowych
-    
-    for (int i = 0; i < roz; i++){
-        tab[i] = rand() % 101;  
+void los(int tab[], int rozmiar)
+{
+    srand(time(NULL));  // inicjacja generatoraliczb pseudolosowych
+    for(int i = 0; i < rozmiar; i++)
+    {
+        tab[i] = rand() % 101;
     }
 }
 
-void drukuj(int tab[], int roz)
-{    
-    for (int i = 0; i < roz; i++){
+void drukuj(int tab[], int rozmiar)
+{
+    for(int i = 0; i < rozmiar; i++)
+    {
         cout << tab[i] << ' ';
     }
 }
 
-void zamien(int &a, int &b) {
-    int tmp = a;
-    a = b;
-    b = tmp;
-    
-}
+//~ void zamien(int &a, int &b)
+//~ {
+    //~ int tmp; //zmienna pomocnicza
+    //~ tmp = a;
+    //~ a = b;
+    //~ b = tmp;
+//~ }
 
-void zamien2(int tab[], int i) {
-    int tmp = tab[i]
+void zamien(int tab[], int i)
+{
+    int tmp = tab[i];
     tab[i] = tab[i+1];
     tab[i+1] = tmp;
 }
 
-void sort_bubble(int tab[], int n)
+void sort_bubble1(int tab[],int n)
 {
-    cout << "\nSortowanie bąbelkowe\n";
-    for (int j = n - 1; j > 0; j--) {
-        for (int i = 0; i < j; i++) {
-            licznik++;
-            if (tab[i] > tab[i+1])
-                //zamien(tab[i], tab[i+1]);
-                zamien2(tab, i);
+    int licznik = 0;
+    cout << "\nSortowanie bąbelkowe rosnące" << endl;
+    for(int j = n - 1; j > 0; j--)
+    {
+        for(int i = 0; i <  j; i++)  // pętla wewnętrzna
+        {
+            if(tab[i] > tab[i+1])
+            {
+                // zamiana miejscami
+                zamien(tab, i);
+            }
+            licznik ++;
         }
     }
-    cout << "\npowtórzeń: " << licznik << endl; 
+    cout << "Liczba porównań: " << licznik << endl;
+}
+
+void sort_bubble2(int tab[],int n)
+{
+    int licznik = 0;
+    cout << "\nSortowanie bąbelkowe malejące" << endl;
+    for(int j = n - 1; j > 0; j--)
+    {
+        for(int i = 0; i <  j; i++)  // pętla wewnętrzna
+        {
+            licznik ++;
+            if(tab[i] < tab[i+1])
+            {
+                // zamiana miejscami
+                zamien(tab, i);
+            }
+        }
+    }
+    cout << "Liczba porównań: " << licznik << endl;
+}
+
+void sort_insert(int tab[], int n)
+{
+    cout << "\nSortowanie przez wstawianie" << endl;
+    int i, j, tmp;
+    int licznik = 0;
+    for(i = 1; i < n; i++)  // pętla wybiera elementy zaczynając od drugiego
+    {
+        tmp = tab[i];
+        j = i - 1;
+        while(j >= 0 && tab[j] >tmp)
+        {
+            tab[j+1] = tab[j];
+            j--;
+            licznik ++;
+        }
+        tab[j+1] = tmp;
+    }
+    cout << "Liczba porównań: " << licznik << endl;
+}
+
+void sort(int tab[], int n)
+{
+    int licznik = 0;
+    cout << "\nSortowanie przez wybór" << endl;
+    for(int i = 0; i < n; i++)
+    {
+        int k = i;
+        for(int j = i + 1; j < n; j++)
+        {
+            if(tab[j] < tab[k])
+            {
+                zamien(tab, j);
+            }
+            licznik ++;
+        }
+    }
+    cout << "Liczba porównań: " << licznik << endl;
 }
 
 int main(int argc, char **argv)
 {
-	int rozmiar = 20;
-    int tablica[rozmiar]; //statyczna deklaracja tablicy
-    wypelnij_los(tablica, rozmiar);
+    int rozmiar = 10;
+    int tablica[rozmiar];  // statyczna deklaracja tablicy
+    los(tablica, rozmiar);
     drukuj(tablica, rozmiar);
-    
-    //int a = 10;
-    //int b = 20;
-    //zamien(a, b);
-    //cout << a << " " << b;
     cout << endl;
-    sort_bubble(tablica, rozmiar);
+    sort_bubble1(tablica, rozmiar);  // sortowanie rosnąco
+    drukuj(tablica, rozmiar);
+    sort_bubble2(tablica, rozmiar);  // sortowanie malejąco
+    drukuj(tablica, rozmiar);
+    sort_insert(tablica, rozmiar);
+    drukuj(tablica, rozmiar);
+    sort(tablica, rozmiar);
     drukuj(tablica, rozmiar);
     
-	return 0;
+    return 0;
 }
-
