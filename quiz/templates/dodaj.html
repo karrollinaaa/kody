@@ -1,0 +1,21 @@
+{% extends "szablon.html" %}
+{% block tytul %}Quiz - dodaj pytania{% endblock %}
+{% block h1 %}Dodaj pytanie{% endblock %}
+{% block tresc %}
+    
+    <form method='POST'>
+
+
+    {{ form.pytanie.label }} <br>
+    {{ form.pytanie }} <br>
+    <br>
+    
+    {{ form.katregoria.label }} <br>
+    {{ form.kategoria(class="form-control") }} <br>
+    <br>
+
+    
+    
+    <input type="submit" value="Zapisz pytanie">
+    </form>
+{% endblock %}
