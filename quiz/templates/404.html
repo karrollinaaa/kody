@@ -1,7 +1,12 @@
 {% extends "szablon.html" %}
-{% block tytul %}Strony nie znaleziono{% endblock %}
-{% block h1 %}bład{% endblock %}
+{% block tytul %}Quiz – strony nie znaleziono{% endblock %}
+{% block h1 %}Quiz – błąd{% endblock %}
 
 {% block tresc %}
-Przepraszamy, wystąpił błąd. 
+<div class="alert alert-warning">
+    <h3>Przepraszamy, wystąpił błąd.</h3>
+    <p>
+        <a href="{{ url_for('index') }}">Strona główna</a>
+    </p>
+</div>
 {% endblock %}

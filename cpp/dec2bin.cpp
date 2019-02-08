@@ -28,22 +28,15 @@ void any2dec(int tab[]) {
             cin >> podstawa;
     } while(podstawa < 2 || podstawa > 9);
     
-    int ile = 0;
-    cout << "ile cyfr?";
-    cin >> ile;
-    for (int i = 0; i < ile; i++)
-        do {
-            cout << "podaj cyfre [0-" << podstawa-1 << "]: ";
-            cin >> tab[i];
-        } while (tab[i] < 0 || tab[i] > podstawa-1);
-        
+    cout << "podstawa [2, 16]: ";
+    cin.getline(liczba, 8);
+    
     int liczba10 = 0;
-    for (int i = 0; i < ile; i++) {
-        liczba10 = liczba10 + pow(podstawa, ile-1);
-        ile--;
+    int i  = 0;
+    while (liczba[i] != '\0') {
+        liczba 10 += tab[i]
     }
-    cout << "wynik: " << liczba10;
-}
+    
 
 
 int main(int argc, char **argv)
@@ -55,7 +48,7 @@ int main(int argc, char **argv)
     int i = dec2any(liczba, podstawa, tab);
     cout << "Wynik: ";
     while (i > -1) {
-        if  (podstawa > 10)
+        if  (podstawa > 10 && tab[i] > 10)
             cout << (char)cyfry[tab[i]];
         else
             cout << tab[i];
