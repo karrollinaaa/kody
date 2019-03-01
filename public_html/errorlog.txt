@@ -1,0 +1,1 @@
+[01-Mar-2019 08:24:53 Europe/Warsaw] PHP Notice:  Undefined variable: tytul in /home/kl2ag1/public_html/inc/template.php on line 10
