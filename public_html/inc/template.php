@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title><?php echo $tytul; ?></title>
+    <title><?php get_page_title($id); ?></title>
 
     <!-- Bootstrap core CSS -->
     <link href="static/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -50,6 +50,7 @@
           <div class="col-lg-8 mx-auto">
             <?php
                 get_koms();
+                $user->get_koms();
                 get_page_content($id);
             ?>
           </div>

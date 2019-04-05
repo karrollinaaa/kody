@@ -8,14 +8,17 @@ ini_set('error_log', 'errorlog.txt');
 
 define('DINC', 'inc/');
 define('DBASE', 'baza/');
-$dbfile='db.sqlite3';
+$dbfile = 'db.sqlite3';
 $db=null;
-
 require_once(DINC.'functions.php');
 require_once(DINC.'db.php');
 $kom=array();
+
 init_baza(DBASE.$dbfile);
-db_exec($qstr);
+init_tables();
+
+require_once(DINC.'users.php');
+$user = new User(); // tworzenie obiektu użytkownika
 
 if (isset($_GET['id'])) $id=$_GET['id']; else $id='witam';
 
