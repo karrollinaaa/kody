@@ -1,0 +1,1617 @@
+Id_studenta;Imie;Nazwisko;Uczelnia;;Miejsce_zam;Rok_studiow;Dochod_na_osobe;kod_pocztowy;miejsce_zam;;kod_pocztowy;miejsce_zam;id_uczelni;id_miasta;
+1;Jadwiga;Baranowska;Uniwersytet Królewski;10;Krosno 80-338;I;2382;80-338;Krosno;;80-338;Krosno;5;89;Aleksandrow Kujawski
+2;Zofia;Chorzowska;Akademia Sztuk Pięknych;#N/D;Puławy 66-219;II;1549;66-219;Puławy;;66-219;Puławy;1;149;Alwernia
+3;Katarzyna;Bilska;Uniwersytet Królewski;10;Lubliniec 14-322;I;3037;14-322;Lubliniec;;14-322;Lubliniec;5;104;Baborów
+4;Michal;Rada;Politechnika Królewska;10;Głuchołazy 30-136;II;1712;30-136;Głuchołazy;;30-136;Głuchołazy;3;45;Barlinek
+5;Pawel;Milek;Politechnika Informatyczno-Elektroniczna;10;Koniaków 34-607;IV;1459;34-607;Koniaków;;34-607;Koniaków;2;82;Barwinek
+6;Marcin;Biernat;Politechnika Królewska;10;Kogutek 99-754;I;931;99-754;Kogutek;;99-754;Kogutek;3;80;Bezledy
+7;Gracja;Bijakowska;Politechnika Informatyczno-Elektroniczna;10;Racibórz 00-355;V;1482;00-355;Racibórz;;00-355;Racibórz;2;153;Będzin
+8;Wojciech;Zaluski;Politechnika Królewska;10;Jejkowice 67-738;II;2141;67-738;Jejkowice;;67-738;Jejkowice;3;63;Biała Podlaska
+9;Martyn;Kowalski;Uniwersytet Królewski;10;Mikołów 96-497;V;2713;96-497;Mikołów;;96-497;Mikołów;5;116;Białaszewo
+10;Jolanta;Ochala;Uniwersytet Królewski;10;Rybnik 24-983;V;3332;24-983;Rybnik;;24-983;Rybnik;5;158;Białystok
+11;Przemyslaw;Planeta;Akademia Sztuk Pięknych;#N/D;Będzin 69-501;V;444;69-501;Będzin;;69-501;Będzin;1;7;Bielsk Podlaski
+12;Barbara;Michalska;Politechnika Królewska;10;Ruda Sląska 12-684;I;2368;12-684;Ruda Sląska;;12-684;Ruda Sląska;3;157;Bochnia
+13;Kamil;Berakacz;Politechnika Informatyczno-Elektroniczna;10;Krapkowice 94-560;I;1765;94-560;Krapkowice;;94-560;Krapkowice;2;87;Bożewo
+14;Teresa;Kuc;Uniwersytet Królewski;10;Jaworzno 98-650;II;2602;98-650;Jaworzno;;98-650;Jaworzno;5;61;Brańsk
+15;Matylda;Zielinska;Uniwersytet Sportu i Turystyki;10;Wisła 99-436;I;2949;99-436;Wisła;;99-436;Wisła;9;202;Brzeg Dolny
+16;Wieslawa;Babiarz;Uniwersytet Królewski;10;Oświęcim 27-702;II;1576;27-702;Oświęcim;;27-702;Oświęcim;5;135;Brzesko
+17;Natalia;Barton;Wyższa Szkoła Techniczna;10;Sosnowiec 14-721;I;409;14-721;Sosnowiec;;14-721;Sosnowiec;10;170;Bydgoszcz
+18;Alojzy;Wolak;Uniwersytet Sportu i Turystyki;10;Rybnik 24-983;IV;1767;24-983;Rybnik;;24-983;Rybnik;9;158;Bytom
+19;Daniel;Lisiecki;Uniwersytet Królewski;10;Szczyrk 75-361;I;1867;75-361;Szczyrk;;75-361;Szczyrk;5;180;Chalupki
+20;Adam;Bzinkowski;Politechnika Królewska;10;Rzeszów 89-735;I;782;89-735;Rzeszów;;89-735;Rzeszów;3;159;Chełm
+21;Andrzej;Tokarski;Uniwersytet Królewski;10;Piotrków Trybunalski 04-419;I;2580;04-419;Piotrków Trybunalski;;04-419;Piotrków Trybunalski;5;140;Chorzów
+22;Gabriela;Kolska;Uniwersytet Królewski;10;Mysłowice 13-220;I;1111;13-220;Mysłowice;;13-220;Mysłowice;5;121;Chyżne
+23;Bogumila;Kolodziej;Uniwersytet Królewski;10;Nowy Targ 84-043;II;630;84-043;Nowy Targ;;84-043;Nowy Targ;5;125;Ciechanów
+24;Augustyna;Swierkowska;Uniwersytet Sportu i Turystyki;10;Rajcza 18-286;IV;1489;18-286;Rajcza;;18-286;Rajcza;9;155;Ciechocinek
+25;Tomasz;Tutaj;Politechnika Informatyczno-Elektroniczna;10;Chyżne 76-235;II;3079;76-235;Chyżne;;76-235;Chyżne;2;22;Cieszyn
+26;Sylwester;Jarecki;Uniwersytet Muzyczny;10;Sanok 71-890;IV;3222;71-890;Sanok;;71-890;Sanok;6;160;Częstochowa
+27;Antoni;Banakiewicz;Politechnika Królewska;10;Wisła 99-436;I;1003;99-436;Wisła;;99-436;Wisła;3;202;Daszyna
+28;Piotr;Skiba;Politechnika Królewska;10;Limanowa 65-385;III;2917;65-385;Limanowa;;65-385;Limanowa;3;100;Dąbrowa Górnicza
+29;Lidia;Kazdron;Politechnika Królewska;10;Wojkowice 84-273;III;2646;84-273;Wojkowice;;84-273;Wojkowice;3;207;Debrzno
+30;Karol;Krol;Uniwersytet Pedagogiczny;10;Brzesko 96-703;I;365;96-703;Brzesko;;96-703;Brzesko;7;16;Dębica
+31;Beata;Kotlarska;Politechnika Królewska;10;Sośnicowice 15-658;I;1638;15-658;Sośnicowice;;15-658;Sośnicowice;3;171;Dęblin
+32;Jan;Tyranowski;Uniwersytet Królewski;10;Katowice 72-241;III;3333;72-241;Katowice;;72-241;Katowice;5;71;Dębowiec
+33;Celina;Koral;Politechnika Królewska;10;Gierałtowice 04-834;V;1242;04-834;Gierałtowice;;04-834;Gierałtowice;3;42;Długopole-Zdrój
+34;Jacek;Witebski;Uniwersytet Królewski;10;Częstochowa 86-116;I;1168;86-116;Częstochowa;;86-116;Częstochowa;5;26;Dobieszowice
+35;Karol;Kedzierski;Politechnika Królewska;10;Łomża 22-623;III;1374;22-623;Łomża;;22-623;Łomża;3;108;Dobre Miasto
+36;Bartosz;Samek;Politechnika Informatyczno-Elektroniczna;10;Koniaków 34-607;I;543;34-607;Koniaków;;34-607;Koniaków;2;82;Dzierżoniów
+37;Natalia;Goral;Politechnika Królewska;10;Mysłowice 13-220;I;1947;13-220;Mysłowice;;13-220;Mysłowice;3;121;Elbląg
+38;Janusz;Figielski;Uniwersytet Królewski;10;Tomaszów Lubelski 95-084;I;2223;95-084;Tomaszów Lubelski;;95-084;Tomaszów Lubelski;5;189;Ełk
+39;Henryk;Klosinski;Uniwersytet Muzyczny;10;Rabka 30-698;I;1611;30-698;Rabka;;30-698;Rabka;6;152;Gdańsk
+40;Krzysztof;Dyszy;Uniwersytet Ekonomiczny;10;Rybnik 24-983;I;2898;24-983;Rybnik;;24-983;Rybnik;4;158;Gdynia
+41;Barbara;Szelest;Uniwersytet Królewski;10;Mysłowice 13-220;I;1666;13-220;Mysłowice;;13-220;Mysłowice;5;121;Giebło
+42;Monika;Chojecka;Uniwersytet Królewski;10;Kołbaskowo 95-186;I;2124;95-186;Kołbaskowo;;95-186;Kołbaskowo;5;81;Gierałtowice
+43;Elzbieta;Jandura;Uniwersytet Królewski;10;Nysa 72-297;V;1552;72-297;Nysa;;72-297;Nysa;5;126;Gliwice
+44;Roman;Aron;Uniwersytet Królewski;10;Długopole-Zdrój 07-772;I;997;07-772;Długopole-Zdrój;;07-772;Długopole-Zdrój;5;33;Głubczyce
+45;Joanna;Lodziarz;Uniwersytet Królewski;10;Lędziny 27-535;I;602;27-535;Lędziny;;27-535;Lędziny;5;99;Głuchołazy
+46;Martyna;Bobrowska;Politechnika Królewska;10;Iława 70-459;III;1263;70-459;Iława;;70-459;Iława;3;54;Gorki Male
+47;Dominik;Zagajewski;Politechnika Informatyczno-Elektroniczna;10;Sosnowiec 14-721;V;448;14-721;Sosnowiec;;14-721;Sosnowiec;2;170;Gorzów Wielkopolski
+48;Marianna;Lyszkowska;Politechnika Królewska;10;Terespol 22-593;I;2334;22-593;Terespol;;22-593;Terespol;3;188;Gostyń
+49;Anna;Tabor;Politechnika Informatyczno-Elektroniczna;10;Częstochowa 86-116;I;1777;86-116;Częstochowa;;86-116;Częstochowa;2;26;Grudziądz
+50;Marek;Frymarkiewicz;Politechnika Informatyczno-Elektroniczna;10;Węgorzewo 67-547;I;1712;67-547;Węgorzewo;;67-547;Węgorzewo;2;201;Gryfice
+51;Gerard;Graczynski;Uniwersytet Pedagogiczny;10;Rogoźnik 74-768;I;1573;74-768;Rogoźnik;;74-768;Rogoźnik;7;156;Gubin
+52;Stefan;Skoczkowski;Uniwersytet Królewski;10;Sosnowiec 14-721;II;2279;14-721;Sosnowiec;;14-721;Sosnowiec;5;170;Halinów
+53;Gabriela;Kawka;Uniwersytet Sportu i Turystyki;10;Bezledy 75-057;II;2273;75-057;Bezledy;;75-057;Bezledy;9;6;Hrebenne
+54;Klementyna;Bobkowicz;Uniwersytet Królewski;10;Zawiercie 58-922;III;3056;58-922;Zawiercie;;58-922;Zawiercie;5;215;Iława
+55;Artur;Bartoszewicz;Uniwersytet Sportu i Turystyki;10;Sławków 42-081;I;2177;42-081;Sławków;;42-081;Sławków;9;167;Inowrocław
+56;Michal;Grzesiak;Politechnika Informatyczno-Elektroniczna;10;Wrocław 62-182;V;2239;62-182;Wrocław;;62-182;Wrocław;2;209;Istebna
+57;Ewelina;Korpet;Uniwersytet Królewski;10;Ustroń 51-637;V;2204;51-637;Ustroń;;51-637;Ustroń;5;194;Izbica Kujawska
+58;Radomila;Bojka;Uniwersytet Sportu i Turystyki;10;Lędziny 27-535;III;1403;27-535;Lędziny;;27-535;Lędziny;9;99;Jakuszyce
+59;Maciej;Drozdzik;Politechnika Informatyczno-Elektroniczna;10;Szczyrk 75-361;V;1142;75-361;Szczyrk;;75-361;Szczyrk;2;180;Jasło
+60;Jerzy;Przybylski;Uniwersytet Sportu i Turystyki;10;Świętochłowice 38-932;I;979;38-932;Świętochłowice;;38-932;Świętochłowice;9;183;Jastrzębie-Zdrój
+61;Hanna;Baron;Politechnika Królewska;10;Jasło 92-050;I;2509;92-050;Jasło;;92-050;Jasło;3;59;Jaworzno
+62;Teresa;Bajerska;Uniwersytet Sportu i Turystyki;10;Tworóg 62-560;II;3010;62-560;Tworóg;;62-560;Tworóg;9;192;Jaworzynka
+63;Danuta;Bednar;Politechnika Królewska;10;Żywiec 00-137;I;1933;00-137;Żywiec;;00-137;Żywiec;3;220;Jejkowice
+64;Boguslawa;Keta;Politechnika Królewska;10;Będzin 69-501;II;3013;69-501;Będzin;;69-501;Będzin;3;7;Jelenia Góra
+65;Beata;Grabowska;Politechnika Informatyczno-Elektroniczna;10;Ogrodzieniec 82-082;V;2838;82-082;Ogrodzieniec;;82-082;Ogrodzieniec;2;129;Jeżewo
+66;Stefania;Zakrzewska;Politechnika Informatyczno-Elektroniczna;10;Sucha Beskidzka 98-902;II;420;98-902;Sucha Beskidzka;;98-902;Sucha Beskidzka;2;173;Jędrzejów
+67;Anna;Barcikowska;Politechnika Informatyczno-Elektroniczna;10;Lubaczów 60-915;I;3099;60-915;Lubaczów;;60-915;Lubaczów;2;102;Józefów
+68;Tadeusz;Holski;Politechnika Królewska;10;Sośnicowice 15-658;II;1945;15-658;Sośnicowice;;15-658;Sośnicowice;3;171;Julianka
+69;Aleksandra;Drabicka;Uniwersytet Królewski;10;Cieszyn 68-101;I;2163;68-101;Cieszyn;;68-101;Cieszyn;5;25;Kalisz
+70;Igor;Krynicki;Politechnika Informatyczno-Elektroniczna;10;Rajcza 18-286;I;1248;18-286;Rajcza;;18-286;Rajcza;2;155;Karniewo
+71;Boleslaw;Ludziejewski;Politechnika Informatyczno-Elektroniczna;10;Nowy Targ 84-043;I;2979;84-043;Nowy Targ;;84-043;Nowy Targ;2;125;Katowice
+72;Danuta;Wojciechowska;Uniwersytet Królewski;10;Będzin 69-501;V;1298;69-501;Będzin;;69-501;Będzin;5;7;Kety
+73;Katarzyna;Kausek;Uniwersytet Pedagogiczny;10;Strzelce Opolskie 60-596;I;847;60-596;Strzelce Opolskie;;60-596;Strzelce Opolskie;7;172;Kędzierzyn-Koźle
+74;Maria;Swoboda;Politechnika Królewska;10;Leszno 90-272;I;1032;90-272;Leszno;;90-272;Leszno;3;98;Kępice
+75;Witold;Basik;Politechnika Informatyczno-Elektroniczna;10;Dębica 53-306;II;2428;53-306;Dębica;;53-306;Dębica;2;30;Kielce
+76;Brygida;Mika;Politechnika Królewska;10;Tarnobrzeg 85-266;IV;562;85-266;Tarnobrzeg;;85-266;Tarnobrzeg;3;185;Kleszczów
+77;Mariola;Barszczon;Uniwersytet Pedagogiczny;10;Oświęcim 27-702;I;2664;27-702;Oświęcim;;27-702;Oświęcim;7;135;Kłomnice
+78;Karina;Wozniak;Politechnika Informatyczno-Elektroniczna;10;Bielsk Podlaski 96-087;V;2485;96-087;Bielsk Podlaski;;96-087;Bielsk Podlaski;2;11;Kobylin
+79;Michal;Kostrzewa;Politechnika Informatyczno-Elektroniczna;10;Katowice 72-241;III;2267;72-241;Katowice;;72-241;Katowice;2;71;Kobylin-Borzymy
+80;Artur;Duszczyk;Politechnika Informatyczno-Elektroniczna;10;Zawiercie 58-922;I;715;58-922;Zawiercie;;58-922;Zawiercie;2;215;Kogutek
+81;Nikodem;Nowicki;Uniwersytet Sportu i Turystyki;10;Jejkowice 67-738;V;1703;67-738;Jejkowice;;67-738;Jejkowice;9;63;Kołbaskowo
+82;Jadwiga;Borek;Uniwersytet Królewski;10;Nałęczów 83-630;V;1634;83-630;Nałęczów;;83-630;Nałęczów;5;123;Koniaków
+83;Jaroslaw;Firek;Uniwersytet Rolniczy;10;Jasło 92-050;IV;2697;92-050;Jasło;;92-050;Jasło;8;59;Konin
+84;Grzegorz;Podsiadly;Uniwersytet Sportu i Turystyki;10;Świętochłowice 38-932;I;1454;38-932;Świętochłowice;;38-932;Świętochłowice;9;183;Kostrzyn
+85;Wawrzyniec;Kalinowski;Uniwersytet Królewski;10;Ogrodzieniec 82-082;V;875;82-082;Ogrodzieniec;;82-082;Ogrodzieniec;5;129;Koszalin
+86;Boleslaw;Drozdz;Uniwersytet Królewski;10;Poraj 80-436;I;1233;80-436;Poraj;;80-436;Poraj;5;143;Kościan
+87;Korneliusz;Gajos;Politechnika Królewska;10;Otmuchów 69-204;II;1517;69-204;Otmuchów;;69-204;Otmuchów;3;136;Krapkowice
+88;Agnieszka;Muszynska;Uniwersytet Królewski;10;Dąbrowa Górnicza 75-727;I;795;75-727;Dąbrowa Górnicza;;75-727;Dąbrowa Górnicza;5;28;Kraśnik
+89;Alicja;Bankowska;Uniwersytet Królewski;10;Świętochłowice 38-932;I;2913;38-932;Świętochłowice;;38-932;Świętochłowice;5;183;Krosno
+90;Barbara;Boronowska;Akademia Sztuk Pięknych;#N/D;Kielce 04-274;I;874;04-274;Kielce;;04-274;Kielce;1;75;Kruszwica
+91;Ireneusz;Pazdziernik;Politechnika Królewska;10;Koszalin 36-759;II;2759;36-759;Koszalin;;36-759;Koszalin;3;85;Krzeszowice
+92;Maciej;Golec;Politechnika Informatyczno-Elektroniczna;10;Halinów 33-056;II;1906;33-056;Halinów;;33-056;Halinów;2;52;Krzyż Wielkopolski
+93;Maciej;Slomczynski;Uniwersytet Królewski;10;Nowy Targ 84-043;I;710;84-043;Nowy Targ;;84-043;Nowy Targ;5;125;Kudowa-Słone
+94;Tymon;Czarna;Politechnika Królewska;10;Monki 32-544;IV;1051;32-544;Monki;;32-544;Monki;3;119;Kuźnia Raciborska
+95;Janina;Lina;Politechnika Informatyczno-Elektroniczna;10;Racibórz 00-355;I;2968;00-355;Racibórz;;00-355;Racibórz;2;153;Kuźnica Białostocka
+96;Kaja;Kalwas;Uniwersytet Królewski;10;Nowy Sącz 62-813;II;1600;62-813;Nowy Sącz;;62-813;Nowy Sącz;5;124;Legionowo
+97;Anna;Pulka;Uniwersytet Królewski;10;Jaworzno 98-650;I;1600;98-650;Jaworzno;;98-650;Jaworzno;5;61;Legnica
+98;Waclawa;Kasperek;Politechnika Informatyczno-Elektroniczna;10;Grudziądz 43-210;II;2710;43-210;Grudziądz;;43-210;Grudziądz;2;49;Leszno
+99;Cezary;Karpowicz;Politechnika Informatyczno-Elektroniczna;10;Ogrodzieniec 82-082;I;2993;82-082;Ogrodzieniec;;82-082;Ogrodzieniec;2;129;Lędziny
+100;Malgorzata;Balcerzak;Politechnika Informatyczno-Elektroniczna;10;Jaworzynka 56-921;I;748;56-921;Jaworzynka;;56-921;Jaworzynka;2;62;Limanowa
+101;Kacper;Wosik;Politechnika Informatyczno-Elektroniczna;10;Krapkowice 94-560;I;2343;94-560;Krapkowice;;94-560;Krapkowice;2;87;Lódź
+102;Stefan;Biegajski;Politechnika Informatyczno-Elektroniczna;10;Bielsk Podlaski 96-087;II;1837;96-087;Bielsk Podlaski;;96-087;Bielsk Podlaski;2;11;Lubaczów
+103;Tomasz;Jasak;Uniwersytet Królewski;10;Przemyśl 38-959;III;923;38-959;Przemyśl;;38-959;Przemyśl;5;147;Lublin
+104;Witold;Barylkiewicz;Uniwersytet Ekonomiczny;10;Racibórz 00-355;II;632;00-355;Racibórz;;00-355;Racibórz;4;153;Lubliniec
+105;Michal;Bilski;Politechnika Informatyczno-Elektroniczna;10;Kędzierzyn-Koźle 81-133;II;2807;81-133;Kędzierzyn-Koźle;;81-133;Kędzierzyn-Koźle;2;73;Lwówek Sląski
+106;Kazimierz;Sycowski;Uniwersytet Rolniczy;10;Nowy Targ 84-043;I;2331;84-043;Nowy Targ;;84-043;Nowy Targ;8;125;Łazy
+107;Marcin;Bacz;Uniwersytet Pedagogiczny;10;Gorzów Wielkopolski 78-003;I;2973;78-003;Gorzów Wielkopolski;;78-003;Gorzów Wielkopolski;7;47;Łęczyca
+108;Jolanta;Czubacka;Politechnika Informatyczno-Elektroniczna;10;Oświęcim 27-702;I;2385;27-702;Oświęcim;;27-702;Oświęcim;2;135;Łomża
+109;Andrzej;Jurkowski;Politechnika Informatyczno-Elektroniczna;10;Szczyrk 75-361;IV;1487;75-361;Szczyrk;;75-361;Szczyrk;2;180;Malbork
+110;Ireneusz;Alotek;Politechnika Informatyczno-Elektroniczna;10;Mysłowice 13-220;I;3140;13-220;Mysłowice;;13-220;Mysłowice;2;121;Medyka
+111;Janusz;Judycki;Uniwersytet Ekonomiczny;10;Kruszwica 33-294;I;1361;33-294;Kruszwica;;33-294;Kruszwica;4;90;Miechów
+112;Grazyna;Pawlowska;Politechnika Królewska;10;Halinów 33-056;V;2799;33-056;Halinów;;33-056;Halinów;3;52;miejsce_zam
+113;Adam;Sliz;Politechnika Królewska;10;Piwniczna-Zdrój 09-592;I;1077;09-592;Piwniczna-Zdrój;;09-592;Piwniczna-Zdrój;3;141;Międzyrzecz
+114;Damian;Bawicz;Politechnika Królewska;10;Kety 36-844;I;1161;36-844;Kety;;36-844;Kety;3;72;Międzyrzecze
+115;Bronislawa;Wegrzyn;Politechnika Królewska;10;Radom 43-586;IV;2404;43-586;Radom;;43-586;Radom;3;154;Mikołajki
+116;Jaromir;Gonczyk;Politechnika Informatyczno-Elektroniczna;10;Radom 43-586;III;2523;43-586;Radom;;43-586;Radom;2;154;Mikołów
+117;Amadeusz;Toborek;Politechnika Królewska;10;Jędrzejów 62-049;II;2469;62-049;Jędrzejów;;62-049;Jędrzejów;3;66;Mirów
+118;Jakub;Socha;Uniwersytet Rolniczy;10;Kielce 04-274;I;2025;04-274;Kielce;;04-274;Kielce;8;75;Młynarze
+119;Katarzyna;Dwornik;Politechnika Informatyczno-Elektroniczna;10;Siewierz 65-885;I;2745;65-885;Siewierz;;65-885;Siewierz;2;164;Monki
+120;Celina;Wisniewska;Politechnika Informatyczno-Elektroniczna;10;Tarnów 87-348;I;822;87-348;Tarnów;;87-348;Tarnów;2;187;Mordy
+121;Konstancja;Raszyn;Politechnika Informatyczno-Elektroniczna;10;Gorki Male 36-984;II;2946;36-984;Gorki Male;;36-984;Gorki Male;2;46;Mysłowice
+122;Edyta;Tomczyk;Uniwersytet Królewski;10;Dęblin 53-807;II;2384;53-807;Dęblin;;53-807;Dęblin;5;31;Myszków
+123;Jerzy;Semeniuk;Politechnika Królewska;10;Zabrze 91-525;I;1482;91-525;Zabrze;;91-525;Zabrze;3;211;Nałęczów
+124;Helena;Maczynska;Uniwersytet Królewski;10;Monki 32-544;I;2171;32-544;Monki;;32-544;Monki;5;119;Nowy Sącz
+125;Jaroslaw;Bajda;Politechnika Informatyczno-Elektroniczna;10;Kłomnice 43-045;I;1182;43-045;Kłomnice;;43-045;Kłomnice;2;77;Nowy Targ
+126;Klemens;Rokosz;Politechnika Królewska;10;Chyżne 76-235;I;667;76-235;Chyżne;;76-235;Chyżne;3;22;Nysa
+127;Jakub;Wtorek;Politechnika Królewska;10;Chorzów 97-545;V;3263;97-545;Chorzów;;97-545;Chorzów;3;21;Oborniki
+128;Adrianna;Brzezinska;Politechnika Królewska;10;Sosnowiec 14-721;III;2913;14-721;Sosnowiec;;14-721;Sosnowiec;3;170;Ogrodniki
+129;Karol;Binski;Politechnika Królewska;10;Wadowice 47-222;I;2497;47-222;Wadowice;;47-222;Wadowice;3;195;Ogrodzieniec
+130;Iwona;Nyska;Uniwersytet Królewski;10;Katowice 72-241;I;2169;72-241;Katowice;;72-241;Katowice;5;71;Olkusz
+131;Cecylia;Czylok;Uniwersytet Królewski;10;Kędzierzyn-Koźle 81-133;I;828;81-133;Kędzierzyn-Koźle;;81-133;Kędzierzyn-Koźle;5;73;Olsztyn
+132;Mateusz;Antoniak;Politechnika Królewska;10;Bytom 80-339;I;2699;80-339;Bytom;;80-339;Bytom;3;18;Olszyna
+133;Adam;Kaleta;Uniwersytet Królewski;10;Mysłowice 13-220;I;1446;13-220;Mysłowice;;13-220;Mysłowice;5;121;Opole
+134;Michal;Salacinski;Politechnika Informatyczno-Elektroniczna;10;Lublin 79-726;II;1608;79-726;Lublin;;79-726;Lublin;2;103;Ostrołęka
+135;Krzysztof;Krzesinski;Uniwersytet Rolniczy;10;Kety 36-844;I;2586;36-844;Kety;;36-844;Kety;8;72;Oświęcim
+136;Zofia;Gorajska;Politechnika Królewska;10;Olkusz 19-255;II;2428;19-255;Olkusz;;19-255;Olkusz;3;130;Otmuchów
+137;Janusz;Aleksandrowicz;Politechnika Informatyczno-Elektroniczna;10;Gdynia 13-179;I;2701;13-179;Gdynia;;13-179;Gdynia;2;40;Piechowice
+138;Danuta;Zasada;Politechnika Informatyczno-Elektroniczna;10;Nowy Sącz 62-813;I;525;62-813;Nowy Sącz;;62-813;Nowy Sącz;2;124;Pila
+139;Aleksander;Rutkowski;Politechnika Informatyczno-Elektroniczna;10;Zakopane 00-995;IV;560;00-995;Zakopane;;00-995;Zakopane;2;212;Pilica
+140;Karina;Mikolajczak;Politechnika Informatyczno-Elektroniczna;10;Kruszwica 33-294;I;642;33-294;Kruszwica;;33-294;Kruszwica;2;90;Piotrków Trybunalski
+141;Aleksy;Pobereznik;Politechnika Informatyczno-Elektroniczna;10;Jaworzno 98-650;III;3152;98-650;Jaworzno;;98-650;Jaworzno;2;61;Piwniczna-Zdrój
+142;Beata;Domnicz;Politechnika Królewska;10;Dzierżoniów 87-324;V;3177;87-324;Dzierżoniów;;87-324;Dzierżoniów;3;36;Płock
+143;Juliusz;Blazowski;Politechnika Informatyczno-Elektroniczna;10;Brańsk 29-325;IV;3144;29-325;Brańsk;;29-325;Brańsk;2;14;Poraj
+144;Kacper;Stachowicz;Uniwersytet Królewski;10;Sucha Beskidzka 98-902;II;775;98-902;Sucha Beskidzka;;98-902;Sucha Beskidzka;5;173;Poznań
+145;Paulina;Lewinska;Uniwersytet Królewski;10;Przemyśl 38-959;I;714;38-959;Przemyśl;;38-959;Przemyśl;5;147;Prudnik
+146;Krzysztof;Wroblewski;Politechnika Informatyczno-Elektroniczna;10;Piotrków Trybunalski 04-419;I;919;04-419;Piotrków Trybunalski;;04-419;Piotrków Trybunalski;2;140;Przasnysz
+147;Jan;Bieniek;Uniwersytet Królewski;10;Rogoźnik 74-768;I;805;74-768;Rogoźnik;;74-768;Rogoźnik;5;156;Przemyśl
+148;Magdalena;Wawrzyn;Politechnika Informatyczno-Elektroniczna;10;Lędziny 27-535;I;1189;27-535;Lędziny;;27-535;Lędziny;2;99;Pszczyna
+149;Marek;Bakucha;Akademia Sztuk Pięknych;#N/D;Szczyrk 75-361;I;3313;75-361;Szczyrk;;75-361;Szczyrk;1;180;Puławy
+150;Teofil;Chudy;Politechnika Informatyczno-Elektroniczna;10;Mikołów 96-497;II;2530;96-497;Mikołów;;96-497;Mikołów;2;116;Pyrzowice
+151;Krzysztof;Rosiewicz;Politechnika Królewska;10;Ogrodzieniec 82-082;I;680;82-082;Ogrodzieniec;;82-082;Ogrodzieniec;3;129;Pyrzyce
+152;Mikolaj;Jozwiak;Politechnika Królewska;10;Gierałtowice 04-834;I;1880;04-834;Gierałtowice;;04-834;Gierałtowice;3;42;Rabka
+153;Olga;Berus;Politechnika Informatyczno-Elektroniczna;10;Jaworzynka 56-921;I;2791;56-921;Jaworzynka;;56-921;Jaworzynka;2;62;Racibórz
+154;Halina;Haczyk;Uniwersytet Królewski;10;Pszczyna 53-858;V;3243;53-858;Pszczyna;;53-858;Pszczyna;5;148;Radom
+155;Sebastian;Lewandowski;Uniwersytet Ekonomiczny;10;Sosnowiec 14-721;II;1434;14-721;Sosnowiec;;14-721;Sosnowiec;4;170;Rajcza
+156;Barbara;Kotwicka;Uniwersytet Królewski;10;Łęczyca 16-385;V;2308;16-385;Łęczyca;;16-385;Łęczyca;5;107;Rogoźnik
+157;Jerzy;Bolkowicz;Politechnika Królewska;10;Rybnik 24-983;I;2451;24-983;Rybnik;;24-983;Rybnik;3;158;Ruda Sląska
+158;Michal;Wojciechowski;Politechnika Informatyczno-Elektroniczna;10;Świecko 47-842;V;2423;47-842;Świecko;;47-842;Świecko;2;181;Rybnik
+159;Inga;Barskacz;Politechnika Informatyczno-Elektroniczna;10;Sławków 42-081;I;2848;42-081;Sławków;;42-081;Sławków;2;167;Rzeszów
+160;Jerzy;Lubec;Politechnika Informatyczno-Elektroniczna;10;Sławków 42-081;I;1599;42-081;Sławków;;42-081;Sławków;2;167;Sanok
+161;Malgorzata;Szulim;Politechnika Informatyczno-Elektroniczna;10;Dębowiec 36-478;I;1899;36-478;Dębowiec;;36-478;Dębowiec;2;32;Siedlce
+162;Marcin;Hebda;Politechnika Informatyczno-Elektroniczna;10;Rabka 30-698;I;2725;30-698;Rabka;;30-698;Rabka;2;152;Siemianowice Sląskie
+163;Andrzej;Wieczorek;Politechnika Królewska;10;Sanok 71-890;III;2555;71-890;Sanok;;71-890;Sanok;3;160;Sieradz
+164;Jan;Babul;Uniwersytet Królewski;10;Żywiec 00-137;I;2720;00-137;Żywiec;;00-137;Żywiec;5;220;Siewierz
+165;Kinga;Myszograj;Politechnika Królewska;10;Pszczyna 53-858;IV;2155;53-858;Pszczyna;;53-858;Pszczyna;3;148;Skierniewice
+166;Grazyna;Chrust;Politechnika Informatyczno-Elektroniczna;10;Częstochowa 86-116;I;792;86-116;Częstochowa;;86-116;Częstochowa;2;26;Skorogoszcz
+167;Dorota;Pietrowicz;Politechnika Informatyczno-Elektroniczna;10;Wadowice 47-222;I;1071;47-222;Wadowice;;47-222;Wadowice;2;195;Sławków
+168;Hanna;Wrona;Politechnika Informatyczno-Elektroniczna;10;Szczekociny 66-008;V;1493;66-008;Szczekociny;;66-008;Szczekociny;2;179;Sobotka
+169;Janusz;Wysocki;Uniwersytet Rolniczy;10;Chorzów 97-545;I;1191;97-545;Chorzów;;97-545;Chorzów;8;21;Sopot
+170;Adam;Baryla;Politechnika Królewska;10;Ciechocinek 98-839;I;1347;98-839;Ciechocinek;;98-839;Ciechocinek;3;24;Sosnowiec
+171;Szymon;Duda;Uniwersytet Królewski;10;Zabrodzie 71-608;I;1160;71-608;Zabrodzie;;71-608;Zabrodzie;5;210;Sośnicowice
+172;Anna;Bialowas;Uniwersytet Pedagogiczny;10;Szczekociny 66-008;I;1544;66-008;Szczekociny;;66-008;Szczekociny;7;179;Strzelce Opolskie
+173;Grzegorz;Szlachcic;Politechnika Królewska;10;Olkusz 19-255;II;2675;19-255;Olkusz;;19-255;Olkusz;3;130;Sucha Beskidzka
+174;Kuba;Hauser;Politechnika Informatyczno-Elektroniczna;10;Mysłowice 13-220;IV;2481;13-220;Mysłowice;;13-220;Mysłowice;2;121;Suraż
+175;Dariusz;Adamus;Politechnika Informatyczno-Elektroniczna;10;Debrzno 03-065;I;813;03-065;Debrzno;;03-065;Debrzno;2;29;Suwałki
+176;Franciszek;Bielanski;Politechnika Królewska;10;Ogrodzieniec 82-082;IV;3125;82-082;Ogrodzieniec;;82-082;Ogrodzieniec;3;129;Szamotuły
+177;Adam;Konopka;Uniwersytet Królewski;10;Rybnik 24-983;V;1489;24-983;Rybnik;;24-983;Rybnik;5;158;Szczecin
+178;Monika;Lawrynowicz;Uniwersytet Królewski;10;Nowy Targ 84-043;I;2835;84-043;Nowy Targ;;84-043;Nowy Targ;5;125;Szczecinek
+179;Kacper;Fastnacht;Politechnika Informatyczno-Elektroniczna;10;Świętochłowice 38-932;I;998;38-932;Świętochłowice;;38-932;Świętochłowice;2;183;Szczekociny
+180;Roman;Persinski;Politechnika Informatyczno-Elektroniczna;10;Gliwice 11-608;II;1431;11-608;Gliwice;;11-608;Gliwice;2;43;Szczyrk
+181;Piotr;Kuter;Uniwersytet Królewski;10;Sosnowiec 14-721;I;738;14-721;Sosnowiec;;14-721;Sosnowiec;5;170;Świecko
+182;Wojciech;Kujdowicz;Uniwersytet Królewski;10;Legnica 58-930;V;2637;58-930;Legnica;;58-930;Legnica;5;97;Świeradów-Zdrój
+183;Angelika;Merak;Politechnika Królewska;10;Żywiec 00-137;II;415;00-137;Żywiec;;00-137;Żywiec;3;220;Świętochłowice
+184;Anna;Owsianka;Politechnika Informatyczno-Elektroniczna;10;Lwówek Sląski 11-782;III;429;11-782;Lwówek Sląski;;11-782;Lwówek Sląski;2;105;Świnoujskie
+185;Walery;Szurkowski;Uniwersytet Pedagogiczny;10;Brzeg Dolny 14-287;IV;352;14-287;Brzeg Dolny;;14-287;Brzeg Dolny;7;15;Tarnobrzeg
+186;Karol;Kopycki;Uniwersytet Królewski;10;Chorzów 97-545;I;794;97-545;Chorzów;;97-545;Chorzów;5;21;Tarnowskie Góry
+187;Franciszek;Szombierski;Akademia Sztuk Pięknych;#N/D;Wolbrom 46-174;III;698;46-174;Wolbrom;;46-174;Wolbrom;1;208;Tarnów
+188;Ewelia;Michaliska;Politechnika Informatyczno-Elektroniczna;10;Zakopane 00-995;I;2309;00-995;Zakopane;;00-995;Zakopane;2;212;Terespol
+189;Kacper;Slawinski;Uniwersytet Rolniczy;10;Kędzierzyn-Koźle 81-133;III;1901;81-133;Kędzierzyn-Koźle;;81-133;Kędzierzyn-Koźle;8;73;Tomaszów Lubelski
+190;Ewelina;Hassan;Uniwersytet Królewski;10;Kleszczów 18-459;V;2767;18-459;Kleszczów;;18-459;Kleszczów;5;76;Toruń
+191;Arkadiusz;Godowski;Uniwersytet Królewski;10;Białystok 54-632;II;1845;54-632;Białystok;;54-632;Białystok;5;10;Trzebinia
+192;Tymon;Czarnecki;Politechnika Królewska;10;Międzyrzecze 28-079;II;2025;28-079;Międzyrzecze;;28-079;Międzyrzecze;3;114;Tworóg
+193;Alina;Batorek;Uniwersytet Rolniczy;10;Pszczyna 53-858;I;1309;53-858;Pszczyna;;53-858;Pszczyna;8;148;Tychy
+194;Michal;Prazuch;Politechnika Informatyczno-Elektroniczna;10;Kielce 04-274;V;2534;04-274;Kielce;;04-274;Kielce;2;75;Ustroń
+195;Czeslaw;Kos;Uniwersytet Sportu i Turystyki;10;Ogrodzieniec 82-082;I;1980;82-082;Ogrodzieniec;;82-082;Ogrodzieniec;9;129;Wadowice
+196;Jan;Sikorski;Politechnika Informatyczno-Elektroniczna;10;Sośnicowice 15-658;I;2217;15-658;Sośnicowice;;15-658;Sośnicowice;2;171;Walce
+197;Teresa;Polaska;Politechnika Informatyczno-Elektroniczna;10;Warszawa 83-294;II;2771;83-294;Warszawa;;83-294;Warszawa;2;198;Wałbrzych
+198;Damian;Kulesza;Uniwersytet Królewski;10;Rabka 30-698;I;2883;30-698;Rabka;;30-698;Rabka;5;152;Warszawa
+199;Robert;Chochol;Uniwersytet Królewski;10;Kleszczów 18-459;II;1680;18-459;Kleszczów;;18-459;Kleszczów;5;76;Wągrowiec
+200;Anna;ocon;Politechnika Królewska;10;Myszków 91-786;III;3019;91-786;Myszków;;91-786;Myszków;3;122;Wejherowo
+201;Maria;Wolczynska;Uniwersytet Królewski;10;Strzelce Opolskie 60-596;I;1862;60-596;Strzelce Opolskie;;60-596;Strzelce Opolskie;5;172;Węgorzewo
+202;Piotr;Bros;Uniwersytet Królewski;10;Mikołów 96-497;V;2849;96-497;Mikołów;;96-497;Mikołów;5;116;Wisła
+203;Arkadiusz;Bracki;Uniwersytet Ekonomiczny;10;Kędzierzyn-Koźle 81-133;V;2665;81-133;Kędzierzyn-Koźle;;81-133;Kędzierzyn-Koźle;4;73;Witonia
+204;Krzysztof;Checinski;Politechnika Królewska;10;Bydgoszcz 29-199;I;2484;29-199;Bydgoszcz;;29-199;Bydgoszcz;3;17;Włocławek
+205;Wiktor;Gorecki;Politechnika Królewska;10;Pyrzowice 49-345;II;3274;49-345;Pyrzowice;;49-345;Pyrzowice;3;150;Włodowice
+206;Malgorzata;Stojecka;Akademia Sztuk Pięknych;#N/D;Będzin 69-501;I;2932;69-501;Będzin;;69-501;Będzin;1;7;Wodzisław Sląski
+207;Karolina;Anuszewska;Politechnika Królewska;10;Wolbrom 46-174;I;1973;46-174;Wolbrom;;46-174;Wolbrom;3;208;Wojkowice
+208;Janusz;Chmielowski;Uniwersytet Sportu i Turystyki;10;Rybnik 24-983;I;2349;24-983;Rybnik;;24-983;Rybnik;9;158;Wolbrom
+209;Zofia;Bujak;Uniwersytet Rolniczy;10;Ogrodzieniec 82-082;II;2484;82-082;Ogrodzieniec;;82-082;Ogrodzieniec;8;129;Wrocław
+210;Marek;Lichwa;Politechnika Informatyczno-Elektroniczna;10;Hrebenne 37-873;V;2321;37-873;Hrebenne;;37-873;Hrebenne;2;53;Zabrodzie
+211;Bozena;Symanska;Uniwersytet Sportu i Turystyki;10;Zawiercie 58-922;III;873;58-922;Zawiercie;;58-922;Zawiercie;9;215;Zabrze
+212;Zofia;Cedrowska;Uniwersytet Królewski;10;Jędrzejów 62-049;II;805;62-049;Jędrzejów;;62-049;Jędrzejów;5;66;Zakopane
+213;Beata;Kowalczyk;Politechnika Informatyczno-Elektroniczna;10;Będzin 69-501;V;2191;69-501;Będzin;;69-501;Będzin;2;7;Zambrów
+214;Bartlomiej;Stec;Uniwersytet Królewski;10;Bielsk Podlaski 96-087;I;1453;96-087;Bielsk Podlaski;;96-087;Bielsk Podlaski;5;11;Zamość
+215;Katarzyna;Schmidt;Politechnika Informatyczno-Elektroniczna;10;Mysłowice 13-220;IV;2151;13-220;Mysłowice;;13-220;Mysłowice;2;121;Zawiercie
+216;Stefania;Stolowska;Politechnika Królewska;10;Kościan 26-594;II;2867;26-594;Kościan;;26-594;Kościan;3;86;Zgorzelec
+217;Adam;Rabka;Uniwersytet Królewski;10;Radom 43-586;I;510;43-586;Radom;;43-586;Radom;5;154;Zielona Góra
+218;Maciej;Mijak;Uniwersytet Rolniczy;10;Katowice 72-241;V;2408;72-241;Katowice;;72-241;Katowice;8;71;Żory
+219;Piotr;Swiezy;Uniwersytet Królewski;10;Mysłowice 13-220;II;558;13-220;Mysłowice;;13-220;Mysłowice;5;121;Żyrardów
+220;Adrianna;Gorska;Politechnika Informatyczno-Elektroniczna;10;Chełm 37-997;IV;719;37-997;Chełm;;37-997;Chełm;2;20;Żywiec
+221;Beata;Mikolajczyk;Uniwersytet Muzyczny;10;Otmuchów 69-204;I;2862;69-204;Otmuchów;;69-204;Otmuchów;6;136;
+222;Maciej;Buzek;Uniwersytet Królewski;10;Kuźnica Białostocka 81-042;V;1311;81-042;Kuźnica Białostocka;;81-042;Kuźnica Białostocka;5;95;
+223;Katarzyna;Sokolowska;Uniwersytet Królewski;10;Zakopane 00-995;III;2656;00-995;Zakopane;;00-995;Zakopane;5;212;
+224;Jerzy;Kielski;Uniwersytet Królewski;10;Żory 29-724;I;1258;29-724;Żory;;29-724;Żory;5;218;
+225;Roman;Dusza;Politechnika Królewska;10;Chorzów 97-545;V;838;97-545;Chorzów;;97-545;Chorzów;3;21;
+226;Agnieszka;Korandy;Uniwersytet Ekonomiczny;10;Tarnobrzeg 85-266;I;3222;85-266;Tarnobrzeg;;85-266;Tarnobrzeg;4;185;
+227;Joanna;Dymna;Uniwersytet Sportu i Turystyki;10;Chorzów 97-545;I;2137;97-545;Chorzów;;97-545;Chorzów;9;21;
+228;Urszula;Legnicka;Politechnika Informatyczno-Elektroniczna;10;Sopot 77-187;II;468;77-187;Sopot;;77-187;Sopot;2;169;
+229;Krystyna;Sekocinska;Uniwersytet Królewski;10;Terespol 22-593;I;979;22-593;Terespol;;22-593;Terespol;5;188;
+230;Aureliusz;Dabrowski ;Politechnika Informatyczno-Elektroniczna;10;Tarnobrzeg 85-266;II;2910;85-266;Tarnobrzeg;;85-266;Tarnobrzeg;2;185;
+231;Jerzy;Bargiel;Politechnika Informatyczno-Elektroniczna;10;Rajcza 18-286;I;898;18-286;Rajcza;;18-286;Rajcza;2;155;
+232;Tomasz;Broniarz;Politechnika Informatyczno-Elektroniczna;10;Sopot 77-187;III;1123;77-187;Sopot;;77-187;Sopot;2;169;
+233;Lucyna;Sokolowska;Uniwersytet Królewski;10;Kępice 66-251;I;2980;66-251;Kępice;;66-251;Kępice;5;74;
+234;Luiza;Pawlak;Politechnika Królewska;10;Żory 29-724;II;1904;29-724;Żory;;29-724;Żory;3;218;
+235;Weronika;Stroka;Politechnika Królewska;10;Ruda Sląska 12-684;II;2180;12-684;Ruda Sląska;;12-684;Ruda Sląska;3;157;
+236;Walenty;Kaczor;Uniwersytet Sportu i Turystyki;10;Wisła 99-436;II;520;99-436;Wisła;;99-436;Wisła;9;202;
+237;Szymon;Figurski;Uniwersytet Królewski;10;Tworóg 62-560;II;1496;62-560;Tworóg;;62-560;Tworóg;5;192;
+238;Jadwiga;Grobelny;Politechnika Królewska;10;Żory 29-724;III;2635;29-724;Żory;;29-724;Żory;3;218;
+239;Piotr;Nowicki;Politechnika Informatyczno-Elektroniczna;10;Głuchołazy 30-136;IV;1121;30-136;Głuchołazy;;30-136;Głuchołazy;2;45;
+240;Franciszek;Bebenek;Uniwersytet Królewski;10;Tworóg 62-560;I;2572;62-560;Tworóg;;62-560;Tworóg;5;192;
+241;Anna;Trzebnicka;Akademia Sztuk Pięknych;#N/D;Olkusz 19-255;I;1151;19-255;Olkusz;;19-255;Olkusz;1;130;
+242;Adam;Witczak;Uniwersytet Królewski;10;Będzin 69-501;III;735;69-501;Będzin;;69-501;Będzin;5;7;
+243;Natalia;Chlopecka;Politechnika Królewska;10;Piwniczna-Zdrój 09-592;I;2101;09-592;Piwniczna-Zdrój;;09-592;Piwniczna-Zdrój;3;141;
+244;Jacek;Andrzejewski;Uniwersytet Królewski;10;Ruda Sląska 12-684;III;2241;12-684;Ruda Sląska;;12-684;Ruda Sląska;5;157;
+245;Agnieszka;Malbolrska;Politechnika Królewska;10;Chyżne 76-235;I;2814;76-235;Chyżne;;76-235;Chyżne;3;22;
+246;Karolina;Rosiak;Uniwersytet Królewski;10;Gliwice 11-608;I;1417;11-608;Gliwice;;11-608;Gliwice;5;43;
+247;Aneta;Klucha;Uniwersytet Królewski;10;Dąbrowa Górnicza 75-727;I;1165;75-727;Dąbrowa Górnicza;;75-727;Dąbrowa Górnicza;5;28;
+248;Bartosz;Adamiec;Politechnika Królewska;10;Koniaków 34-607;I;2668;34-607;Koniaków;;34-607;Koniaków;3;82;
+249;Piotr;Garncarz;Uniwersytet Królewski;10;Brzeg Dolny 14-287;III;863;14-287;Brzeg Dolny;;14-287;Brzeg Dolny;5;15;
+250;Kamil;Dabrowski;Politechnika Informatyczno-Elektroniczna;10;Chorzów 97-545;I;749;97-545;Chorzów;;97-545;Chorzów;2;21;
+251;Marek;Majchrowicz;Politechnika Królewska;10;Lubliniec 14-322;I;2405;14-322;Lubliniec;;14-322;Lubliniec;3;104;
+252;Olgierd;Dudzinski;Uniwersytet Królewski;10;Poznań 40-853;I;3136;40-853;Poznań;;40-853;Poznań;5;144;
+253;Anna;Sawiciak;Uniwersytet Ekonomiczny;10;Wolbrom 46-174;I;2285;46-174;Wolbrom;;46-174;Wolbrom;4;208;
+254;Paulina;Raszczyk;Uniwersytet Królewski;10;Dęblin 53-807;I;2678;53-807;Dęblin;;53-807;Dęblin;5;31;
+255;Fryderyka;Slowik;Politechnika Informatyczno-Elektroniczna;10;Zgorzelec 79-972;IV;438;79-972;Zgorzelec;;79-972;Zgorzelec;2;216;
+256;Mieszko;Cisna;Uniwersytet Królewski;10;Sosnowiec 14-721;II;3313;14-721;Sosnowiec;;14-721;Sosnowiec;5;170;
+257;Janusz;Waz;Uniwersytet Ekonomiczny;10;Tarnobrzeg 85-266;I;2917;85-266;Tarnobrzeg;;85-266;Tarnobrzeg;4;185;
+258;Wojciech;Bugaj;Politechnika Informatyczno-Elektroniczna;10;Ruda Sląska 12-684;I;2657;12-684;Ruda Sląska;;12-684;Ruda Sląska;2;157;
+259;Marcin;Slomczynski;Uniwersytet Królewski;10;Sośnicowice 15-658;II;1869;15-658;Sośnicowice;;15-658;Sośnicowice;5;171;
+260;Franciszek;Laczynski;Uniwersytet Królewski;10;Wadowice 47-222;V;2881;47-222;Wadowice;;47-222;Wadowice;5;195;
+261;Korneliusz;Adamecki;Wyższa Szkoła Techniczna;10;Sucha Beskidzka 98-902;III;1726;98-902;Sucha Beskidzka;;98-902;Sucha Beskidzka;10;173;
+262;Wawrzyniec;Kozina;Politechnika Informatyczno-Elektroniczna;10;Gdańsk 83-271;I;2700;83-271;Gdańsk;;83-271;Gdańsk;2;39;
+263;Pawel;Wojcicki;Uniwersytet Królewski;10;Rajcza 18-286;V;1981;18-286;Rajcza;;18-286;Rajcza;5;155;
+264;Klemens;Radzik;Uniwersytet Królewski;10;Lublin 79-726;II;672;79-726;Lublin;;79-726;Lublin;5;103;
+265;Karol;Mazurowski;Uniwersytet Królewski;10;Wojkowice 84-273;IV;719;84-273;Wojkowice;;84-273;Wojkowice;5;207;
+266;Krzysztof;Antczak;Uniwersytet Ekonomiczny;10;Gierałtowice 04-834;I;2472;04-834;Gierałtowice;;04-834;Gierałtowice;4;42;
+267;Jerzy;Orowski;Politechnika Królewska;10;Wisła 99-436;III;796;99-436;Wisła;;99-436;Wisła;3;202;
+268;Alicja;Kobus;Politechnika Informatyczno-Elektroniczna;10;Rajcza 18-286;I;2409;18-286;Rajcza;;18-286;Rajcza;2;155;
+269;Adam;Michalak;Uniwersytet Pedagogiczny;10;Sośnicowice 15-658;I;1259;15-658;Sośnicowice;;15-658;Sośnicowice;7;171;
+270;Norbert;Boronski;Politechnika Informatyczno-Elektroniczna;10;Wadowice 47-222;I;1317;47-222;Wadowice;;47-222;Wadowice;2;195;
+271;Seweryn;Wawa;Politechnika Informatyczno-Elektroniczna;10;Kostrzyn 22-864;IV;1309;22-864;Kostrzyn;;22-864;Kostrzyn;2;84;
+272;Renata;Kaluza;Uniwersytet Rolniczy;10;Kuźnia Raciborska 78-122;II;2790;78-122;Kuźnia Raciborska;;78-122;Kuźnia Raciborska;8;94;
+273;Ewa;Berak;Uniwersytet Królewski;10;Gorki Male 36-984;I;2110;36-984;Gorki Male;;36-984;Gorki Male;5;46;
+274;Marcin;Bajdak;Politechnika Królewska;10;Tarnów 87-348;I;2485;87-348;Tarnów;;87-348;Tarnów;3;187;
+275;Iwona;Wegier;Politechnika Informatyczno-Elektroniczna;10;Zawiercie 58-922;I;1344;58-922;Zawiercie;;58-922;Zawiercie;2;215;
+276;Franciszek;Kusch;Uniwersytet Pedagogiczny;10;Dęblin 53-807;V;1802;53-807;Dęblin;;53-807;Dęblin;7;31;
+277;Lukasz;Klos;Uniwersytet Królewski;10;Mikołajki 83-977;III;2482;83-977;Mikołajki;;83-977;Mikołajki;5;115;
+278;Karolina;Weiss;Politechnika Informatyczno-Elektroniczna;10;Legnica 58-930;I;871;58-930;Legnica;;58-930;Legnica;2;97;
+279;Tadeusz;Regulski;Politechnika Informatyczno-Elektroniczna;10;Gryfice 51-783;I;1075;51-783;Gryfice;;51-783;Gryfice;2;50;
+280;Beata;Jasinska;Uniwersytet Rolniczy;10;Siemianowice Sląskie 09-006;I;968;09-006;Siemianowice Sląskie;;09-006;Siemianowice Sląskie;8;162;
+281;Aleksander;Ogonowski;Uniwersytet Rolniczy;10;Koniaków 34-607;I;1229;34-607;Koniaków;;34-607;Koniaków;8;82;
+282;Eleonora;Kosa;Politechnika Informatyczno-Elektroniczna;10;Sanok 71-890;I;455;71-890;Sanok;;71-890;Sanok;2;160;
+283;Adrian;Baka;Politechnika Informatyczno-Elektroniczna;10;Ruda Sląska 12-684;I;3195;12-684;Ruda Sląska;;12-684;Ruda Sląska;2;157;
+284;Czeslawa;Bochenek;Politechnika Królewska;10;Ogrodniki 14-095;I;1883;14-095;Ogrodniki;;14-095;Ogrodniki;3;128;
+285;Tomasz;Leganowski;Politechnika Królewska;10;Bielsk Podlaski 96-087;IV;2018;96-087;Bielsk Podlaski;;96-087;Bielsk Podlaski;3;11;
+286;Sebastian;Adalewski;Akademia Sztuk Pięknych;#N/D;Chalupki 70-071;II;2821;70-071;Chalupki;;70-071;Chalupki;1;19;
+287;Bronislawa;Chmielewska;Uniwersytet Rolniczy;10;Głubczyce 65-458;IV;2931;65-458;Głubczyce;;65-458;Głubczyce;8;44;
+288;Daria;Dyrbusz;Uniwersytet Królewski;10;Alwernia 27-938;I;1779;27-938;Alwernia;;27-938;Alwernia;5;2;
+289;Olga;Gonerska;Uniwersytet Królewski;10;Lędziny 27-535;I;1990;27-535;Lędziny;;27-535;Lędziny;5;99;
+290;Radoslaw;Niedziela;Politechnika Królewska;10;Rabka 30-698;II;2283;30-698;Rabka;;30-698;Rabka;3;152;
+291;Arkadiusz;Sokolowski;Politechnika Królewska;10;Bytom 80-339;I;1964;80-339;Bytom;;80-339;Bytom;3;18;
+292;Zofia;Bylska;Akademia Sztuk Pięknych;#N/D;Dzierżoniów 87-324;II;1822;87-324;Dzierżoniów;;87-324;Dzierżoniów;1;36;
+293;Slawomir;Rojek;Uniwersytet Królewski;10;Płock 04-688;III;1093;04-688;Płock;;04-688;Płock;5;142;
+294;Robert;Pilski;Politechnika Informatyczno-Elektroniczna;10;Ruda Sląska 12-684;II;1756;12-684;Ruda Sląska;;12-684;Ruda Sląska;2;157;
+295;Janina;Bernacik;Uniwersytet Ekonomiczny;10;Katowice 72-241;I;2356;72-241;Katowice;;72-241;Katowice;4;71;
+296;Mateusz;Swierszczynski;Uniwersytet Rolniczy;10;Ustroń 51-637;V;3080;51-637;Ustroń;;51-637;Ustroń;8;194;
+297;Tomasz;Wan;Uniwersytet Królewski;10;Bochnia 89-362;II;1258;89-362;Bochnia;;89-362;Bochnia;5;12;
+298;Alicja;Miskowiec;Politechnika Informatyczno-Elektroniczna;10;Koniaków 34-607;V;2730;34-607;Koniaków;;34-607;Koniaków;2;82;
+299;Piotr;Piwnik;Politechnika Królewska;10;Katowice 72-241;I;1592;72-241;Katowice;;72-241;Katowice;3;71;
+300;Jan;Bator;Politechnika Królewska;10;Katowice 72-241;I;2738;72-241;Katowice;;72-241;Katowice;3;71;
+301;Eleonora;Mrowka;Politechnika Informatyczno-Elektroniczna;10;Kuźnia Raciborska 78-122;I;2064;78-122;Kuźnia Raciborska;;78-122;Kuźnia Raciborska;2;94;
+302;Andrzej;Beki;Politechnika Królewska;10;Tychy 76-939;I;465;76-939;Tychy;;76-939;Tychy;3;193;
+303;Boleslawa;Kucharska;Uniwersytet Królewski;10;Gliwice 11-608;V;1291;11-608;Gliwice;;11-608;Gliwice;5;43;
+304;Wojciech;Fujarewicz;Politechnika Informatyczno-Elektroniczna;10;Zabrze 91-525;II;2125;91-525;Zabrze;;91-525;Zabrze;2;211;
+305;Iwona;Grzybek;Politechnika Królewska;10;Chorzów 97-545;I;787;97-545;Chorzów;;97-545;Chorzów;3;21;
+306;Maria;Zwojec;Uniwersytet Królewski;10;Sosnowiec 14-721;I;2155;14-721;Sosnowiec;;14-721;Sosnowiec;5;170;
+307;Mateusz;Kandora;Uniwersytet Królewski;10;Będzin 69-501;I;3218;69-501;Będzin;;69-501;Będzin;5;7;
+308;Daniel;Barszcz;Uniwersytet Królewski;10;Sanok 71-890;I;2273;71-890;Sanok;;71-890;Sanok;5;160;
+309;Teresa;Grudzinska;Uniwersytet Królewski;10;Świętochłowice 38-932;II;1283;38-932;Świętochłowice;;38-932;Świętochłowice;5;183;
+310;Franciszka;Nowicka;Uniwersytet Królewski;10;Bytom 80-339;II;1863;80-339;Bytom;;80-339;Bytom;5;18;
+311;Karolina;Bajerowicz;Uniwersytet Królewski;10;Nałęczów 83-630;I;1965;83-630;Nałęczów;;83-630;Nałęczów;5;123;
+312;Barbara;Wszedobyl;Uniwersytet Pedagogiczny;10;Chalupki 70-071;I;1182;70-071;Chalupki;;70-071;Chalupki;7;19;
+313;Izolda;Jaros;Politechnika Informatyczno-Elektroniczna;10;Jakuszyce 89-300;I;2207;89-300;Jakuszyce;;89-300;Jakuszyce;2;58;
+314;Grazyna;Gorska;Politechnika Królewska;10;Żyrardów 51-006;V;1453;51-006;Żyrardów;;51-006;Żyrardów;3;219;
+315;Piotr;Kacprzak;Uniwersytet Królewski;10;Bielsk Podlaski 96-087;I;983;96-087;Bielsk Podlaski;;96-087;Bielsk Podlaski;5;11;
+316;Grzegorz;Balon;Politechnika Informatyczno-Elektroniczna;10;Zakopane 00-995;III;917;00-995;Zakopane;;00-995;Zakopane;2;212;
+317;Zdzislawa;Modrzewska;Politechnika Królewska;10;Młynarze 72-438;III;2124;72-438;Młynarze;;72-438;Młynarze;3;118;
+318;Aleksander;Biborski;Politechnika Informatyczno-Elektroniczna;10;Częstochowa 86-116;III;3254;86-116;Częstochowa;;86-116;Częstochowa;2;26;
+319;Dominik;Felinski;Politechnika Informatyczno-Elektroniczna;10;Ogrodzieniec 82-082;V;2842;82-082;Ogrodzieniec;;82-082;Ogrodzieniec;2;129;
+320;Arkadiusz;Maciejewski;Politechnika Informatyczno-Elektroniczna;10;Zamość 99-773;IV;1879;99-773;Zamość;;99-773;Zamość;2;214;
+321;Milosz;Ostrowski;Uniwersytet Królewski;10;Limanowa 65-385;I;978;65-385;Limanowa;;65-385;Limanowa;5;100;
+322;Marzena;Skrzypek;Uniwersytet Sportu i Turystyki;10;Łazy 63-587;V;2409;63-587;Łazy;;63-587;Łazy;9;106;
+323;Tomasz;Krawczyk;Politechnika Informatyczno-Elektroniczna;10;Sanok 71-890;II;1655;71-890;Sanok;;71-890;Sanok;2;160;
+324;Andrzej;Knot;Uniwersytet Pedagogiczny;10;Jastrzębie-Zdrój 51-394;I;356;51-394;Jastrzębie-Zdrój;;51-394;Jastrzębie-Zdrój;7;60;
+325;Mateusz;Buczek;Politechnika Królewska;10;Oświęcim 27-702;I;2275;27-702;Oświęcim;;27-702;Oświęcim;3;135;
+326;Piotr;Tyborowski;Uniwersytet Królewski;10;Katowice 72-241;III;2325;72-241;Katowice;;72-241;Katowice;5;71;
+327;Klaudia;Kotowicz;Politechnika Informatyczno-Elektroniczna;10;Katowice 72-241;I;1950;72-241;Katowice;;72-241;Katowice;2;71;
+328;Mateusz;Bartoszewski;Politechnika Informatyczno-Elektroniczna;10;Mikołów 96-497;I;2149;96-497;Mikołów;;96-497;Mikołów;2;116;
+329;Michal;Antkowicz;Uniwersytet Królewski;10;Gliwice 11-608;I;2265;11-608;Gliwice;;11-608;Gliwice;5;43;
+330;Barbara;Bakan;Politechnika Informatyczno-Elektroniczna;10;Radom 43-586;I;1218;43-586;Radom;;43-586;Radom;2;154;
+331;Grzegorz;Styczen;Politechnika Królewska;10;Szczecinek 48-418;III;931;48-418;Szczecinek;;48-418;Szczecinek;3;178;
+332;Agata;Babulak;Politechnika Królewska;10;Lwówek Sląski 11-782;I;2170;11-782;Lwówek Sląski;;11-782;Lwówek Sląski;3;105;
+333;Ewelina;Kocharyan;Politechnika Informatyczno-Elektroniczna;10;Żory 29-724;I;1118;29-724;Żory;;29-724;Żory;2;218;
+334;Barbara;Solska;Uniwersytet Sportu i Turystyki;10;Rogoźnik 74-768;I;678;74-768;Rogoźnik;;74-768;Rogoźnik;9;156;
+335;Dominik;Kondratowicz;Uniwersytet Królewski;10;Pszczyna 53-858;V;2209;53-858;Pszczyna;;53-858;Pszczyna;5;148;
+336;Kacper;Wozniak;Uniwersytet Pedagogiczny;10;Lublin 79-726;V;1897;79-726;Lublin;;79-726;Lublin;7;103;
+337;Jagna;Meller;Politechnika Informatyczno-Elektroniczna;10;Koniaków 34-607;V;3247;34-607;Koniaków;;34-607;Koniaków;2;82;
+338;Gabriela;Mroz;Uniwersytet Królewski;10;Siemianowice Sląskie 09-006;I;1033;09-006;Siemianowice Sląskie;;09-006;Siemianowice Sląskie;5;162;
+339;Mateusz;Bernacki;Uniwersytet Królewski;10;Wrocław 62-182;III;846;62-182;Wrocław;;62-182;Wrocław;5;209;
+340;Anna;Cender;Uniwersytet Pedagogiczny;10;Miechów 47-553;I;2190;47-553;Miechów;;47-553;Miechów;7;111;
+341;Ewa;Seweryn;Uniwersytet Królewski;10;Racibórz 00-355;I;1206;00-355;Racibórz;;00-355;Racibórz;5;153;
+342;Roza;Biernaczyk;Politechnika Królewska;10;Rybnik 24-983;IV;378;24-983;Rybnik;;24-983;Rybnik;3;158;
+343;Andrzej;Pyza;Politechnika Królewska;10;Nowy Sącz 62-813;I;788;62-813;Nowy Sącz;;62-813;Nowy Sącz;3;124;
+344;Henryk;Mordyan;Politechnika Informatyczno-Elektroniczna;10;Tarnobrzeg 85-266;I;1126;85-266;Tarnobrzeg;;85-266;Tarnobrzeg;2;185;
+345;Oskar;Szanca;Politechnika Królewska;10;Racibórz 00-355;I;2257;00-355;Racibórz;;00-355;Racibórz;3;153;
+346;Jakub;Kucharski;Politechnika Królewska;10;Szamotuły 64-698;III;2144;64-698;Szamotuły;;64-698;Szamotuły;3;176;
+347;Jan;Krzyzewski;Uniwersytet Rolniczy;10;Ogrodzieniec 82-082;II;1379;82-082;Ogrodzieniec;;82-082;Ogrodzieniec;8;129;
+348;Jan;Dziekan;Politechnika Królewska;10;Siemianowice Sląskie 09-006;I;2815;09-006;Siemianowice Sląskie;;09-006;Siemianowice Sląskie;3;162;
+349;Zofia;Kajzer;Uniwersytet Rolniczy;10;Dębowiec 36-478;II;905;36-478;Dębowiec;;36-478;Dębowiec;8;32;
+350;Iwona;Pawlowska;Uniwersytet Ekonomiczny;10;Lublin 79-726;III;2942;79-726;Lublin;;79-726;Lublin;4;103;
+351;Oktawian;Kadej;Akademia Sztuk Pięknych;#N/D;Ogrodniki 14-095;I;2668;14-095;Ogrodniki;;14-095;Ogrodniki;1;128;
+352;Jadwiga;Beben;Politechnika Informatyczno-Elektroniczna;10;Kuźnia Raciborska 78-122;V;2998;78-122;Kuźnia Raciborska;;78-122;Kuźnia Raciborska;2;94;
+353;Katarzyna;Czader;Politechnika Królewska;10;Nowy Sącz 62-813;I;353;62-813;Nowy Sącz;;62-813;Nowy Sącz;3;124;
+354;Zuzanna;Rutkowska;Politechnika Informatyczno-Elektroniczna;10;Rybnik 24-983;I;2320;24-983;Rybnik;;24-983;Rybnik;2;158;
+355;Franciszek;Mikulski;Politechnika Informatyczno-Elektroniczna;10;Wojkowice 84-273;II;598;84-273;Wojkowice;;84-273;Wojkowice;2;207;
+356;Aleksander;Chinski;Politechnika Informatyczno-Elektroniczna;10;Wrocław 62-182;I;3251;62-182;Wrocław;;62-182;Wrocław;2;209;
+357;Bartlomiej;Kardys;Uniwersytet Królewski;10;Izbica Kujawska 02-756;I;1646;02-756;Izbica Kujawska;;02-756;Izbica Kujawska;5;57;
+358;Katarzyna;Pakulska;Uniwersytet Królewski;10;Jaworzynka 56-921;I;767;56-921;Jaworzynka;;56-921;Jaworzynka;5;62;
+359;Jakub;Piotrowski;Politechnika Informatyczno-Elektroniczna;10;Tychy 76-939;III;513;76-939;Tychy;;76-939;Tychy;2;193;
+360;Irena;Fudecka;Politechnika Informatyczno-Elektroniczna;10;Pilica 15-308;I;3215;15-308;Pilica;;15-308;Pilica;2;139;
+361;Krzysztof;Lis;Politechnika Informatyczno-Elektroniczna;10;Gliwice 11-608;I;2032;11-608;Gliwice;;11-608;Gliwice;2;43;
+362;Grazyna;Chojacka;Politechnika Informatyczno-Elektroniczna;10;Ogrodzieniec 82-082;I;2543;82-082;Ogrodzieniec;;82-082;Ogrodzieniec;2;129;
+363;Kamil;Tokarz;Uniwersytet Rolniczy;10;Szczecinek 48-418;V;880;48-418;Szczecinek;;48-418;Szczecinek;8;178;
+364;Agnieszka;Nawrot;Politechnika Informatyczno-Elektroniczna;10;Przemyśl 38-959;I;1142;38-959;Przemyśl;;38-959;Przemyśl;2;147;
+365;Ewa;Chiluta;Politechnika Królewska;10;Nowy Targ 84-043;I;1924;84-043;Nowy Targ;;84-043;Nowy Targ;3;125;
+366;Joanna;Chodyra;Politechnika Królewska;10;Koniaków 34-607;I;3225;34-607;Koniaków;;34-607;Koniaków;3;82;
+367;Jacek;Winogrodzki;Politechnika Informatyczno-Elektroniczna;10;Ogrodniki 14-095;I;1004;14-095;Ogrodniki;;14-095;Ogrodniki;2;128;
+368;Karol;Anarchista;Politechnika Informatyczno-Elektroniczna;10;Dąbrowa Górnicza 75-727;II;2716;75-727;Dąbrowa Górnicza;;75-727;Dąbrowa Górnicza;2;28;
+369;Walery;Latka;Politechnika Informatyczno-Elektroniczna;10;Płock 04-688;V;1126;04-688;Płock;;04-688;Płock;2;142;
+370;Jaroslaw;Sierpien;Politechnika Informatyczno-Elektroniczna;10;Tarnowskie Góry 24-243;III;831;24-243;Tarnowskie Góry;;24-243;Tarnowskie Góry;2;186;
+371;Kaja;Karnawal;Politechnika Informatyczno-Elektroniczna;10;Kłomnice 43-045;IV;2377;43-045;Kłomnice;;43-045;Kłomnice;2;77;
+372;Andrzej;Smietanka;Uniwersytet Królewski;10;Szczekociny 66-008;I;1447;66-008;Szczekociny;;66-008;Szczekociny;5;179;
+373;Eustachy;Banaszek;Uniwersytet Królewski;10;Siemianowice Sląskie 09-006;I;2407;09-006;Siemianowice Sląskie;;09-006;Siemianowice Sląskie;5;162;
+374;Barbara;Marczak;Politechnika Informatyczno-Elektroniczna;10;Sosnowiec 14-721;I;1566;14-721;Sosnowiec;;14-721;Sosnowiec;2;170;
+375;Jaroslaw;Kata;Uniwersytet Ekonomiczny;10;Lublin 79-726;I;2437;79-726;Lublin;;79-726;Lublin;4;103;
+376;Urszula;Wawrzynczyk;Politechnika Informatyczno-Elektroniczna;10;Katowice 72-241;II;856;72-241;Katowice;;72-241;Katowice;2;71;
+377;Anita;Wiwatowicz;Politechnika Informatyczno-Elektroniczna;10;Rabka 30-698;I;399;30-698;Rabka;;30-698;Rabka;2;152;
+378;Weronika;Zawadzka;Uniwersytet Królewski;10;Ciechanów 37-640;I;1859;37-640;Ciechanów;;37-640;Ciechanów;5;23;
+379;Wioletta;Kucharska;Politechnika Królewska;10;Baborów 48-364;II;1209;48-364;Baborów;;48-364;Baborów;3;3;
+380;Piotr;Banalow;Uniwersytet Sportu i Turystyki;10;Zamość 99-773;I;1025;99-773;Zamość;;99-773;Zamość;9;214;
+381;Anna;Kaczmarek;Politechnika Informatyczno-Elektroniczna;10;Terespol 22-593;III;2076;22-593;Terespol;;22-593;Terespol;2;188;
+382;Ewelina;Ewertowska;Politechnika Informatyczno-Elektroniczna;10;Pyrzowice 49-345;I;2601;49-345;Pyrzowice;;49-345;Pyrzowice;2;150;
+383;Slawomira;Czerwiec;Uniwersytet Królewski;10;Chełm 37-997;V;2207;37-997;Chełm;;37-997;Chełm;5;20;
+384;Ewa;Skrzeliczka;Uniwersytet Sportu i Turystyki;10;Sosnowiec 14-721;I;2312;14-721;Sosnowiec;;14-721;Sosnowiec;9;170;
+385;Martyna;Piotrkowska;Uniwersytet Królewski;10;Myszków 91-786;I;1137;91-786;Myszków;;91-786;Myszków;5;122;
+386;Tomasz;Nawrot;Politechnika Informatyczno-Elektroniczna;10;Leszno 90-272;II;383;90-272;Leszno;;90-272;Leszno;2;98;
+387;Kamil;Kildarewicz;Uniwersytet Królewski;10;Tomaszów Lubelski 95-084;I;1834;95-084;Tomaszów Lubelski;;95-084;Tomaszów Lubelski;5;189;
+388;Wlodzimierz;Komik;Politechnika Informatyczno-Elektroniczna;10;Radom 43-586;III;1032;43-586;Radom;;43-586;Radom;2;154;
+389;Bartlomiej;Wrzesien;Uniwersytet Królewski;10;Świętochłowice 38-932;IV;2639;38-932;Świętochłowice;;38-932;Świętochłowice;5;183;
+390;Emilia;Katanak;Politechnika Informatyczno-Elektroniczna;10;Gliwice 11-608;I;1422;11-608;Gliwice;;11-608;Gliwice;2;43;
+391;Bartosz;Pawlowski;Politechnika Informatyczno-Elektroniczna;10;Zambrów 53-324;I;1150;53-324;Zambrów;;53-324;Zambrów;2;213;
+392;Krzysztof;Nisiewicz;Uniwersytet Królewski;10;Oborniki 33-160;I;1280;33-160;Oborniki;;33-160;Oborniki;5;127;
+393;Barbara;Mianowska;Politechnika Informatyczno-Elektroniczna;10;Sosnowiec 14-721;I;486;14-721;Sosnowiec;;14-721;Sosnowiec;2;170;
+394;Adam;Loziczonek;Politechnika Informatyczno-Elektroniczna;10;Kuźnia Raciborska 78-122;II;2100;78-122;Kuźnia Raciborska;;78-122;Kuźnia Raciborska;2;94;
+395;Karol;Antonowicz;Politechnika Informatyczno-Elektroniczna;10;Siedlce 14-461;I;654;14-461;Siedlce;;14-461;Siedlce;2;161;
+396;Anna;Klemczak;Politechnika Informatyczno-Elektroniczna;10;Rabka 30-698;I;1814;30-698;Rabka;;30-698;Rabka;2;152;
+397;Mieczyslawa;Szymczyk;Politechnika Informatyczno-Elektroniczna;10;Tychy 76-939;I;1136;76-939;Tychy;;76-939;Tychy;2;193;
+398;Karol;Zalewski;Politechnika Informatyczno-Elektroniczna;10;Leszno 90-272;I;2978;90-272;Leszno;;90-272;Leszno;2;98;
+399;Seweryna;Kotek;Politechnika Informatyczno-Elektroniczna;10;Bielsk Podlaski 96-087;II;949;96-087;Bielsk Podlaski;;96-087;Bielsk Podlaski;2;11;
+400;Jowita;Adamska;Politechnika Informatyczno-Elektroniczna;10;Elbląg 10-656;IV;1771;10-656;Elbląg;;10-656;Elbląg;2;37;
+401;Tomasz;Niczyj;Politechnika Królewska;10;Nałęczów 83-630;V;3295;83-630;Nałęczów;;83-630;Nałęczów;3;123;
+402;Maja;Mazurkiewicz;Politechnika Królewska;10;Istebna 22-654;I;511;22-654;Istebna;;22-654;Istebna;3;56;
+403;Alicja;Fedoruk;Politechnika Królewska;10;Sanok 71-890;I;2482;71-890;Sanok;;71-890;Sanok;3;160;
+404;Jan;Ciebiera;Politechnika Informatyczno-Elektroniczna;10;Katowice 72-241;I;2898;72-241;Katowice;;72-241;Katowice;2;71;
+405;Urszula;Sielecka;Uniwersytet Królewski;10;Bożewo 94-896;II;435;94-896;Bożewo;;94-896;Bożewo;5;13;
+406;Ewelina;Katowicka;Politechnika Informatyczno-Elektroniczna;10;Chyżne 76-235;I;2357;76-235;Chyżne;;76-235;Chyżne;2;22;
+407;Kinga;Wronska;Politechnika Informatyczno-Elektroniczna;10;Lubaczów 60-915;II;3271;60-915;Lubaczów;;60-915;Lubaczów;2;102;
+408;Ewa;Gruszczynska;Wyższa Szkoła Techniczna;10;Olkusz 19-255;I;3337;19-255;Olkusz;;19-255;Olkusz;10;130;
+409;Jan;Urbanski;Wyższa Szkoła Techniczna;10;Częstochowa 86-116;I;2124;86-116;Częstochowa;;86-116;Częstochowa;10;26;
+410;Leslaw;Pawlica;Politechnika Królewska;10;Szczekociny 66-008;I;3258;66-008;Szczekociny;;66-008;Szczekociny;3;179;
+411;Barbara;Przybylek;Uniwersytet Sportu i Turystyki;10;Izbica Kujawska 02-756;III;2187;02-756;Izbica Kujawska;;02-756;Izbica Kujawska;9;57;
+412;Roza;Szklarczyk;Politechnika Informatyczno-Elektroniczna;10;Pyrzyce 76-362;II;2605;76-362;Pyrzyce;;76-362;Pyrzyce;2;151;
+413;Anastazja;Gruzin;Politechnika Informatyczno-Elektroniczna;10;Kędzierzyn-Koźle 81-133;V;983;81-133;Kędzierzyn-Koźle;;81-133;Kędzierzyn-Koźle;2;73;
+414;Dawid;Trzebiatowski;Politechnika Informatyczno-Elektroniczna;10;Przasnysz 81-084;I;2037;81-084;Przasnysz;;81-084;Przasnysz;2;146;
+415;Roman;Hajtowicz;Uniwersytet Królewski;10;Myszków 91-786;III;751;91-786;Myszków;;91-786;Myszków;5;122;
+416;Ewelia;Kolanko;Uniwersytet Królewski;10;Dąbrowa Górnicza 75-727;I;3336;75-727;Dąbrowa Górnicza;;75-727;Dąbrowa Górnicza;5;28;
+417;Mateusz;Majewski;Politechnika Informatyczno-Elektroniczna;10;Gliwice 11-608;II;2270;11-608;Gliwice;;11-608;Gliwice;2;43;
+418;Jaroslaw;Krema;Politechnika Informatyczno-Elektroniczna;10;Chorzów 97-545;V;1777;97-545;Chorzów;;97-545;Chorzów;2;21;
+419;Lucyna;Arabas;Politechnika Królewska;10;Zamość 99-773;I;1000;99-773;Zamość;;99-773;Zamość;3;214;
+420;Mateusz;Orlicki;Politechnika Informatyczno-Elektroniczna;10;Kędzierzyn-Koźle 81-133;I;2467;81-133;Kędzierzyn-Koźle;;81-133;Kędzierzyn-Koźle;2;73;
+421;Sebastian;Alot;Politechnika Informatyczno-Elektroniczna;10;Ostrołęka 60-815;II;634;60-815;Ostrołęka;;60-815;Ostrołęka;2;134;
+422;Jadwiga;Bober;Uniwersytet Sportu i Turystyki;10;Nałęczów 83-630;IV;3025;83-630;Nałęczów;;83-630;Nałęczów;9;123;
+423;Gracja;Kozlowska;Uniwersytet Królewski;10;Limanowa 65-385;I;3330;65-385;Limanowa;;65-385;Limanowa;5;100;
+424;Tomasz;Bronikowski;Politechnika Informatyczno-Elektroniczna;10;Konin 39-551;I;1304;39-551;Konin;;39-551;Konin;2;83;
+425;Andrzej;Latacki;Uniwersytet Królewski;10;Pilica 15-308;II;1518;15-308;Pilica;;15-308;Pilica;5;139;
+426;Kamil;Babula;Politechnika Informatyczno-Elektroniczna;10;Rybnik 24-983;I;1058;24-983;Rybnik;;24-983;Rybnik;2;158;
+427;Czeslaw;Augustyneczek;Politechnika Królewska;10;Tychy 76-939;I;524;76-939;Tychy;;76-939;Tychy;3;193;
+428;Anna;Hebda;Politechnika Informatyczno-Elektroniczna;10;Wrocław 62-182;V;1070;62-182;Wrocław;;62-182;Wrocław;2;209;
+429;Bartosz;Bonkowski;Politechnika Informatyczno-Elektroniczna;10;Świętochłowice 38-932;I;983;38-932;Świętochłowice;;38-932;Świętochłowice;2;183;
+430;Jozefa;Wysocka;Politechnika Informatyczno-Elektroniczna;10;Wrocław 62-182;II;2497;62-182;Wrocław;;62-182;Wrocław;2;209;
+431;Justyna;Firlej;Uniwersytet Rolniczy;10;Prudnik 09-823;I;1919;09-823;Prudnik;;09-823;Prudnik;8;145;
+432;Jadwiga;Wawer;Uniwersytet Królewski;10;Sośnicowice 15-658;II;2672;15-658;Sośnicowice;;15-658;Sośnicowice;5;171;
+433;Michal;Klimisz;Politechnika Informatyczno-Elektroniczna;10;Tarnów 87-348;III;3092;87-348;Tarnów;;87-348;Tarnów;2;187;
+434;Agnieszka;Bartkowiak;Politechnika Informatyczno-Elektroniczna;10;Zawiercie 58-922;I;3034;58-922;Zawiercie;;58-922;Zawiercie;2;215;
+435;Ryszard;Siennicki;Uniwersytet Ekonomiczny;10;Wojkowice 84-273;II;2978;84-273;Wojkowice;;84-273;Wojkowice;4;207;
+436;Marta;Gilowska;Politechnika Informatyczno-Elektroniczna;10;Jasło 92-050;I;1572;92-050;Jasło;;92-050;Jasło;2;59;
+437;Honorata;Caban;Politechnika Informatyczno-Elektroniczna;10;Kogutek 99-754;II;689;99-754;Kogutek;;99-754;Kogutek;2;80;
+438;Franciszek;Szybinski;Politechnika Królewska;10;Lublin 79-726;V;1776;79-726;Lublin;;79-726;Lublin;3;103;
+439;Emila;Nikiel;Uniwersytet Królewski;10;Rajcza 18-286;I;1849;18-286;Rajcza;;18-286;Rajcza;5;155;
+440;Jan;Jasinski;Politechnika Królewska;10;Świecko 47-842;I;962;47-842;Świecko;;47-842;Świecko;3;181;
+441;Halina;Lakomska;Uniwersytet Królewski;10;Brzesko 96-703;I;863;96-703;Brzesko;;96-703;Brzesko;5;16;
+442;Teofil;Wina;Politechnika Królewska;10;Rzeszów 89-735;IV;1963;89-735;Rzeszów;;89-735;Rzeszów;3;159;
+443;Teresa;Krzesaj;Politechnika Informatyczno-Elektroniczna;10;Siemianowice Sląskie 09-006;II;2126;09-006;Siemianowice Sląskie;;09-006;Siemianowice Sląskie;2;162;
+444;Karol;Mroczek;Politechnika Informatyczno-Elektroniczna;10;Jaworzynka 56-921;V;2947;56-921;Jaworzynka;;56-921;Jaworzynka;2;62;
+445;Jagna;Urban;Politechnika Królewska;10;Olsztyn 44-718;I;1098;44-718;Olsztyn;;44-718;Olsztyn;3;131;
+446;Szymon;Maron;Politechnika Królewska;10;Mikołów 96-497;IV;2372;96-497;Mikołów;;96-497;Mikołów;3;116;
+447;Lucjusz;Tokarczyk;Politechnika Informatyczno-Elektroniczna;10;Mikołajki 83-977;II;985;83-977;Mikołajki;;83-977;Mikołajki;2;115;
+448;Krzysztof;Badura;Uniwersytet Ekonomiczny;10;Mikołów 96-497;I;637;96-497;Mikołów;;96-497;Mikołów;4;116;
+449;Konstanty;Banasikowski;Politechnika Informatyczno-Elektroniczna;10;Alwernia 27-938;I;2568;27-938;Alwernia;;27-938;Alwernia;2;2;
+450;Krzysztof;Lipinski;Uniwersytet Muzyczny;10;Nałęczów 83-630;I;2635;83-630;Nałęczów;;83-630;Nałęczów;6;123;
+451;Anna;Dworecka;Politechnika Królewska;10;Wałbrzych 62-834;I;2106;62-834;Wałbrzych;;62-834;Wałbrzych;3;197;
+452;Kinga;Celeborska;Politechnika Informatyczno-Elektroniczna;10;Gostyń 97-023;I;940;97-023;Gostyń;;97-023;Gostyń;2;48;
+453;Mateusz;Bednarek;Politechnika Informatyczno-Elektroniczna;10;Legionowo 36-889;I;507;36-889;Legionowo;;36-889;Legionowo;2;96;
+454;Stanislaw;Anczewski;Politechnika Informatyczno-Elektroniczna;10;Świętochłowice 38-932;II;2305;38-932;Świętochłowice;;38-932;Świętochłowice;2;183;
+455;Szymon;Wawron;Uniwersytet Królewski;10;Katowice 72-241;II;3312;72-241;Katowice;;72-241;Katowice;5;71;
+456;Danuta;Banaszczykiewicz;Politechnika Informatyczno-Elektroniczna;10;Ogrodzieniec 82-082;I;2423;82-082;Ogrodzieniec;;82-082;Ogrodzieniec;2;129;
+457;Tymon;Abacki;Uniwersytet Ekonomiczny;10;Kędzierzyn-Koźle 81-133;III;963;81-133;Kędzierzyn-Koźle;;81-133;Kędzierzyn-Koźle;4;73;
+458;Ewelina;Blada;Politechnika Informatyczno-Elektroniczna;10;Terespol 22-593;IV;1961;22-593;Terespol;;22-593;Terespol;2;188;
+459;Wieslawa;Bedynska;Uniwersytet Królewski;10;Koniaków 34-607;II;593;34-607;Koniaków;;34-607;Koniaków;5;82;
+460;Bartosz;Dudek;Politechnika Informatyczno-Elektroniczna;10;Świecko 47-842;IV;2948;47-842;Świecko;;47-842;Świecko;2;181;
+461;Tomasz;Kaczmarek;Uniwersytet Ekonomiczny;10;Wodzisław Sląski 83-544;I;1140;83-544;Wodzisław Sląski;;83-544;Wodzisław Sląski;4;206;
+462;Aleksander;Adamczyk;Uniwersytet Rolniczy;10;Mirów 69-389;V;1260;69-389;Mirów;;69-389;Mirów;8;117;
+463;Kinga;Kawka;Uniwersytet Królewski;10;Olkusz 19-255;I;2512;19-255;Olkusz;;19-255;Olkusz;5;130;
+464;Morfeusz;Grodecki;Akademia Sztuk Pięknych;#N/D;Chełm 37-997;I;1713;37-997;Chełm;;37-997;Chełm;1;20;
+465;Jerzy;Bodnarczyk;Politechnika Informatyczno-Elektroniczna;10;Piechowice 57-943;I;3260;57-943;Piechowice;;57-943;Piechowice;2;137;
+466;Paulina;Dykiel;Politechnika Informatyczno-Elektroniczna;10;Jastrzębie-Zdrój 51-394;I;1995;51-394;Jastrzębie-Zdrój;;51-394;Jastrzębie-Zdrój;2;60;
+467;Adam;Bednarczyk;Politechnika Informatyczno-Elektroniczna;10;Krapkowice 94-560;I;1303;94-560;Krapkowice;;94-560;Krapkowice;2;87;
+468;Barbara;Olszewska;Uniwersytet Królewski;10;Baborów 48-364;IV;1528;48-364;Baborów;;48-364;Baborów;5;3;
+469;Wieslawa;Barcisz;Politechnika Królewska;10;Oświęcim 27-702;II;1278;27-702;Oświęcim;;27-702;Oświęcim;3;135;
+470;Pawel;Kowal;Uniwersytet Królewski;10;Wadowice 47-222;V;3125;47-222;Wadowice;;47-222;Wadowice;5;195;
+471;Monika;Rybicka;Uniwersytet Ekonomiczny;10;Kędzierzyn-Koźle 81-133;I;1111;81-133;Kędzierzyn-Koźle;;81-133;Kędzierzyn-Koźle;4;73;
+472;Adam;Grabczak;Uniwersytet Rolniczy;10;Limanowa 65-385;IV;1116;65-385;Limanowa;;65-385;Limanowa;8;100;
+473;Jan;Kozak;Uniwersytet Pedagogiczny;10;Ełk 05-563;III;3021;05-563;Ełk;;05-563;Ełk;7;38;
+474;Wiera;Augustowska;Politechnika Informatyczno-Elektroniczna;10;Kłomnice 43-045;II;872;43-045;Kłomnice;;43-045;Kłomnice;2;77;
+475;Lew;Wiejski;Akademia Sztuk Pięknych;#N/D;Katowice 72-241;I;1787;72-241;Katowice;;72-241;Katowice;1;71;
+476;Boguslawa;Sobota;Politechnika Informatyczno-Elektroniczna;10;Siemianowice Sląskie 09-006;II;2866;09-006;Siemianowice Sląskie;;09-006;Siemianowice Sląskie;2;162;
+477;Miroslaw;Chochowski;Akademia Sztuk Pięknych;#N/D;Tarnobrzeg 85-266;I;2625;85-266;Tarnobrzeg;;85-266;Tarnobrzeg;1;185;
+478;Halina;Kuchar;Politechnika Królewska;10;Katowice 72-241;I;859;72-241;Katowice;;72-241;Katowice;3;71;
+479;Zbigniew;Zajac;Uniwersytet Królewski;10;Wadowice 47-222;V;1589;47-222;Wadowice;;47-222;Wadowice;5;195;
+480;Edyta;Klan;Politechnika Królewska;10;Sosnowiec 14-721;V;1683;14-721;Sosnowiec;;14-721;Sosnowiec;3;170;
+481;Celina;Krotoszyn;Uniwersytet Królewski;10;Będzin 69-501;III;3139;69-501;Będzin;;69-501;Będzin;5;7;
+482;Katarzyna;Skutnik;Politechnika Informatyczno-Elektroniczna;10;Siedlce 14-461;I;3124;14-461;Siedlce;;14-461;Siedlce;2;161;
+483;Krzysztof;But;Politechnika Królewska;10;Rybnik 24-983;IV;2273;24-983;Rybnik;;24-983;Rybnik;3;158;
+484;Bartosz;Zalecki;Politechnika Informatyczno-Elektroniczna;10;Bytom 80-339;I;1127;80-339;Bytom;;80-339;Bytom;2;18;
+485;Irena;Tarnowska;Uniwersytet Pedagogiczny;10;Suwałki 91-271;I;2158;91-271;Suwałki;;91-271;Suwałki;7;175;
+486;Piotr;Murarz;Politechnika Królewska;10;Nysa 72-297;III;2893;72-297;Nysa;;72-297;Nysa;3;126;
+487;Justyna;Biegaj;Politechnika Królewska;10;Świnoujskie 13-345;I;1770;13-345;Świnoujskie;;13-345;Świnoujskie;3;184;
+488;Bohdan;Mrozowski;Politechnika Informatyczno-Elektroniczna;10;Piwniczna-Zdrój 09-592;I;2851;09-592;Piwniczna-Zdrój;;09-592;Piwniczna-Zdrój;2;141;
+489;Karina;Kwiatkowska;Politechnika Informatyczno-Elektroniczna;10;Biała Podlaska 00-425;IV;2751;00-425;Biała Podlaska;;00-425;Biała Podlaska;2;8;
+490;Katarzyna;Kruczek;Politechnika Informatyczno-Elektroniczna;10;Tomaszów Lubelski 95-084;I;2107;95-084;Tomaszów Lubelski;;95-084;Tomaszów Lubelski;2;189;
+491;Anna;Barska;Politechnika Informatyczno-Elektroniczna;10;Ogrodzieniec 82-082;II;1047;82-082;Ogrodzieniec;;82-082;Ogrodzieniec;2;129;
+492;Marek;Piec;Uniwersytet Królewski;10;Kruszwica 33-294;V;3259;33-294;Kruszwica;;33-294;Kruszwica;5;90;
+493;Marek;Grzeszczak;Uniwersytet Królewski;10;Mikołów 96-497;I;508;96-497;Mikołów;;96-497;Mikołów;5;116;
+494;Leslaw;Bak;Politechnika Królewska;10;Ustroń 51-637;I;2799;51-637;Ustroń;;51-637;Ustroń;3;194;
+495;Franciszka;Czemisow;Politechnika Informatyczno-Elektroniczna;10;Gorki Male 36-984;II;456;36-984;Gorki Male;;36-984;Gorki Male;2;46;
+496;Michal;Sawicki;Politechnika Informatyczno-Elektroniczna;10;Olkusz 19-255;II;451;19-255;Olkusz;;19-255;Olkusz;2;130;
+497;Sabina;Balcerek;Uniwersytet Królewski;10;Jasło 92-050;II;1840;92-050;Jasło;;92-050;Jasło;5;59;
+498;Aleksandra;Cichawacz;Politechnika Królewska;10;Świeradów-Zdrój 01-685;I;3169;01-685;Świeradów-Zdrój;;01-685;Świeradów-Zdrój;3;182;
+499;Kinga;Mlynarczyk;Uniwersytet Królewski;10;Sosnowiec 14-721;II;2543;14-721;Sosnowiec;;14-721;Sosnowiec;5;170;
+500;Witold;Kupis;Uniwersytet Królewski;10;Sławków 42-081;II;1760;42-081;Sławków;;42-081;Sławków;5;167;
+501;Janusz;Bokowski;Uniwersytet Pedagogiczny;10;Bielsk Podlaski 96-087;I;2891;96-087;Bielsk Podlaski;;96-087;Bielsk Podlaski;7;11;
+502;Elzbieta;Jaworska;Akademia Sztuk Pięknych;#N/D;Głuchołazy 30-136;II;804;30-136;Głuchołazy;;30-136;Głuchołazy;1;45;
+503;Marzena;Por;Uniwersytet Królewski;10;Rajcza 18-286;II;2715;18-286;Rajcza;;18-286;Rajcza;5;155;
+504;Beata;Wittek;Politechnika Informatyczno-Elektroniczna;10;Tarnobrzeg 85-266;V;1008;85-266;Tarnobrzeg;;85-266;Tarnobrzeg;2;185;
+505;Wojciech;Rydawski;Politechnika Królewska;10;Wałbrzych 62-834;II;2711;62-834;Wałbrzych;;62-834;Wałbrzych;3;197;
+506;Nikodem;Dyzma;Politechnika Informatyczno-Elektroniczna;10;Rogoźnik 74-768;II;3079;74-768;Rogoźnik;;74-768;Rogoźnik;2;156;
+507;Wanda;Szalobryt;Politechnika Królewska;10;Bielsk Podlaski 96-087;II;701;96-087;Bielsk Podlaski;;96-087;Bielsk Podlaski;3;11;
+508;Andrzej;Okon;Politechnika Królewska;10;Szczyrk 75-361;III;1556;75-361;Szczyrk;;75-361;Szczyrk;3;180;
+509;Anita;Chalbinska;Politechnika Informatyczno-Elektroniczna;10;Witonia 21-857;I;1772;21-857;Witonia;;21-857;Witonia;2;203;
+510;Agnieszka;Badowska;Politechnika Królewska;10;Nowy Targ 84-043;I;1372;84-043;Nowy Targ;;84-043;Nowy Targ;3;125;
+511;Tomasz;Kajdasiewicz;Politechnika Informatyczno-Elektroniczna;10;Częstochowa 86-116;III;1486;86-116;Częstochowa;;86-116;Częstochowa;2;26;
+512;Piotr;Januszewski;Politechnika Królewska;10;Przemyśl 38-959;I;1613;38-959;Przemyśl;;38-959;Przemyśl;3;147;
+513;Edyta;Styczen;Uniwersytet Królewski;10;Bydgoszcz 29-199;V;3105;29-199;Bydgoszcz;;29-199;Bydgoszcz;5;17;
+514;Iwona;Andrzejewska;Uniwersytet Królewski;10;Ruda Sląska 12-684;I;2241;12-684;Ruda Sląska;;12-684;Ruda Sląska;5;157;
+515;Danuta;Kapusta;Politechnika Informatyczno-Elektroniczna;10;Myszków 91-786;I;2708;91-786;Myszków;;91-786;Myszków;2;122;
+516;Ruta;Sawa;Uniwersytet Królewski;10;Mysłowice 13-220;II;2726;13-220;Mysłowice;;13-220;Mysłowice;5;121;
+517;Izabella;Cieslak;Uniwersytet Ekonomiczny;10;Suraż 76-117;I;1100;76-117;Suraż;;76-117;Suraż;4;174;
+518;Tadeusz;Krason;Politechnika Informatyczno-Elektroniczna;10;Młynarze 72-438;IV;1894;72-438;Młynarze;;72-438;Młynarze;2;118;
+519;Marcin;Gorgon;Politechnika Królewska;10;Pyrzowice 49-345;V;2681;49-345;Pyrzowice;;49-345;Pyrzowice;3;150;
+520;Witold;Halama;Uniwersytet Królewski;10;Gryfice 51-783;II;1557;51-783;Gryfice;;51-783;Gryfice;5;50;
+521;Teresa;Gryglak;Politechnika Informatyczno-Elektroniczna;10;Limanowa 65-385;II;3117;65-385;Limanowa;;65-385;Limanowa;2;100;
+522;Jolanta;Turlej;Politechnika Informatyczno-Elektroniczna;10;Ełk 05-563;V;3344;05-563;Ełk;;05-563;Ełk;2;38;
+523;Kamil;Gruca;Uniwersytet Królewski;10;Karniewo 21-405;I;3300;21-405;Karniewo;;21-405;Karniewo;5;70;
+524;Daniel;Filipek;Politechnika Informatyczno-Elektroniczna;10;Katowice 72-241;I;2302;72-241;Katowice;;72-241;Katowice;2;71;
+525;Beata;Dabrowska;Politechnika Informatyczno-Elektroniczna;10;Katowice 72-241;II;2576;72-241;Katowice;;72-241;Katowice;2;71;
+526;Krzysztof;Cebula;Uniwersytet Królewski;10;Olkusz 19-255;I;3155;19-255;Olkusz;;19-255;Olkusz;5;130;
+527;Anna;Horbacz;Politechnika Królewska;10;Chorzów 97-545;I;1079;97-545;Chorzów;;97-545;Chorzów;3;21;
+528;Krzysztof;Barski;Uniwersytet Królewski;10;Ogrodzieniec 82-082;I;1047;82-082;Ogrodzieniec;;82-082;Ogrodzieniec;5;129;
+529;Wanda;Pacula;Uniwersytet Rolniczy;10;Katowice 72-241;II;2350;72-241;Katowice;;72-241;Katowice;8;71;
+530;Ewa;Barwicka;Uniwersytet Królewski;10;Nowy Sącz 62-813;I;600;62-813;Nowy Sącz;;62-813;Nowy Sącz;5;124;
+531;Katarzyna;Bartecka;Politechnika Królewska;10;Chorzów 97-545;I;350;97-545;Chorzów;;97-545;Chorzów;3;21;
+532;Natalia;Pypno;Politechnika Informatyczno-Elektroniczna;10;Radom 43-586;I;1139;43-586;Radom;;43-586;Radom;2;154;
+533;Maciej;Knapik;Politechnika Informatyczno-Elektroniczna;10;Istebna 22-654;IV;1056;22-654;Istebna;;22-654;Istebna;2;56;
+534;Katarzyna;Ochocka;Uniwersytet Królewski;10;Siewierz 65-885;I;750;65-885;Siewierz;;65-885;Siewierz;5;164;
+535;Agnieszka;Otwocka;Politechnika Informatyczno-Elektroniczna;10;Racibórz 00-355;I;3176;00-355;Racibórz;;00-355;Racibórz;2;153;
+536;Bozena;Chmielewska;Politechnika Informatyczno-Elektroniczna;10;Istebna 22-654;II;1835;22-654;Istebna;;22-654;Istebna;2;56;
+537;Maria;Krasiczynska;Uniwersytet Królewski;10;Tarnobrzeg 85-266;I;1623;85-266;Tarnobrzeg;;85-266;Tarnobrzeg;5;185;
+538;Katarzyna;Budziak;Uniwersytet Królewski;10;Nowy Targ 84-043;II;1153;84-043;Nowy Targ;;84-043;Nowy Targ;5;125;
+539;Adam;Gumowski;Politechnika Informatyczno-Elektroniczna;10;Zamość 99-773;I;3059;99-773;Zamość;;99-773;Zamość;2;214;
+540;Alina;Charemska;Politechnika Informatyczno-Elektroniczna;10;Mysłowice 13-220;I;1847;13-220;Mysłowice;;13-220;Mysłowice;2;121;
+541;Zbigniew;Jaworski;Uniwersytet Królewski;10;Mysłowice 13-220;III;3238;13-220;Mysłowice;;13-220;Mysłowice;5;121;
+542;Marcin;Grabysz;Uniwersytet Sportu i Turystyki;10;Bielsk Podlaski 96-087;I;2125;96-087;Bielsk Podlaski;;96-087;Bielsk Podlaski;9;11;
+543;Jan;Chylak;Politechnika Informatyczno-Elektroniczna;10;Gliwice 11-608;I;1224;11-608;Gliwice;;11-608;Gliwice;2;43;
+544;Grzegorz;Sokolowski;Politechnika Królewska;10;Puławy 66-219;III;606;66-219;Puławy;;66-219;Puławy;3;149;
+545;Anna;Smela;Politechnika Informatyczno-Elektroniczna;10;Sośnicowice 15-658;I;1375;15-658;Sośnicowice;;15-658;Sośnicowice;2;171;
+546;Maria;Kolka;Uniwersytet Rolniczy;10;Sośnicowice 15-658;II;790;15-658;Sośnicowice;;15-658;Sośnicowice;8;171;
+547;Krzysztof;Groza;Politechnika Królewska;10;Strzelce Opolskie 60-596;I;2014;60-596;Strzelce Opolskie;;60-596;Strzelce Opolskie;3;172;
+548;Katarzyna;Friedek;Politechnika Królewska;10;Wisła 99-436;I;898;99-436;Wisła;;99-436;Wisła;3;202;
+549;Piotr;Szczerek;Uniwersytet Królewski;10;Rajcza 18-286;III;2896;18-286;Rajcza;;18-286;Rajcza;5;155;
+550;Edward;Bebanek;Uniwersytet Królewski;10;Bielsk Podlaski 96-087;I;1580;96-087;Bielsk Podlaski;;96-087;Bielsk Podlaski;5;11;
+551;Grzegorz;Kinski;Politechnika Informatyczno-Elektroniczna;10;Mysłowice 13-220;I;3000;13-220;Mysłowice;;13-220;Mysłowice;2;121;
+552;Patryk;Brylok;Politechnika Informatyczno-Elektroniczna;10;Suwałki 91-271;I;3007;91-271;Suwałki;;91-271;Suwałki;2;175;
+553;Ewa;Oszczudlowska;Uniwersytet Ekonomiczny;10;Przemyśl 38-959;I;1141;38-959;Przemyśl;;38-959;Przemyśl;4;147;
+554;Irma;Iwasiow;Politechnika Królewska;10;Rogoźnik 74-768;I;1201;74-768;Rogoźnik;;74-768;Rogoźnik;3;156;
+555;Tomasz;Muc;Uniwersytet Rolniczy;10;Cieszyn 68-101;IV;1243;68-101;Cieszyn;;68-101;Cieszyn;8;25;
+556;Piotr;Cholewa;Uniwersytet Pedagogiczny;10;Hrebenne 37-873;II;2318;37-873;Hrebenne;;37-873;Hrebenne;7;53;
+557;Antoni;Chmielacz;Uniwersytet Rolniczy;10;Strzelce Opolskie 60-596;I;2952;60-596;Strzelce Opolskie;;60-596;Strzelce Opolskie;8;172;
+558;Agnieszka;Witas;Politechnika Królewska;10;Młynarze 72-438;V;1914;72-438;Młynarze;;72-438;Młynarze;3;118;
+559;Andrzej;Baran;Politechnika Informatyczno-Elektroniczna;10;Wodzisław Sląski 83-544;I;1390;83-544;Wodzisław Sląski;;83-544;Wodzisław Sląski;2;206;
+560;Feliks;Bawarski;Uniwersytet Królewski;10;Katowice 72-241;I;433;72-241;Katowice;;72-241;Katowice;5;71;
+561;Kinga;Matuszyk;Politechnika Królewska;10;Zabrze 91-525;I;562;91-525;Zabrze;;91-525;Zabrze;3;211;
+562;Grzegorz;Borutawski;Politechnika Królewska;10;Nowy Targ 84-043;I;2859;84-043;Nowy Targ;;84-043;Nowy Targ;3;125;
+563;Wiktor;Basajski;Politechnika Królewska;10;Ruda Sląska 12-684;II;920;12-684;Ruda Sląska;;12-684;Ruda Sląska;3;157;
+564;Sylwester;Jasinski;Politechnika Informatyczno-Elektroniczna;10;Szczyrk 75-361;III;1216;75-361;Szczyrk;;75-361;Szczyrk;2;180;
+565;Zofia;Ciechowska;Uniwersytet Królewski;10;Szczyrk 75-361;II;2652;75-361;Szczyrk;;75-361;Szczyrk;5;180;
+566;Adam;Bialczak;Politechnika Informatyczno-Elektroniczna;10;Szczekociny 66-008;I;1676;66-008;Szczekociny;;66-008;Szczekociny;2;179;
+567;Filip;Baczek;Akademia Sztuk Pięknych;#N/D;Tychy 76-939;I;459;76-939;Tychy;;76-939;Tychy;1;193;
+568;Felicja;Latas;Uniwersytet Królewski;10;Mysłowice 13-220;II;592;13-220;Mysłowice;;13-220;Mysłowice;5;121;
+569;Aleksy;Dudek;Uniwersytet Pedagogiczny;10;Tychy 76-939;II;2544;76-939;Tychy;;76-939;Tychy;7;193;
+570;Krzysztof;Chorzyk;Politechnika Informatyczno-Elektroniczna;10;Limanowa 65-385;I;1037;65-385;Limanowa;;65-385;Limanowa;2;100;
+571;Krzysztof;Kryszkiewicz;Uniwersytet Królewski;10;Istebna 22-654;III;390;22-654;Istebna;;22-654;Istebna;5;56;
+572;Robert;Zielinski;Politechnika Królewska;10;Nowy Targ 84-043;V;2538;84-043;Nowy Targ;;84-043;Nowy Targ;3;125;
+573;Zachariasz;Msciwujewski;Uniwersytet Królewski;10;Żyrardów 51-006;II;3044;51-006;Żyrardów;;51-006;Żyrardów;5;219;
+574;Jakub;Dukowski;Uniwersytet Królewski;10;Chorzów 97-545;I;2983;97-545;Chorzów;;97-545;Chorzów;5;21;
+575;Anastazja;Litwin;Uniwersytet Rolniczy;10;Nowy Targ 84-043;I;889;84-043;Nowy Targ;;84-043;Nowy Targ;8;125;
+576;Tomasz;Gronus;Uniwersytet Królewski;10;Terespol 22-593;V;389;22-593;Terespol;;22-593;Terespol;5;188;
+577;Zofia;Adamowicz;Uniwersytet Królewski;10;Kłomnice 43-045;II;439;43-045;Kłomnice;;43-045;Kłomnice;5;77;
+578;Wislaw;Kowalski;Politechnika Informatyczno-Elektroniczna;10;Radom 43-586;II;3208;43-586;Radom;;43-586;Radom;2;154;
+579;Konstantyn;Piatek;Uniwersytet Królewski;10;Legnica 58-930;I;350;58-930;Legnica;;58-930;Legnica;5;97;
+580;Paulina;Uszek;Politechnika Królewska;10;Dęblin 53-807;I;1937;53-807;Dęblin;;53-807;Dęblin;3;31;
+581;Andrzej;Kuras;Akademia Sztuk Pięknych;#N/D;Kołbaskowo 95-186;V;838;95-186;Kołbaskowo;;95-186;Kołbaskowo;1;81;
+582;Beata;Cagara;Politechnika Informatyczno-Elektroniczna;10;Gierałtowice 04-834;IV;1698;04-834;Gierałtowice;;04-834;Gierałtowice;2;42;
+583;Barbara;Balwierz;Uniwersytet Królewski;10;Krzeszowice 91-488;V;2746;91-488;Krzeszowice;;91-488;Krzeszowice;5;91;
+584;Anna;Antosiewicz;Uniwersytet Pedagogiczny;10;Siemianowice Sląskie 09-006;I;569;09-006;Siemianowice Sląskie;;09-006;Siemianowice Sląskie;7;162;
+585;Sara;Koterba;Uniwersytet Królewski;10;Zawiercie 58-922;I;1389;58-922;Zawiercie;;58-922;Zawiercie;5;215;
+586;Miroslawa;Krasuska;Politechnika Królewska;10;Myszków 91-786;III;3018;91-786;Myszków;;91-786;Myszków;3;122;
+587;Patrycja;Kochanska;Uniwersytet Królewski;10;Nowy Sącz 62-813;I;1111;62-813;Nowy Sącz;;62-813;Nowy Sącz;5;124;
+588;Tomasz;Ichniowski;Uniwersytet Królewski;10;Krapkowice 94-560;II;783;94-560;Krapkowice;;94-560;Krapkowice;5;87;
+589;Stanislaw;Bialkowski;Politechnika Królewska;10;Sławków 42-081;II;3244;42-081;Sławków;;42-081;Sławków;3;167;
+590;Piotr;Kalicinski;Uniwersytet Królewski;10;Mikołów 96-497;III;1155;96-497;Mikołów;;96-497;Mikołów;5;116;
+591;Roman;Banasik;Uniwersytet Rolniczy;10;Sanok 71-890;I;2845;71-890;Sanok;;71-890;Sanok;8;160;
+592;Michal;Zawadzki;Politechnika Królewska;10;Rajcza 18-286;I;1501;18-286;Rajcza;;18-286;Rajcza;3;155;
+593;Klaudia;Janecka;Akademia Sztuk Pięknych;#N/D;Jejkowice 67-738;I;1257;67-738;Jejkowice;;67-738;Jejkowice;1;63;
+594;Danuta;Chyza;Politechnika Informatyczno-Elektroniczna;10;Rzeszów 89-735;III;1787;89-735;Rzeszów;;89-735;Rzeszów;2;159;
+595;Bartosz;Grzesik;Uniwersytet Królewski;10;Nysa 72-297;I;725;72-297;Nysa;;72-297;Nysa;5;126;
+596;Milosz;Michalski;Politechnika Informatyczno-Elektroniczna;10;Katowice 72-241;II;493;72-241;Katowice;;72-241;Katowice;2;71;
+597;Michal;Baja;Uniwersytet Ekonomiczny;10;Chełm 37-997;I;2916;37-997;Chełm;;37-997;Chełm;4;20;
+598;Marcin;Bielak;Uniwersytet Królewski;10;Siemianowice Sląskie 09-006;I;1164;09-006;Siemianowice Sląskie;;09-006;Siemianowice Sląskie;5;162;
+599;Henryk;Chlopicki;Uniwersytet Królewski;10;Mikołów 96-497;I;951;96-497;Mikołów;;96-497;Mikołów;5;116;
+600;Marcin;Jader;Politechnika Informatyczno-Elektroniczna;10;Lędziny 27-535;I;1074;27-535;Lędziny;;27-535;Lędziny;2;99;
+601;Elzbieta;Sikora;Politechnika Informatyczno-Elektroniczna;10;Nałęczów 83-630;IV;2468;83-630;Nałęczów;;83-630;Nałęczów;2;123;
+602;Ewa;Barek;Uniwersytet Sportu i Turystyki;10;Alwernia 27-938;I;2880;27-938;Alwernia;;27-938;Alwernia;9;2;
+603;Kinga;Kaszyca;Politechnika Informatyczno-Elektroniczna;10;Zamość 99-773;I;1299;99-773;Zamość;;99-773;Zamość;2;214;
+604;Piotr;Pszczola;Uniwersytet Ekonomiczny;10;Mysłowice 13-220;I;1048;13-220;Mysłowice;;13-220;Mysłowice;4;121;
+605;Barbara;Banowska;Politechnika Informatyczno-Elektroniczna;10;Sosnowiec 14-721;I;2846;14-721;Sosnowiec;;14-721;Sosnowiec;2;170;
+606;Piotr;Jedruszczak;Uniwersytet Królewski;10;Tychy 76-939;I;2995;76-939;Tychy;;76-939;Tychy;5;193;
+607;Zofia;Boska;Uniwersytet Królewski;10;Tomaszów Lubelski 95-084;II;3037;95-084;Tomaszów Lubelski;;95-084;Tomaszów Lubelski;5;189;
+608;Joanna;Para;Politechnika Królewska;10;Wadowice 47-222;II;1930;47-222;Wadowice;;47-222;Wadowice;3;195;
+609;Kamila;Borowska;Politechnika Królewska;10;Siemianowice Sląskie 09-006;I;2743;09-006;Siemianowice Sląskie;;09-006;Siemianowice Sląskie;3;162;
+610;Monika;Chrzanik;Politechnika Królewska;10;Gliwice 11-608;I;2943;11-608;Gliwice;;11-608;Gliwice;3;43;
+611;Marek;Wypchlo;Uniwersytet Królewski;10;Sanok 71-890;I;1041;71-890;Sanok;;71-890;Sanok;5;160;
+612;Michal;Lowik;Uniwersytet Królewski;10;Iława 70-459;III;1437;70-459;Iława;;70-459;Iława;5;54;
+613;Wojciech;Janocha;Uniwersytet Pedagogiczny;10;Piwniczna-Zdrój 09-592;II;3289;09-592;Piwniczna-Zdrój;;09-592;Piwniczna-Zdrój;7;141;
+614;Tomasz;Basinski;Politechnika Informatyczno-Elektroniczna;10;Katowice 72-241;II;1032;72-241;Katowice;;72-241;Katowice;2;71;
+615;Klaudiusz;Ostrowski;Uniwersytet Królewski;10;Nowy Targ 84-043;III;1555;84-043;Nowy Targ;;84-043;Nowy Targ;5;125;
+616;Danuta;Telejko;Politechnika Informatyczno-Elektroniczna;10;Zabrze 91-525;IV;996;91-525;Zabrze;;91-525;Zabrze;2;211;
+617;Michal;Rokosz;Politechnika Informatyczno-Elektroniczna;10;Zgorzelec 79-972;II;751;79-972;Zgorzelec;;79-972;Zgorzelec;2;216;
+618;Piotr;Pienkowski;Politechnika Informatyczno-Elektroniczna;10;Tarnobrzeg 85-266;I;1425;85-266;Tarnobrzeg;;85-266;Tarnobrzeg;2;185;
+619;Jan;Razny;Akademia Sztuk Pięknych;#N/D;Tworóg 62-560;III;1732;62-560;Tworóg;;62-560;Tworóg;1;192;
+620;Stefan;Wlodarczyk;Politechnika Królewska;10;Chorzów 97-545;IV;571;97-545;Chorzów;;97-545;Chorzów;3;21;
+621;Zofia;Kielbus;Uniwersytet Ekonomiczny;10;Prudnik 09-823;II;1384;09-823;Prudnik;;09-823;Prudnik;4;145;
+622;Celina;Dobrzanska;Uniwersytet Rolniczy;10;Siewierz 65-885;I;3324;65-885;Siewierz;;65-885;Siewierz;8;164;
+623;Joanna;Letka;Politechnika Informatyczno-Elektroniczna;10;Oświęcim 27-702;II;2560;27-702;Oświęcim;;27-702;Oświęcim;2;135;
+624;Katarzyna;Oleksy;Uniwersytet Królewski;10;Żywiec 00-137;I;2117;00-137;Żywiec;;00-137;Żywiec;5;220;
+625;Jan;Trzmielewski;Politechnika Informatyczno-Elektroniczna;10;Lwówek Sląski 11-782;II;2094;11-782;Lwówek Sląski;;11-782;Lwówek Sląski;2;105;
+626;Helena;Gawlicz;Uniwersytet Królewski;10;Aleksandrow Kujawski 53-614;I;2349;53-614;Aleksandrow Kujawski;;53-614;Aleksandrow Kujawski;5;1;
+627;Tomasz;Mazurek;Politechnika Królewska;10;Kuźnica Białostocka 81-042;V;2409;81-042;Kuźnica Białostocka;;81-042;Kuźnica Białostocka;3;95;
+628;Roch;Lechowicz;Uniwersytet Królewski;10;Mikołów 96-497;II;2674;96-497;Mikołów;;96-497;Mikołów;5;116;
+629;Marek;Nosowski;Politechnika Informatyczno-Elektroniczna;10;Białaszewo 56-545;I;486;56-545;Białaszewo;;56-545;Białaszewo;2;9;
+630;Kamil;Kwiatkowski;Politechnika Informatyczno-Elektroniczna;10;Brańsk 29-325;IV;3318;29-325;Brańsk;;29-325;Brańsk;2;14;
+631;Adam;Banas;Politechnika Informatyczno-Elektroniczna;10;Krzeszowice 91-488;I;1991;91-488;Krzeszowice;;91-488;Krzeszowice;2;91;
+632;Katarzyna;Jokiel;Akademia Sztuk Pięknych;#N/D;Ogrodzieniec 82-082;I;847;82-082;Ogrodzieniec;;82-082;Ogrodzieniec;1;129;
+633;Pawel;Jasiak;Wyższa Szkoła Techniczna;10;Włocławek 10-408;I;3277;10-408;Włocławek;;10-408;Włocławek;10;204;
+634;Wojciech;Musiol;Uniwersytet Królewski;10;Mikołów 96-497;III;2972;96-497;Mikołów;;96-497;Mikołów;5;116;
+635;Weronika;Kaczmarek;Politechnika Królewska;10;Wodzisław Sląski 83-544;II;1140;83-544;Wodzisław Sląski;;83-544;Wodzisław Sląski;3;206;
+636;Pawel;Janowicz;Politechnika Informatyczno-Elektroniczna;10;Miechów 47-553;I;2133;47-553;Miechów;;47-553;Miechów;2;111;
+637;Miron;Sledziak;Politechnika Informatyczno-Elektroniczna;10;Szczecin 22-544;III;2397;22-544;Szczecin;;22-544;Szczecin;2;177;
+638;Iwona;Kromolowska;Uniwersytet Królewski;10;Kłomnice 43-045;I;2387;43-045;Kłomnice;;43-045;Kłomnice;5;77;
+639;Sylwester;Borkowski;Politechnika Królewska;10;Szczyrk 75-361;IV;1683;75-361;Szczyrk;;75-361;Szczyrk;3;180;
+640;Zuzanna;Wronska;Politechnika Informatyczno-Elektroniczna;10;Skierniewice 18-665;II;878;18-665;Skierniewice;;18-665;Skierniewice;2;165;
+641;Tomasz;Koscielny;Politechnika Informatyczno-Elektroniczna;10;Mysłowice 13-220;II;2245;13-220;Mysłowice;;13-220;Mysłowice;2;121;
+642;Ada;Drukarczyk;Politechnika Informatyczno-Elektroniczna;10;Mysłowice 13-220;I;2353;13-220;Mysłowice;;13-220;Mysłowice;2;121;
+643;Karol;Andrus;Politechnika Królewska;10;Nowy Targ 84-043;V;1775;84-043;Nowy Targ;;84-043;Nowy Targ;3;125;
+644;Alicja;Medynska;Politechnika Królewska;10;Krzyż Wielkopolski 09-310;I;590;09-310;Krzyż Wielkopolski;;09-310;Krzyż Wielkopolski;3;92;
+645;Katarzyna;Kwiecien;Politechnika Informatyczno-Elektroniczna;10;Bielsk Podlaski 96-087;II;772;96-087;Bielsk Podlaski;;96-087;Bielsk Podlaski;2;11;
+646;Felicja;Ostrowska;Uniwersytet Rolniczy;10;Tarnowskie Góry 24-243;II;2466;24-243;Tarnowskie Góry;;24-243;Tarnowskie Góry;8;186;
+647;Barbara;Przywarska;Politechnika Królewska;10;Sosnowiec 14-721;I;3020;14-721;Sosnowiec;;14-721;Sosnowiec;3;170;
+648;Malwina;Kabala;Politechnika Informatyczno-Elektroniczna;10;Wadowice 47-222;I;2691;47-222;Wadowice;;47-222;Wadowice;2;195;
+649;Lucyna;Trzopek;Uniwersytet Królewski;10;Sławków 42-081;V;2758;42-081;Sławków;;42-081;Sławków;5;167;
+650;Kamil;Polkowski;Politechnika Królewska;10;Katowice 72-241;II;357;72-241;Katowice;;72-241;Katowice;3;71;
+651;Czeslawa;Kalinowska;Uniwersytet Królewski;10;Brzesko 96-703;V;2752;96-703;Brzesko;;96-703;Brzesko;5;16;
+652;Emilia;Banach;Politechnika Informatyczno-Elektroniczna;10;Rogoźnik 74-768;I;2695;74-768;Rogoźnik;;74-768;Rogoźnik;2;156;
+653;Wiktoria;Gorska;Politechnika Informatyczno-Elektroniczna;10;Żory 29-724;II;391;29-724;Żory;;29-724;Żory;2;218;
+654;Dariusz;Hentelski;Uniwersytet Królewski;10;Siewierz 65-885;I;1750;65-885;Siewierz;;65-885;Siewierz;5;164;
+655;Pawel;Pawlowski;Politechnika Królewska;10;Konin 39-551;I;2802;39-551;Konin;;39-551;Konin;3;83;
+656;Krzysztof;Siemion;Uniwersytet Sportu i Turystyki;10;Radom 43-586;V;2344;43-586;Radom;;43-586;Radom;9;154;
+657;Marcin;Bienkowski;Politechnika Informatyczno-Elektroniczna;10;Będzin 69-501;I;3025;69-501;Będzin;;69-501;Będzin;2;7;
+658;Artur;Dartcjan;Politechnika Informatyczno-Elektroniczna;10;Piechowice 57-943;I;1008;57-943;Piechowice;;57-943;Piechowice;2;137;
+659;Felicja;Adamkowska;Uniwersytet Królewski;10;Nowy Sącz 62-813;I;617;62-813;Nowy Sącz;;62-813;Nowy Sącz;5;124;
+660;Karolina;Naparstek;Politechnika Informatyczno-Elektroniczna;10;Nowy Sącz 62-813;I;2409;62-813;Nowy Sącz;;62-813;Nowy Sącz;2;124;
+661;Aleksandra;Wybraniec;Uniwersytet Królewski;10;Koszalin 36-759;I;764;36-759;Koszalin;;36-759;Koszalin;5;85;
+662;Michal;Otwinowski;Uniwersytet Królewski;10;Ustroń 51-637;I;2659;51-637;Ustroń;;51-637;Ustroń;5;194;
+663;Lechoslawa;Burcz;Uniwersytet Rolniczy;10;Kobylin-Borzymy 21-258;III;2874;21-258;Kobylin-Borzymy;;21-258;Kobylin-Borzymy;8;79;
+664;Bozena;Sowa;Uniwersytet Pedagogiczny;10;Siewierz 65-885;I;691;65-885;Siewierz;;65-885;Siewierz;7;164;
+665;Kacper;Luty;Uniwersytet Królewski;10;Wodzisław Sląski 83-544;III;3201;83-544;Wodzisław Sląski;;83-544;Wodzisław Sląski;5;206;
+666;Wioletta;Pacula;Uniwersytet Królewski;10;Pila 06-355;V;2742;06-355;Pila;;06-355;Pila;5;138;
+667;Szczepan;Sobczak;Uniwersytet Królewski;10;Mysłowice 13-220;V;902;13-220;Mysłowice;;13-220;Mysłowice;5;121;
+668;Kacper;Babinski;Uniwersytet Królewski;10;Wadowice 47-222;I;831;47-222;Wadowice;;47-222;Wadowice;5;195;
+669;Alicja;Barczynska;Uniwersytet Królewski;10;Bezledy 75-057;I;2679;75-057;Bezledy;;75-057;Bezledy;5;6;
+670;Ewelina;Kobus;Politechnika Informatyczno-Elektroniczna;10;Brańsk 29-325;I;811;29-325;Brańsk;;29-325;Brańsk;2;14;
+671;Agnieszka;Lencznarowicz;Uniwersytet Królewski;10;Myszków 91-786;III;478;91-786;Myszków;;91-786;Myszków;5;122;
+672;Barbara;Barszczykiewicz;Politechnika Królewska;10;Świeradów-Zdrój 01-685;I;2827;01-685;Świeradów-Zdrój;;01-685;Świeradów-Zdrój;3;182;
+673;Klara;Lipiec;Politechnika Informatyczno-Elektroniczna;10;Rabka 30-698;I;355;30-698;Rabka;;30-698;Rabka;2;152;
+674;Jacek;Zuchowicz;Politechnika Informatyczno-Elektroniczna;10;Wisła 99-436;II;1668;99-436;Wisła;;99-436;Wisła;2;202;
+675;Andrzej;Wisniewski;Politechnika Królewska;10;Katowice 72-241;I;2322;72-241;Katowice;;72-241;Katowice;3;71;
+676;Oskar;Kolodziej;Politechnika Informatyczno-Elektroniczna;10;Gdynia 13-179;II;1535;13-179;Gdynia;;13-179;Gdynia;2;40;
+677;Jakub;Piotrowski;Politechnika Informatyczno-Elektroniczna;10;Szczyrk 75-361;IV;2456;75-361;Szczyrk;;75-361;Szczyrk;2;180;
+678;Bogumila;Grubba;Uniwersytet Królewski;10;Sośnicowice 15-658;V;858;15-658;Sośnicowice;;15-658;Sośnicowice;5;171;
+679;Sandra;Swiatek;Uniwersytet Sportu i Turystyki;10;Ogrodzieniec 82-082;I;2456;82-082;Ogrodzieniec;;82-082;Ogrodzieniec;9;129;
+680;Anna;Barciszewska;Uniwersytet Rolniczy;10;Rogoźnik 74-768;I;709;74-768;Rogoźnik;;74-768;Rogoźnik;8;156;
+681;Maryla;Ciechowicz;Uniwersytet Królewski;10;Pszczyna 53-858;I;2219;53-858;Pszczyna;;53-858;Pszczyna;5;148;
+682;Katarzyna;Garbacz;Uniwersytet Królewski;10;Wadowice 47-222;I;2010;47-222;Wadowice;;47-222;Wadowice;5;195;
+683;Jaroslaw;Walewski;Politechnika Informatyczno-Elektroniczna;10;Ogrodzieniec 82-082;II;356;82-082;Ogrodzieniec;;82-082;Ogrodzieniec;2;129;
+684;Amadeusz;Bartosik;Uniwersytet Królewski;10;Zawiercie 58-922;I;607;58-922;Zawiercie;;58-922;Zawiercie;5;215;
+685;Marcin;Gorec;Politechnika Królewska;10;Suraż 76-117;I;2939;76-117;Suraż;;76-117;Suraż;3;174;
+686;Maciej;Poradisz;Politechnika Informatyczno-Elektroniczna;10;Chalupki 70-071;III;3037;70-071;Chalupki;;70-071;Chalupki;2;19;
+687;Jan;Barbucha;Uniwersytet Królewski;10;Ruda Sląska 12-684;I;3276;12-684;Ruda Sląska;;12-684;Ruda Sląska;5;157;
+688;Magdalena;Nadarzyn;Politechnika Informatyczno-Elektroniczna;10;Będzin 69-501;I;1880;69-501;Będzin;;69-501;Będzin;2;7;
+689;Celina;Pietras;Politechnika Informatyczno-Elektroniczna;10;Wojkowice 84-273;V;2872;84-273;Wojkowice;;84-273;Wojkowice;2;207;
+690;Wanda;Rossudowska;Uniwersytet Pedagogiczny;10;Tychy 76-939;II;2554;76-939;Tychy;;76-939;Tychy;7;193;
+691;Karolina;Tomsza;Politechnika Informatyczno-Elektroniczna;10;Racibórz 00-355;I;767;00-355;Racibórz;;00-355;Racibórz;2;153;
+692;Bartosz;Ziolkowski;Uniwersytet Rolniczy;10;Wodzisław Sląski 83-544;I;3056;83-544;Wodzisław Sląski;;83-544;Wodzisław Sląski;8;206;
+693;Kamil;Borysow;Politechnika Królewska;10;Prudnik 09-823;I;421;09-823;Prudnik;;09-823;Prudnik;3;145;
+694;Irena;Ignaszewska;Uniwersytet Królewski;10;Tarnów 87-348;I;1160;87-348;Tarnów;;87-348;Tarnów;5;187;
+695;Miroslawa;Grzesik;Uniwersytet Królewski;10;Nowy Targ 84-043;I;788;84-043;Nowy Targ;;84-043;Nowy Targ;5;125;
+696;Krzysztof;Bladowicz;Politechnika Informatyczno-Elektroniczna;10;Myszków 91-786;I;2004;91-786;Myszków;;91-786;Myszków;2;122;
+697;Maciej;Kula;Politechnika Informatyczno-Elektroniczna;10;Siedlce 14-461;I;2418;14-461;Siedlce;;14-461;Siedlce;2;161;
+698;Kamil;Wieczorek;Uniwersytet Królewski;10;Tarnów 87-348;IV;2065;87-348;Tarnów;;87-348;Tarnów;5;187;
+699;Ewa;Jurek;Politechnika Królewska;10;Siemianowice Sląskie 09-006;I;2101;09-006;Siemianowice Sląskie;;09-006;Siemianowice Sląskie;3;162;
+700;Zyta;Bugala;Uniwersytet Królewski;10;Pszczyna 53-858;II;1958;53-858;Pszczyna;;53-858;Pszczyna;5;148;
+701;Beata;Stan;Politechnika Informatyczno-Elektroniczna;10;Aleksandrow Kujawski 53-614;I;2033;53-614;Aleksandrow Kujawski;;53-614;Aleksandrow Kujawski;2;1;
+702;Juliusz;Wozniak;Uniwersytet Pedagogiczny;10;Koniaków 34-607;I;1523;34-607;Koniaków;;34-607;Koniaków;7;82;
+703;Hanna;Okularczyk;Politechnika Informatyczno-Elektroniczna;10;Cieszyn 68-101;I;507;68-101;Cieszyn;;68-101;Cieszyn;2;25;
+704;Aleksy;Borkowski;Politechnika Informatyczno-Elektroniczna;10;Witonia 21-857;IV;1035;21-857;Witonia;;21-857;Witonia;2;203;
+705;Dorota;Byra;Politechnika Królewska;10;Zielona Góra 95-970;I;1233;95-970;Zielona Góra;;95-970;Zielona Góra;3;217;
+706;Gertruda;Rzasowska;Akademia Sztuk Pięknych;#N/D;Wągrowiec 87-659;II;2877;87-659;Wągrowiec;;87-659;Wągrowiec;1;199;
+707;Lukasz;Kostosz;Uniwersytet Królewski;10;Tarnowskie Góry 24-243;IV;1060;24-243;Tarnowskie Góry;;24-243;Tarnowskie Góry;5;186;
+708;Pawel;Orczyk;Uniwersytet Królewski;10;Ruda Sląska 12-684;I;627;12-684;Ruda Sląska;;12-684;Ruda Sląska;5;157;
+709;Natasza;Konewka;Wyższa Szkoła Techniczna;10;Szczekociny 66-008;V;2056;66-008;Szczekociny;;66-008;Szczekociny;10;179;
+710;Alicja;Cygan;Uniwersytet Królewski;10;Zielona Góra 95-970;I;2578;95-970;Zielona Góra;;95-970;Zielona Góra;5;217;
+711;Anna;Bugajska;Politechnika Informatyczno-Elektroniczna;10;Limanowa 65-385;I;412;65-385;Limanowa;;65-385;Limanowa;2;100;
+712;Antoni;Wojtyra;Politechnika Informatyczno-Elektroniczna;10;Radom 43-586;I;2404;43-586;Radom;;43-586;Radom;2;154;
+713;Jan;Matczak;Uniwersytet Królewski;10;Kielce 04-274;I;2042;04-274;Kielce;;04-274;Kielce;5;75;
+714;Michal;Kopernik;Uniwersytet Królewski;10;Mikołów 96-497;I;499;96-497;Mikołów;;96-497;Mikołów;5;116;
+715;Andrzej;Kozlowski;Uniwersytet Królewski;10;Szczyrk 75-361;I;2133;75-361;Szczyrk;;75-361;Szczyrk;5;180;
+716;Adam;Jasiewicz;Uniwersytet Królewski;10;Rogoźnik 74-768;I;1554;74-768;Rogoźnik;;74-768;Rogoźnik;5;156;
+717;Jan;Janosik;Uniwersytet Królewski;10;Julianka 95-306;III;736;95-306;Julianka;;95-306;Julianka;5;68;
+718;Adam;Bledowski;Politechnika Informatyczno-Elektroniczna;10;Wadowice 47-222;I;1956;47-222;Wadowice;;47-222;Wadowice;2;195;
+719;Klementyna;Mrozinska;Politechnika Informatyczno-Elektroniczna;10;Sośnicowice 15-658;I;1079;15-658;Sośnicowice;;15-658;Sośnicowice;2;171;
+720;Aleksander;Pawlak;Politechnika Królewska;10;Gorzów Wielkopolski 78-003;III;705;78-003;Gorzów Wielkopolski;;78-003;Gorzów Wielkopolski;3;47;
+721;Waclaw;Slaski;Politechnika Królewska;10;Siemianowice Sląskie 09-006;II;2809;09-006;Siemianowice Sląskie;;09-006;Siemianowice Sląskie;3;162;
+722;Jakub;Kanciala;Politechnika Informatyczno-Elektroniczna;10;Jejkowice 67-738;I;2021;67-738;Jejkowice;;67-738;Jejkowice;2;63;
+723;Julia;Pondo;Politechnika Informatyczno-Elektroniczna;10;Katowice 72-241;I;1019;72-241;Katowice;;72-241;Katowice;2;71;
+724;Jozef;Biegar;Politechnika Królewska;10;Dąbrowa Górnicza 75-727;I;2878;75-727;Dąbrowa Górnicza;;75-727;Dąbrowa Górnicza;3;28;
+725;Pawel;Beryl;Politechnika Informatyczno-Elektroniczna;10;Jędrzejów 62-049;I;2101;62-049;Jędrzejów;;62-049;Jędrzejów;2;66;
+726;Paulina;Bulejska;Politechnika Informatyczno-Elektroniczna;10;Kędzierzyn-Koźle 81-133;I;1286;81-133;Kędzierzyn-Koźle;;81-133;Kędzierzyn-Koźle;2;73;
+727;Wiktoria;Dobosz;Uniwersytet Królewski;10;Głubczyce 65-458;V;2498;65-458;Głubczyce;;65-458;Głubczyce;5;44;
+728;Izabella;Bluza;Uniwersytet Królewski;10;Zabrodzie 71-608;III;3258;71-608;Zabrodzie;;71-608;Zabrodzie;5;210;
+729;Karol;Anyzkiewicz;Politechnika Królewska;10;Kędzierzyn-Koźle 81-133;II;2274;81-133;Kędzierzyn-Koźle;;81-133;Kędzierzyn-Koźle;3;73;
+730;Ksenia;Kadziola;Uniwersytet Królewski;10;Skierniewice 18-665;V;2742;18-665;Skierniewice;;18-665;Skierniewice;5;165;
+731;Lechoslaw;Nowakowicz;Uniwersytet Królewski;10;Jeżewo 53-780;II;1084;53-780;Jeżewo;;53-780;Jeżewo;5;65;
+732;Bronislawa;Michalska;Politechnika Informatyczno-Elektroniczna;10;Zawiercie 58-922;II;3097;58-922;Zawiercie;;58-922;Zawiercie;2;215;
+733;Marta;Czerny;Uniwersytet Królewski;10;Tarnowskie Góry 24-243;I;394;24-243;Tarnowskie Góry;;24-243;Tarnowskie Góry;5;186;
+734;Helena;Kotlarz;Politechnika Informatyczno-Elektroniczna;10;Szczyrk 75-361;I;559;75-361;Szczyrk;;75-361;Szczyrk;2;180;
+735;Michal;Galas;Politechnika Informatyczno-Elektroniczna;10;Bydgoszcz 29-199;I;2461;29-199;Bydgoszcz;;29-199;Bydgoszcz;2;17;
+736;Robert;Tomaszewski;Politechnika Królewska;10;Wisła 99-436;IV;1511;99-436;Wisła;;99-436;Wisła;3;202;
+737;Karol;Boran;Uniwersytet Królewski;10;Sucha Beskidzka 98-902;I;2190;98-902;Sucha Beskidzka;;98-902;Sucha Beskidzka;5;173;
+738;Agnieszka;Mordak;Uniwersytet Rolniczy;10;Tworóg 62-560;II;3292;62-560;Tworóg;;62-560;Tworóg;8;192;
+739;Tomasz;Suder;Uniwersytet Królewski;10;Kielce 04-274;I;2998;04-274;Kielce;;04-274;Kielce;5;75;
+740;Stefan;Polanicki;Uniwersytet Królewski;10;Wodzisław Sląski 83-544;II;770;83-544;Wodzisław Sląski;;83-544;Wodzisław Sląski;5;206;
+741;Roman;Kolek;Politechnika Informatyczno-Elektroniczna;10;Limanowa 65-385;I;674;65-385;Limanowa;;65-385;Limanowa;2;100;
+742;Magdalena;Peciak;Uniwersytet Ekonomiczny;10;Ogrodzieniec 82-082;I;2024;82-082;Ogrodzieniec;;82-082;Ogrodzieniec;4;129;
+743;Michal;Czajczyk;Politechnika Królewska;10;Kraśnik 90-749;I;3080;90-749;Kraśnik;;90-749;Kraśnik;3;88;
+744;Natasza;Rudnicka;Uniwersytet Królewski;10;Biała Podlaska 00-425;III;1178;00-425;Biała Podlaska;;00-425;Biała Podlaska;5;8;
+745;Wojciech;Kwiecien;Uniwersytet Królewski;10;Jelenia Góra 14-742;II;956;14-742;Jelenia Góra;;14-742;Jelenia Góra;5;64;
+746;Michal;Kurtyka;Politechnika Informatyczno-Elektroniczna;10;Nowy Sącz 62-813;IV;1445;62-813;Nowy Sącz;;62-813;Nowy Sącz;2;124;
+747;Agnieszka;Dziernanowska;Politechnika Królewska;10;Krosno 80-338;I;2982;80-338;Krosno;;80-338;Krosno;3;89;
+748;Danuta;Bodnar;Politechnika Informatyczno-Elektroniczna;10;Żory 29-724;III;1543;29-724;Żory;;29-724;Żory;2;218;
+749;Bartosz;Gasior;Uniwersytet Ekonomiczny;10;Wejherowo 68-209;I;2138;68-209;Wejherowo;;68-209;Wejherowo;4;200;
+750;Tadeusz;Staron;Politechnika Informatyczno-Elektroniczna;10;Rabka 30-698;IV;2198;30-698;Rabka;;30-698;Rabka;2;152;
+751;Andrzej;Kacperski;Politechnika Informatyczno-Elektroniczna;10;Mysłowice 13-220;I;2370;13-220;Mysłowice;;13-220;Mysłowice;2;121;
+752;Kinga;Krol;Politechnika Informatyczno-Elektroniczna;10;Kogutek 99-754;III;3262;99-754;Kogutek;;99-754;Kogutek;2;80;
+753;Katarzyna;Biedka;Politechnika Królewska;10;Bielsk Podlaski 96-087;I;2705;96-087;Bielsk Podlaski;;96-087;Bielsk Podlaski;3;11;
+754;Alina;Wolowiec;Uniwersytet Rolniczy;10;Sucha Beskidzka 98-902;I;2760;98-902;Sucha Beskidzka;;98-902;Sucha Beskidzka;8;173;
+755;Szymon;Boruta;Akademia Sztuk Pięknych;#N/D;Nowy Sącz 62-813;V;945;62-813;Nowy Sącz;;62-813;Nowy Sącz;1;124;
+756;Miroslawa;Prawy;Politechnika Informatyczno-Elektroniczna;10;Włodowice 37-089;V;3156;37-089;Włodowice;;37-089;Włodowice;2;205;
+757;Malgorzata;Bronislawska;Politechnika Królewska;10;Jaworzynka 56-921;I;735;56-921;Jaworzynka;;56-921;Jaworzynka;3;62;
+758;Szymon;Perczynski;Uniwersytet Ekonomiczny;10;Katowice 72-241;III;1216;72-241;Katowice;;72-241;Katowice;4;71;
+759;Jowita;Farcik;Uniwersytet Królewski;10;Koniaków 34-607;IV;2443;34-607;Koniaków;;34-607;Koniaków;5;82;
+760;Agnieszka;Chmielarz;Politechnika Informatyczno-Elektroniczna;10;Wolbrom 46-174;I;2139;46-174;Wolbrom;;46-174;Wolbrom;2;208;
+761;Artur;Chodyrak;Uniwersytet Królewski;10;Kety 36-844;I;2338;36-844;Kety;;36-844;Kety;5;72;
+762;Piotr;Wojcik;Uniwersytet Królewski;10;Przemyśl 38-959;II;1625;38-959;Przemyśl;;38-959;Przemyśl;5;147;
+763;Janusz;Gajda;Uniwersytet Królewski;10;Pilica 15-308;V;2262;15-308;Pilica;;15-308;Pilica;5;139;
+764;Barbara;Chrzanowska;Politechnika Informatyczno-Elektroniczna;10;Świętochłowice 38-932;I;997;38-932;Świętochłowice;;38-932;Świętochłowice;2;183;
+765;Pawel;Janicki;Politechnika Informatyczno-Elektroniczna;10;Mysłowice 13-220;V;1067;13-220;Mysłowice;;13-220;Mysłowice;2;121;
+766;Dariusz;Chrascik;Uniwersytet Królewski;10;Kuźnia Raciborska 78-122;IV;3152;78-122;Kuźnia Raciborska;;78-122;Kuźnia Raciborska;5;94;
+767;Edyta;Kurdzielewicz;Politechnika Informatyczno-Elektroniczna;10;Białystok 54-632;I;2710;54-632;Białystok;;54-632;Białystok;2;10;
+768;Roman;Listopad;Uniwersytet Królewski;10;Rogoźnik 74-768;IV;2018;74-768;Rogoźnik;;74-768;Rogoźnik;5;156;
+769;Honorata;Milosz;Politechnika Informatyczno-Elektroniczna;10;Nowy Targ 84-043;III;761;84-043;Nowy Targ;;84-043;Nowy Targ;2;125;
+770;Zofia;Luszczyk;Politechnika Informatyczno-Elektroniczna;10;Ustroń 51-637;II;2409;51-637;Ustroń;;51-637;Ustroń;2;194;
+771;Tomasz;Mieta;Uniwersytet Królewski;10;Lubliniec 14-322;II;3329;14-322;Lubliniec;;14-322;Lubliniec;5;104;
+772;Miroslawa;Czarnoleska;Uniwersytet Pedagogiczny;10;Ełk 05-563;I;466;05-563;Ełk;;05-563;Ełk;7;38;
+773;Wawrzyniec;Surowka;Politechnika Królewska;10;Gdańsk 83-271;IV;1644;83-271;Gdańsk;;83-271;Gdańsk;3;39;
+774;Bohdan;Bielawski;Politechnika Królewska;10;Szamotuły 64-698;I;2645;64-698;Szamotuły;;64-698;Szamotuły;3;176;
+775;Mateusz;Cisek;Politechnika Informatyczno-Elektroniczna;10;Jędrzejów 62-049;I;2376;62-049;Jędrzejów;;62-049;Jędrzejów;2;66;
+776;Kacper;Kujalowski;Politechnika Królewska;10;Sławków 42-081;V;1195;42-081;Sławków;;42-081;Sławków;3;167;
+777;Michal;Piekarz;Politechnika Królewska;10;Olkusz 19-255;II;3142;19-255;Olkusz;;19-255;Olkusz;3;130;
+778;Sebastian;Kalicki;Politechnika Informatyczno-Elektroniczna;10;Grudziądz 43-210;II;1441;43-210;Grudziądz;;43-210;Grudziądz;2;49;
+779;Adam;Tuszynski;Politechnika Informatyczno-Elektroniczna;10;Cieszyn 68-101;I;2269;68-101;Cieszyn;;68-101;Cieszyn;2;25;
+780;Jerzy;Barczyk;Politechnika Królewska;10;Medyka 67-566;I;3282;67-566;Medyka;;67-566;Medyka;3;110;
+781;Angelika;Koszka;Politechnika Królewska;10;Koniaków 34-607;I;3338;34-607;Koniaków;;34-607;Koniaków;3;82;
+782;Maciej;Pajak;Politechnika Królewska;10;Olkusz 19-255;IV;2558;19-255;Olkusz;;19-255;Olkusz;3;130;
+783;Kamil;Slimak;Politechnika Informatyczno-Elektroniczna;10;Myszków 91-786;V;2585;91-786;Myszków;;91-786;Myszków;2;122;
+784;Magdalena;Batycka;Politechnika Informatyczno-Elektroniczna;10;Chorzów 97-545;I;819;97-545;Chorzów;;97-545;Chorzów;2;21;
+785;Wojciech;Chlebdanowski;Politechnika Królewska;10;Debrzno 03-065;I;827;03-065;Debrzno;;03-065;Debrzno;3;29;
+786;Grzegorz;Wrzesinski;Politechnika Królewska;10;Wolbrom 46-174;V;1609;46-174;Wolbrom;;46-174;Wolbrom;3;208;
+787;Jolanta;Zarebska;Politechnika Informatyczno-Elektroniczna;10;Lublin 79-726;I;885;79-726;Lublin;;79-726;Lublin;2;103;
+788;Waclawa;Zaba;Politechnika Informatyczno-Elektroniczna;10;Kleszczów 18-459;IV;2347;18-459;Kleszczów;;18-459;Kleszczów;2;76;
+789;Andrzej;Malek;Uniwersytet Królewski;10;Myszków 91-786;IV;451;91-786;Myszków;;91-786;Myszków;5;122;
+790;Patryk;Gruszka;Politechnika Informatyczno-Elektroniczna;10;Katowice 72-241;III;2625;72-241;Katowice;;72-241;Katowice;2;71;
+791;Fryderyka;Radecka;Politechnika Informatyczno-Elektroniczna;10;Bytom 80-339;III;1004;80-339;Bytom;;80-339;Bytom;2;18;
+792;Boleslawa;Sarna;Uniwersytet Sportu i Turystyki;10;Gryfice 51-783;V;1915;51-783;Gryfice;;51-783;Gryfice;9;50;
+793;Marlena;Warszawska;Uniwersytet Królewski;10;Brańsk 29-325;I;570;29-325;Brańsk;;29-325;Brańsk;5;14;
+794;Jan;Kozakowski;Politechnika Informatyczno-Elektroniczna;10;Rajcza 18-286;I;2539;18-286;Rajcza;;18-286;Rajcza;2;155;
+795;Angelika;Bartusiak;Uniwersytet Rolniczy;10;Tarnobrzeg 85-266;III;365;85-266;Tarnobrzeg;;85-266;Tarnobrzeg;8;185;
+796;Grzegorz;Sawicki;Uniwersytet Królewski;10;Mikołajki 83-977;III;2857;83-977;Mikołajki;;83-977;Mikołajki;5;115;
+797;Maciej;Boni;Uniwersytet Królewski;10;Wodzisław Sląski 83-544;IV;2667;83-544;Wodzisław Sląski;;83-544;Wodzisław Sląski;5;206;
+798;Dorota;Blaszczyk;Politechnika Królewska;10;Zamość 99-773;I;1145;99-773;Zamość;;99-773;Zamość;3;214;
+799;Oliwia;Bogdal;Akademia Sztuk Pięknych;#N/D;Jaworzno 98-650;III;2021;98-650;Jaworzno;;98-650;Jaworzno;1;61;
+800;Patryk;Kopytko;Politechnika Informatyczno-Elektroniczna;10;Sławków 42-081;I;3142;42-081;Sławków;;42-081;Sławków;2;167;
+801;Monika;Mielecka;Politechnika Informatyczno-Elektroniczna;10;Strzelce Opolskie 60-596;I;669;60-596;Strzelce Opolskie;;60-596;Strzelce Opolskie;2;172;
+802;Andrzej;Stefanczyk;Uniwersytet Królewski;10;Rajcza 18-286;V;1992;18-286;Rajcza;;18-286;Rajcza;5;155;
+803;Patryk;Fiszer;Politechnika Królewska;10;Cieszyn 68-101;I;1576;68-101;Cieszyn;;68-101;Cieszyn;3;25;
+804;Wislawa;Maciejewska;Uniwersytet Rolniczy;10;Jastrzębie-Zdrój 51-394;IV;3031;51-394;Jastrzębie-Zdrój;;51-394;Jastrzębie-Zdrój;8;60;
+805;Jozef;Krosno;Politechnika Informatyczno-Elektroniczna;10;Sucha Beskidzka 98-902;I;1102;98-902;Sucha Beskidzka;;98-902;Sucha Beskidzka;2;173;
+806;Maksym;Znojek;Uniwersytet Królewski;10;Świętochłowice 38-932;II;1934;38-932;Świętochłowice;;38-932;Świętochłowice;5;183;
+807;Przemyslaw;Kaczmarek;Uniwersytet Królewski;10;Wodzisław Sląski 83-544;III;1140;83-544;Wodzisław Sląski;;83-544;Wodzisław Sląski;5;206;
+808;Zofia;Barszczewska;Politechnika Królewska;10;Świętochłowice 38-932;II;957;38-932;Świętochłowice;;38-932;Świętochłowice;3;183;
+809;Artur;Binkowski;Politechnika Informatyczno-Elektroniczna;10;Dębowiec 36-478;I;1149;36-478;Dębowiec;;36-478;Dębowiec;2;32;
+810;Adam;Jankowski;Politechnika Informatyczno-Elektroniczna;10;Nowy Sącz 62-813;I;2449;62-813;Nowy Sącz;;62-813;Nowy Sącz;2;124;
+811;Adam;Skalny;Uniwersytet Rolniczy;10;Mysłowice 13-220;III;426;13-220;Mysłowice;;13-220;Mysłowice;8;121;
+812;Mariusz;Garlowski;Uniwersytet Królewski;10;Katowice 72-241;II;2438;72-241;Katowice;;72-241;Katowice;5;71;
+813;Beata;Nowotarska;Politechnika Informatyczno-Elektroniczna;10;Julianka 95-306;I;443;95-306;Julianka;;95-306;Julianka;2;68;
+814;Maciej;Mojsanowicz;Politechnika Królewska;10;Siemianowice Sląskie 09-006;I;2736;09-006;Siemianowice Sląskie;;09-006;Siemianowice Sląskie;3;162;
+815;Anastazja;Majewska;Politechnika Informatyczno-Elektroniczna;10;Bielsk Podlaski 96-087;II;1476;96-087;Bielsk Podlaski;;96-087;Bielsk Podlaski;2;11;
+816;Dorota;Zybowska;Politechnika Informatyczno-Elektroniczna;10;Szczekociny 66-008;I;1338;66-008;Szczekociny;;66-008;Szczekociny;2;179;
+817;Oskar;Kozlowski;Politechnika Informatyczno-Elektroniczna;10;Dobre Miasto 52-964;I;1767;52-964;Dobre Miasto;;52-964;Dobre Miasto;2;35;
+818;Pawel;Guzik;Uniwersytet Sportu i Turystyki;10;Jejkowice 67-738;II;596;67-738;Jejkowice;;67-738;Jejkowice;9;63;
+819;Roman;Jakubczyk;Politechnika Informatyczno-Elektroniczna;10;Chalupki 70-071;II;1621;70-071;Chalupki;;70-071;Chalupki;2;19;
+820;Celina;Mieleszko;Politechnika Informatyczno-Elektroniczna;10;Siewierz 65-885;I;667;65-885;Siewierz;;65-885;Siewierz;2;164;
+821;Joanna;Bycz;Uniwersytet Królewski;10;Baborów 48-364;III;1555;48-364;Baborów;;48-364;Baborów;5;3;
+822;Marek;Walbiner;Uniwersytet Królewski;10;Sanok 71-890;V;2479;71-890;Sanok;;71-890;Sanok;5;160;
+823;Robert;Kasa;Wyższa Szkoła Techniczna;10;Kędzierzyn-Koźle 81-133;I;2535;81-133;Kędzierzyn-Koźle;;81-133;Kędzierzyn-Koźle;10;73;
+824;Piotr;Hardy;Politechnika Informatyczno-Elektroniczna;10;Rabka 30-698;I;2849;30-698;Rabka;;30-698;Rabka;2;152;
+825;Radoslawa;Poniedzialek;Politechnika Informatyczno-Elektroniczna;10;Zabrze 91-525;V;1720;91-525;Zabrze;;91-525;Zabrze;2;211;
+826;Dorota;Stachowska;Politechnika Królewska;10;Racibórz 00-355;I;2242;00-355;Racibórz;;00-355;Racibórz;3;153;
+827;Iwona;Bardzio;Uniwersytet Królewski;10;Jaworzno 98-650;I;3124;98-650;Jaworzno;;98-650;Jaworzno;5;61;
+828;Zygmunt;Banachowicz;Politechnika Królewska;10;Olszyna 69-786;II;3239;69-786;Olszyna;;69-786;Olszyna;3;132;
+829;Adam;Krakowski;Uniwersytet Królewski;10;Zakopane 00-995;I;2391;00-995;Zakopane;;00-995;Zakopane;5;212;
+830;Teresa;Grabik;Politechnika Królewska;10;Miechów 47-553;V;3145;47-553;Miechów;;47-553;Miechów;3;111;
+831;Szymon;Czaja;Politechnika Informatyczno-Elektroniczna;10;Rogoźnik 74-768;V;912;74-768;Rogoźnik;;74-768;Rogoźnik;2;156;
+832;Cezar;Adamski;Akademia Sztuk Pięknych;#N/D;Tarnowskie Góry 24-243;IV;1316;24-243;Tarnowskie Góry;;24-243;Tarnowskie Góry;1;186;
+833;Krystian;Dziwulski;Politechnika Informatyczno-Elektroniczna;10;Przemyśl 38-959;I;2368;38-959;Przemyśl;;38-959;Przemyśl;2;147;
+834;Joanna;Andrychowicz;Uniwersytet Królewski;10;Lublin 79-726;I;1032;79-726;Lublin;;79-726;Lublin;5;103;
+835;Filip;Balica;Politechnika Informatyczno-Elektroniczna;10;Głuchołazy 30-136;I;1617;30-136;Głuchołazy;;30-136;Głuchołazy;2;45;
+836;Patrycja;Kantor;Politechnika Informatyczno-Elektroniczna;10;Kuźnia Raciborska 78-122;IV;534;78-122;Kuźnia Raciborska;;78-122;Kuźnia Raciborska;2;94;
+837;Oskar;Ryba;Politechnika Informatyczno-Elektroniczna;10;Józefów 40-643;II;2275;40-643;Józefów;;40-643;Józefów;2;67;
+838;Miron;Raban;Politechnika Informatyczno-Elektroniczna;10;Pyrzowice 49-345;IV;1362;49-345;Pyrzowice;;49-345;Pyrzowice;2;150;
+839;Przemyslaw;Choloniewski;Uniwersytet Ekonomiczny;10;Cieszyn 68-101;V;2602;68-101;Cieszyn;;68-101;Cieszyn;4;25;
+840;Sebastian;Carek;Politechnika Informatyczno-Elektroniczna;10;Gierałtowice 04-834;II;2328;04-834;Gierałtowice;;04-834;Gierałtowice;2;42;
+841;Karol;Wlodek;Politechnika Informatyczno-Elektroniczna;10;Katowice 72-241;IV;2534;72-241;Katowice;;72-241;Katowice;2;71;
+842;Bogdan;Benedykt;Akademia Sztuk Pięknych;#N/D;Świnoujskie 13-345;I;2228;13-345;Świnoujskie;;13-345;Świnoujskie;1;184;
+843;Brygida;Jakobik;Uniwersytet Królewski;10;Olkusz 19-255;V;2648;19-255;Olkusz;;19-255;Olkusz;5;130;
+844;Paulina;Szeruga;Uniwersytet Królewski;10;Olkusz 19-255;I;2077;19-255;Olkusz;;19-255;Olkusz;5;130;
+845;Jadwiga;Loch;Uniwersytet Królewski;10;Mysłowice 13-220;I;1676;13-220;Mysłowice;;13-220;Mysłowice;5;121;
+846;Ewa;Sosnowska;Uniwersytet Ekonomiczny;10;Nysa 72-297;I;1151;72-297;Nysa;;72-297;Nysa;4;126;
+847;Roman;Aronowski;Uniwersytet Pedagogiczny;10;Świętochłowice 38-932;I;1576;38-932;Świętochłowice;;38-932;Świętochłowice;7;183;
+848;Jaroslaw;Szczepanski;Uniwersytet Królewski;10;Nowy Targ 84-043;II;2180;84-043;Nowy Targ;;84-043;Nowy Targ;5;125;
+849;Andrzej;Bilinski;Wyższa Szkoła Techniczna;10;Dobre Miasto 52-964;I;1048;52-964;Dobre Miasto;;52-964;Dobre Miasto;10;35;
+850;Jacek;Halemba;Uniwersytet Ekonomiczny;10;Ciechocinek 98-839;II;1165;98-839;Ciechocinek;;98-839;Ciechocinek;4;24;
+851;Tomasz;Wojtkiewicz;Politechnika Informatyczno-Elektroniczna;10;Poznań 40-853;I;2811;40-853;Poznań;;40-853;Poznań;2;144;
+852;Mateusz;Kojec;Politechnika Królewska;10;Sławków 42-081;I;1884;42-081;Sławków;;42-081;Sławków;3;167;
+853;Ewelina;Ambroziak;Politechnika Królewska;10;Białaszewo 56-545;I;2891;56-545;Białaszewo;;56-545;Białaszewo;3;9;
+854;Beata;Moskala;Politechnika Królewska;10;Mysłowice 13-220;IV;972;13-220;Mysłowice;;13-220;Mysłowice;3;121;
+855;Kamil;Amanowicz;Politechnika Królewska;10;Wodzisław Sląski 83-544;I;535;83-544;Wodzisław Sląski;;83-544;Wodzisław Sląski;3;206;
+856;Jadwiga;Chodorowska;Uniwersytet Królewski;10;Nałęczów 83-630;I;2763;83-630;Nałęczów;;83-630;Nałęczów;5;123;
+857;Janina;Bawinek;Politechnika Królewska;10;Pyrzyce 76-362;I;3327;76-362;Pyrzyce;;76-362;Pyrzyce;3;151;
+858;Eustachy;Kendziora;Uniwersytet Królewski;10;Bielsk Podlaski 96-087;IV;2414;96-087;Bielsk Podlaski;;96-087;Bielsk Podlaski;5;11;
+859;Karolina;Bromska;Politechnika Informatyczno-Elektroniczna;10;Dębica 53-306;I;2480;53-306;Dębica;;53-306;Dębica;2;30;
+860;Robert;Rurski;Politechnika Informatyczno-Elektroniczna;10;Wejherowo 68-209;II;1955;68-209;Wejherowo;;68-209;Wejherowo;2;200;
+861;Andrzej;Koziol;Politechnika Informatyczno-Elektroniczna;10;Szczyrk 75-361;V;1428;75-361;Szczyrk;;75-361;Szczyrk;2;180;
+862;Dominika;Maslon;Uniwersytet Ekonomiczny;10;Zgorzelec 79-972;I;1175;79-972;Zgorzelec;;79-972;Zgorzelec;4;216;
+863;Martyn;Wisniewski;Politechnika Informatyczno-Elektroniczna;10;Zabrze 91-525;V;2380;91-525;Zabrze;;91-525;Zabrze;2;211;
+864;Elzbieta;Makalu;Uniwersytet Królewski;10;Brzesko 96-703;V;2964;96-703;Brzesko;;96-703;Brzesko;5;16;
+865;Beata;Nowakowska;Uniwersytet Królewski;10;Myszków 91-786;III;3044;91-786;Myszków;;91-786;Myszków;5;122;
+866;Anna;Sawicka;Uniwersytet Królewski;10;Nowy Targ 84-043;V;1134;84-043;Nowy Targ;;84-043;Nowy Targ;5;125;
+867;Elzbieta;Wieczorek;Politechnika Informatyczno-Elektroniczna;10;Pszczyna 53-858;IV;3214;53-858;Pszczyna;;53-858;Pszczyna;2;148;
+868;Jerzy;Kaktus;Politechnika Informatyczno-Elektroniczna;10;Mordy 07-754;I;2732;07-754;Mordy;;07-754;Mordy;2;120;
+869;Alicja;Cichocka;Uniwersytet Pedagogiczny;10;Sosnowiec 14-721;I;780;14-721;Sosnowiec;;14-721;Sosnowiec;7;170;
+870;Jolanta;Kukulska;Uniwersytet Rolniczy;10;Wolbrom 46-174;I;2523;46-174;Wolbrom;;46-174;Wolbrom;8;208;
+871;Magdalena;Jackowska;Uniwersytet Królewski;10;Wodzisław Sląski 83-544;I;3178;83-544;Wodzisław Sląski;;83-544;Wodzisław Sląski;5;206;
+872;Dagmara;Szumska;Politechnika Informatyczno-Elektroniczna;10;Sanok 71-890;I;2039;71-890;Sanok;;71-890;Sanok;2;160;
+873;Aleksandra;Paluch;Uniwersytet Królewski;10;Ustroń 51-637;I;2456;51-637;Ustroń;;51-637;Ustroń;5;194;
+874;Marek;Markiewicz;Politechnika Informatyczno-Elektroniczna;10;Mikołów 96-497;I;620;96-497;Mikołów;;96-497;Mikołów;2;116;
+875;Roman;Arecki;Uniwersytet Królewski;10;Siemianowice Sląskie 09-006;I;2086;09-006;Siemianowice Sląskie;;09-006;Siemianowice Sląskie;5;162;
+876;Mikolaj;Lisinski;Uniwersytet Królewski;10;Szczecin 22-544;I;930;22-544;Szczecin;;22-544;Szczecin;5;177;
+877;Maria;Baron;Uniwersytet Królewski;10;Będzin 69-501;I;1112;69-501;Będzin;;69-501;Będzin;5;7;
+878;Grzegorz;Jaworski;Uniwersytet Sportu i Turystyki;10;Tarnowskie Góry 24-243;I;2185;24-243;Tarnowskie Góry;;24-243;Tarnowskie Góry;9;186;
+879;Magdalena;Rysowicz;Politechnika Królewska;10;Tychy 76-939;I;1731;76-939;Tychy;;76-939;Tychy;3;193;
+880;Dominik;Marek;Uniwersytet Królewski;10;Gliwice 11-608;IV;519;11-608;Gliwice;;11-608;Gliwice;5;43;
+881;Franciszek;Kucharski;Politechnika Informatyczno-Elektroniczna;10;Tarnobrzeg 85-266;IV;2317;85-266;Tarnobrzeg;;85-266;Tarnobrzeg;2;185;
+882;Urszula;Czajka;Uniwersytet Królewski;10;Katowice 72-241;II;1846;72-241;Katowice;;72-241;Katowice;5;71;
+883;Anna;Szyma;Politechnika Informatyczno-Elektroniczna;10;Rogoźnik 74-768;IV;753;74-768;Rogoźnik;;74-768;Rogoźnik;2;156;
+884;Radomil;Grudzien;Politechnika Królewska;10;Jędrzejów 62-049;V;2077;62-049;Jędrzejów;;62-049;Jędrzejów;3;66;
+885;Wladyslawa;Konwicka;Politechnika Informatyczno-Elektroniczna;10;Świętochłowice 38-932;V;1259;38-932;Świętochłowice;;38-932;Świętochłowice;2;183;
+886;Jadwiga;Osinska;Politechnika Informatyczno-Elektroniczna;10;Strzelce Opolskie 60-596;II;1004;60-596;Strzelce Opolskie;;60-596;Strzelce Opolskie;2;172;
+887;Stefan;Kalinowski;Uniwersytet Rolniczy;10;Mysłowice 13-220;II;1932;13-220;Mysłowice;;13-220;Mysłowice;8;121;
+888;Karol;Myrcik;Politechnika Informatyczno-Elektroniczna;10;Rybnik 24-983;II;2011;24-983;Rybnik;;24-983;Rybnik;2;158;
+889;Anna;Oman;Politechnika Informatyczno-Elektroniczna;10;Jędrzejów 62-049;I;1445;62-049;Jędrzejów;;62-049;Jędrzejów;2;66;
+890;Piotr;Bajer;Politechnika Informatyczno-Elektroniczna;10;Rajcza 18-286;I;2408;18-286;Rajcza;;18-286;Rajcza;2;155;
+891;Paulina;Wierzchowska;Politechnika Informatyczno-Elektroniczna;10;Katowice 72-241;I;1554;72-241;Katowice;;72-241;Katowice;2;71;
+892;Zofia;Chalupka;Uniwersytet Królewski;10;Kudowa-Słone 83-829;II;3255;83-829;Kudowa-Słone;;83-829;Kudowa-Słone;5;93;
+893;Celina;Mirow;Politechnika Informatyczno-Elektroniczna;10;Wrocław 62-182;I;2732;62-182;Wrocław;;62-182;Wrocław;2;209;
+894;Tadeusz;Kotowicz;Politechnika Informatyczno-Elektroniczna;10;Katowice 72-241;II;1950;72-241;Katowice;;72-241;Katowice;2;71;
+895;Elzbieta;Wielgus;Politechnika Królewska;10;Bytom 80-339;III;2581;80-339;Bytom;;80-339;Bytom;3;18;
+896;Elzbieta;Kwiatkowska;Uniwersytet Królewski;10;Kalisz 29-379;III;1590;29-379;Kalisz;;29-379;Kalisz;5;69;
+897;Malgorzata;Pisarskiewicz;Politechnika Królewska;10;Tarnów 87-348;I;3064;87-348;Tarnów;;87-348;Tarnów;3;187;
+898;Sobieslaw;Bulwan;Politechnika Królewska;10;Łęczyca 16-385;I;970;16-385;Łęczyca;;16-385;Łęczyca;3;107;
+899;Dorota;Marchewka;Akademia Sztuk Pięknych;#N/D;Wisła 99-436;III;1632;99-436;Wisła;;99-436;Wisła;1;202;
+900;Patrycja;Metz;Uniwersytet Królewski;10;Tychy 76-939;I;1547;76-939;Tychy;;76-939;Tychy;5;193;
+901;Zachariasz;Jakimow;Uniwersytet Królewski;10;Rybnik 24-983;IV;527;24-983;Rybnik;;24-983;Rybnik;5;158;
+902;Jakub;Malarski;Politechnika Informatyczno-Elektroniczna;10;Bożewo 94-896;IV;2104;94-896;Bożewo;;94-896;Bożewo;2;13;
+903;Oskar;Rakowski;Uniwersytet Królewski;10;Dąbrowa Górnicza 75-727;I;475;75-727;Dąbrowa Górnicza;;75-727;Dąbrowa Górnicza;5;28;
+904;Tomasz;Dudzinski;Politechnika Informatyczno-Elektroniczna;10;Warszawa 83-294;V;744;83-294;Warszawa;;83-294;Warszawa;2;198;
+905;Jaromir;Szybki;Politechnika Informatyczno-Elektroniczna;10;Giebło 76-179;IV;679;76-179;Giebło;;76-179;Giebło;2;41;
+906;Krzysztof;Linus;Uniwersytet Królewski;10;Rzeszów 89-735;I;2232;89-735;Rzeszów;;89-735;Rzeszów;5;159;
+907;Andrzej;Inny;Uniwersytet Królewski;10;Zambrów 53-324;I;1525;53-324;Zambrów;;53-324;Zambrów;5;213;
+908;Wojciech;Batory;Akademia Sztuk Pięknych;#N/D;Bochnia 89-362;II;1442;89-362;Bochnia;;89-362;Bochnia;1;12;
+909;Monika;Drzewiecka;Politechnika Informatyczno-Elektroniczna;10;Olkusz 19-255;I;1736;19-255;Olkusz;;19-255;Olkusz;2;130;
+910;Renata;Kalwas;Politechnika Informatyczno-Elektroniczna;10;Rzeszów 89-735;IV;1252;89-735;Rzeszów;;89-735;Rzeszów;2;159;
+911;Jan;Sztonyk;Politechnika Informatyczno-Elektroniczna;10;Radom 43-586;I;2533;43-586;Radom;;43-586;Radom;2;154;
+912;Kacper;Kita;Uniwersytet Królewski;10;Sławków 42-081;I;2006;42-081;Sławków;;42-081;Sławków;5;167;
+913;Zofia;Kruszewska;Politechnika Informatyczno-Elektroniczna;10;Wodzisław Sląski 83-544;V;1700;83-544;Wodzisław Sląski;;83-544;Wodzisław Sląski;2;206;
+914;Radzimierz;Wojciechowski;Uniwersytet Królewski;10;Rzeszów 89-735;III;555;89-735;Rzeszów;;89-735;Rzeszów;5;159;
+915;Wojciech;Augustowski;Politechnika Informatyczno-Elektroniczna;10;Koniaków 34-607;II;814;34-607;Koniaków;;34-607;Koniaków;2;82;
+916;Barbara;Chudzik;Uniwersytet Królewski;10;Katowice 72-241;III;3011;72-241;Katowice;;72-241;Katowice;5;71;
+917;Wojtek;Trzconka;Uniwersytet Królewski;10;Miechów 47-553;V;1913;47-553;Miechów;;47-553;Miechów;5;111;
+918;Aleksy;Wur;Politechnika Informatyczno-Elektroniczna;10;Dębica 53-306;V;1021;53-306;Dębica;;53-306;Dębica;2;30;
+919;Bogumila;Piotrowska;Politechnika Królewska;10;Katowice 72-241;II;3306;72-241;Katowice;;72-241;Katowice;3;71;
+920;Natalia;Sikorska;Akademia Sztuk Pięknych;#N/D;Świętochłowice 38-932;I;2452;38-932;Świętochłowice;;38-932;Świętochłowice;1;183;
+921;Hanna;Pietrzyk;Uniwersytet Królewski;10;Nowy Targ 84-043;I;2589;84-043;Nowy Targ;;84-043;Nowy Targ;5;125;
+922;Malgorzata;Janowska;Politechnika Informatyczno-Elektroniczna;10;Krzeszowice 91-488;II;1464;91-488;Krzeszowice;;91-488;Krzeszowice;2;91;
+923;Danuta;Chmielewska;Politechnika Informatyczno-Elektroniczna;10;Tomaszów Lubelski 95-084;V;1936;95-084;Tomaszów Lubelski;;95-084;Tomaszów Lubelski;2;189;
+924;Pawel;Banasiak;Politechnika Informatyczno-Elektroniczna;10;Alwernia 27-938;I;3317;27-938;Alwernia;;27-938;Alwernia;2;2;
+925;Adam;Zareba;Politechnika Informatyczno-Elektroniczna;10;Nowy Sącz 62-813;I;985;62-813;Nowy Sącz;;62-813;Nowy Sącz;2;124;
+926;Fryderyka;Krzyskow;Uniwersytet Królewski;10;Tworóg 62-560;IV;2117;62-560;Tworóg;;62-560;Tworóg;5;192;
+927;Ewa;Sochacka;Uniwersytet Muzyczny;10;Nowy Targ 84-043;I;2333;84-043;Nowy Targ;;84-043;Nowy Targ;6;125;
+928;Kacper;Starachowicz;Politechnika Królewska;10;Tarnobrzeg 85-266;II;1802;85-266;Tarnobrzeg;;85-266;Tarnobrzeg;3;185;
+929;Renata;Banachowicz;Politechnika Informatyczno-Elektroniczna;10;Piotrków Trybunalski 04-419;I;464;04-419;Piotrków Trybunalski;;04-419;Piotrków Trybunalski;2;140;
+930;Donald;Bakowski;Akademia Sztuk Pięknych;#N/D;Sławków 42-081;I;1410;42-081;Sławków;;42-081;Sławków;1;167;
+931;Roza;Labaziewicz;Uniwersytet Pedagogiczny;10;Długopole-Zdrój 07-772;II;2958;07-772;Długopole-Zdrój;;07-772;Długopole-Zdrój;7;33;
+932;Artur;Blotny;Uniwersytet Rolniczy;10;Racibórz 00-355;I;1641;00-355;Racibórz;;00-355;Racibórz;8;153;
+933;Adam;Paterek;Politechnika Królewska;10;Wodzisław Sląski 83-544;I;2559;83-544;Wodzisław Sląski;;83-544;Wodzisław Sląski;3;206;
+934;Magdalena;Kulig;Politechnika Informatyczno-Elektroniczna;10;Wodzisław Sląski 83-544;I;715;83-544;Wodzisław Sląski;;83-544;Wodzisław Sląski;2;206;
+935;Pawel;Banasiewicz;Politechnika Informatyczno-Elektroniczna;10;Bytom 80-339;I;579;80-339;Bytom;;80-339;Bytom;2;18;
+936;Wiktor;Buchta;Uniwersytet Rolniczy;10;Krosno 80-338;III;1652;80-338;Krosno;;80-338;Krosno;8;89;
+937;Sobieslaw;Symanski;Uniwersytet Królewski;10;Ogrodzieniec 82-082;II;983;82-082;Ogrodzieniec;;82-082;Ogrodzieniec;5;129;
+938;Dariusz;Kowalczyk;Uniwersytet Królewski;10;Nowy Targ 84-043;III;2441;84-043;Nowy Targ;;84-043;Nowy Targ;5;125;
+939;Mieszko;Lewy;Politechnika Królewska;10;Zabrze 91-525;II;1408;91-525;Zabrze;;91-525;Zabrze;3;211;
+940;Wiktoria;Gumienny;Politechnika Królewska;10;Rabka 30-698;I;855;30-698;Rabka;;30-698;Rabka;3;152;
+941;Sylwia;Filipowicz;Politechnika Informatyczno-Elektroniczna;10;Kościan 26-594;II;2693;26-594;Kościan;;26-594;Kościan;2;86;
+942;Zofia;Maciarz;Politechnika Królewska;10;Jaworzynka 56-921;V;1299;56-921;Jaworzynka;;56-921;Jaworzynka;3;62;
+943;Frydryk;Alancki;Uniwersytet Sportu i Turystyki;10;Międzyrzecze 28-079;III;2855;28-079;Międzyrzecze;;28-079;Międzyrzecze;9;114;
+944;Patrycja;Roman;Uniwersytet Królewski;10;Toruń 90-535;I;3345;90-535;Toruń;;90-535;Toruń;5;190;
+945;Jolanta;Chmiel;Uniwersytet Królewski;10;Poraj 80-436;I;1300;80-436;Poraj;;80-436;Poraj;5;143;
+946;Boleslaw;Bialowasicz;Politechnika Informatyczno-Elektroniczna;10;Przemyśl 38-959;I;2057;38-959;Przemyśl;;38-959;Przemyśl;2;147;
+947;Agnieszka;Stachowiak;Uniwersytet Pedagogiczny;10;Katowice 72-241;I;3199;72-241;Katowice;;72-241;Katowice;7;71;
+948;Bronislawa;Ludwig;Uniwersytet Królewski;10;Warszawa 83-294;III;1400;83-294;Warszawa;;83-294;Warszawa;5;198;
+949;Wojciech;Iwanski;Uniwersytet Pedagogiczny;10;Bezledy 75-057;II;2580;75-057;Bezledy;;75-057;Bezledy;7;6;
+950;Elzbieta;Zagorska;Politechnika Królewska;10;Lędziny 27-535;IV;486;27-535;Lędziny;;27-535;Lędziny;3;99;
+951;Wielislaw;Watroba;Politechnika Informatyczno-Elektroniczna;10;Świętochłowice 38-932;III;1035;38-932;Świętochłowice;;38-932;Świętochłowice;2;183;
+952;Kamil;Bartnik;Politechnika Informatyczno-Elektroniczna;10;Elbląg 10-656;I;1718;10-656;Elbląg;;10-656;Elbląg;2;37;
+953;Zygmunt;Grzmil;Politechnika Informatyczno-Elektroniczna;10;Prudnik 09-823;II;1346;09-823;Prudnik;;09-823;Prudnik;2;145;
+954;Mateusz;Kawicki;Politechnika Informatyczno-Elektroniczna;10;Bielsk Podlaski 96-087;I;3253;96-087;Bielsk Podlaski;;96-087;Bielsk Podlaski;2;11;
+955;Mateusz;Mazurkiewicz;Politechnika Informatyczno-Elektroniczna;10;Wojkowice 84-273;I;3000;84-273;Wojkowice;;84-273;Wojkowice;2;207;
+956;Cecylia;Boguslawska;Politechnika Królewska;10;Szczyrk 75-361;IV;1225;75-361;Szczyrk;;75-361;Szczyrk;3;180;
+957;Alicja;Urbanczyk;Uniwersytet Ekonomiczny;10;Szczyrk 75-361;I;3022;75-361;Szczyrk;;75-361;Szczyrk;4;180;
+958;Jan;Kamyk;Uniwersytet Rolniczy;10;Bielsk Podlaski 96-087;I;2899;96-087;Bielsk Podlaski;;96-087;Bielsk Podlaski;8;11;
+959;Anna;Pytka;Politechnika Królewska;10;Tarnów 87-348;I;1146;87-348;Tarnów;;87-348;Tarnów;3;187;
+960;Ryszard;Grabowski;Politechnika Informatyczno-Elektroniczna;10;Gdańsk 83-271;III;728;83-271;Gdańsk;;83-271;Gdańsk;2;39;
+961;Janusz;Smitkowski;Politechnika Królewska;10;Pszczyna 53-858;V;2238;53-858;Pszczyna;;53-858;Pszczyna;3;148;
+962;Jan;Karbowniczek;Politechnika Informatyczno-Elektroniczna;10;Pyrzyce 76-362;IV;2865;76-362;Pyrzyce;;76-362;Pyrzyce;2;151;
+963;Teresa;Wozniak;Uniwersytet Królewski;10;Tarnów 87-348;II;3094;87-348;Tarnów;;87-348;Tarnów;5;187;
+964;Mateusz;Chwalinski;Politechnika Królewska;10;Włodowice 37-089;I;1802;37-089;Włodowice;;37-089;Włodowice;3;205;
+965;Wojciech;Sobczak;Politechnika Królewska;10;Kuźnia Raciborska 78-122;I;2626;78-122;Kuźnia Raciborska;;78-122;Kuźnia Raciborska;3;94;
+966;Zofia;Klein;Politechnika Królewska;10;Kuźnia Raciborska 78-122;III;849;78-122;Kuźnia Raciborska;;78-122;Kuźnia Raciborska;3;94;
+967;Eustachy;Pustulka;Uniwersytet Królewski;10;Dąbrowa Górnicza 75-727;III;1080;75-727;Dąbrowa Górnicza;;75-727;Dąbrowa Górnicza;5;28;
+968;Lucyna;Sokolowska;Politechnika Królewska;10;Koniaków 34-607;II;2284;34-607;Koniaków;;34-607;Koniaków;3;82;
+969;Rafal;Rybak;Politechnika Informatyczno-Elektroniczna;10;Dobieszowice 34-734;II;1366;34-734;Dobieszowice;;34-734;Dobieszowice;2;34;
+970;Agnieszka;Baranowska;Uniwersytet Królewski;10;Pszczyna 53-858;I;772;53-858;Pszczyna;;53-858;Pszczyna;5;148;
+971;Anna;Szafranska;Politechnika Informatyczno-Elektroniczna;10;Bielsk Podlaski 96-087;I;1671;96-087;Bielsk Podlaski;;96-087;Bielsk Podlaski;2;11;
+972;Malgorzata;Koczorowska;Politechnika Informatyczno-Elektroniczna;10;Katowice 72-241;I;431;72-241;Katowice;;72-241;Katowice;2;71;
+973;Gracja;Warecka;Politechnika Królewska;10;Siewierz 65-885;II;3030;65-885;Siewierz;;65-885;Siewierz;3;164;
+974;Michal;Piechota;Uniwersytet Ekonomiczny;10;Chorzów 97-545;V;1748;97-545;Chorzów;;97-545;Chorzów;4;21;
+975;Krystyna;Brylka;Politechnika Informatyczno-Elektroniczna;10;Głuchołazy 30-136;V;2256;30-136;Głuchołazy;;30-136;Głuchołazy;2;45;
+976;Filip;Harazim;Uniwersytet Królewski;10;Zawiercie 58-922;I;883;58-922;Zawiercie;;58-922;Zawiercie;5;215;
+977;Maria;Bakala;Uniwersytet Królewski;10;Jastrzębie-Zdrój 51-394;I;2293;51-394;Jastrzębie-Zdrój;;51-394;Jastrzębie-Zdrój;5;60;
+978;Piotr;Jablonski;Politechnika Informatyczno-Elektroniczna;10;Sanok 71-890;V;1185;71-890;Sanok;;71-890;Sanok;2;160;
+979;Michal;Powietrzynski;Uniwersytet Królewski;10;Radom 43-586;I;2260;43-586;Radom;;43-586;Radom;5;154;
+980;Adelajda;Sobczak;Politechnika Informatyczno-Elektroniczna;10;Trzebinia 26-607;I;1087;26-607;Trzebinia;;26-607;Trzebinia;2;191;
+981;Ryszard;Skrzypczyk;Politechnika Królewska;10;Cieszyn 68-101;III;1049;68-101;Cieszyn;;68-101;Cieszyn;3;25;
+982;Marek;Marciniak;Uniwersytet Królewski;10;Rabka 30-698;I;827;30-698;Rabka;;30-698;Rabka;5;152;
+983;Slawomir;Afganski;Uniwersytet Muzyczny;10;Wolbrom 46-174;II;1583;46-174;Wolbrom;;46-174;Wolbrom;6;208;
+984;Jolanta;Marcz;Politechnika Królewska;10;Wolbrom 46-174;I;573;46-174;Wolbrom;;46-174;Wolbrom;3;208;
+985;Tomasz;Kania;Uniwersytet Królewski;10;Strzelce Opolskie 60-596;I;2458;60-596;Strzelce Opolskie;;60-596;Strzelce Opolskie;5;172;
+986;Barbara;Krzeczkowska;Politechnika Informatyczno-Elektroniczna;10;Zamość 99-773;I;1418;99-773;Zamość;;99-773;Zamość;2;214;
+987;Zuzanna;Walczynska;Politechnika Królewska;10;Wadowice 47-222;I;1035;47-222;Wadowice;;47-222;Wadowice;3;195;
+988;Gabriela;Zajac;Politechnika Królewska;10;Cieszyn 68-101;II;1757;68-101;Cieszyn;;68-101;Cieszyn;3;25;
+989;Henryk;Walczak;Uniwersytet Królewski;10;Będzin 69-501;II;923;69-501;Będzin;;69-501;Będzin;5;7;
+990;Kuba;Kaminska;Uniwersytet Królewski;10;Bytom 80-339;II;1274;80-339;Bytom;;80-339;Bytom;5;18;
+991;Wieslaw;Bananowski;Politechnika Informatyczno-Elektroniczna;10;Bielsk Podlaski 96-087;II;2930;96-087;Bielsk Podlaski;;96-087;Bielsk Podlaski;2;11;
+992;Roman;Szumylowicz;Politechnika Informatyczno-Elektroniczna;10;Kędzierzyn-Koźle 81-133;IV;1176;81-133;Kędzierzyn-Koźle;;81-133;Kędzierzyn-Koźle;2;73;
+993;Bronislaw;Hubertus;Uniwersytet Pedagogiczny;10;Gierałtowice 04-834;I;2912;04-834;Gierałtowice;;04-834;Gierałtowice;7;42;
+994;Roman;Buszek;Uniwersytet Królewski;10;Bezledy 75-057;II;771;75-057;Bezledy;;75-057;Bezledy;5;6;
+995;Ewa;Szepelak;Politechnika Informatyczno-Elektroniczna;10;Płock 04-688;I;2284;04-688;Płock;;04-688;Płock;2;142;
+996;Szymon;Wcislowski;Uniwersytet Rolniczy;10;Gryfice 51-783;II;1444;51-783;Gryfice;;51-783;Gryfice;8;50;
+997;Aleksandra;Pietak;Uniwersytet Królewski;10;Ciechanów 37-640;I;2499;37-640;Ciechanów;;37-640;Ciechanów;5;23;
+998;Kacper;Berkowski;Uniwersytet Muzyczny;10;Otmuchów 69-204;I;1127;69-204;Otmuchów;;69-204;Otmuchów;6;136;
+999;Jagoda;Szmaglinska;Politechnika Królewska;10;Siewierz 65-885;I;605;65-885;Siewierz;;65-885;Siewierz;3;164;
+1000;Mariusz;Morawski;Politechnika Królewska;10;Rajcza 18-286;IV;467;18-286;Rajcza;;18-286;Rajcza;3;155;
+1001;Natalia;Kochman;Akademia Sztuk Pięknych;#N/D;Skorogoszcz 57-633;I;2854;57-633;Skorogoszcz;;57-633;Skorogoszcz;1;166;
+1002;Zofia;Bartczak;Politechnika Informatyczno-Elektroniczna;10;Zabrze 91-525;II;1551;91-525;Zabrze;;91-525;Zabrze;2;211;
+1003;Celina;Kubera;Uniwersytet Królewski;10;Brzesko 96-703;IV;729;96-703;Brzesko;;96-703;Brzesko;5;16;
+1004;Faustyn;Katana;Politechnika Królewska;10;Legionowo 36-889;I;3318;36-889;Legionowo;;36-889;Legionowo;3;96;
+1005;Amelia;Awast;Politechnika Królewska;10;Głubczyce 65-458;I;3321;65-458;Głubczyce;;65-458;Głubczyce;3;44;
+1006;Paulina;Michalak;Politechnika Królewska;10;Tarnowskie Góry 24-243;I;1204;24-243;Tarnowskie Góry;;24-243;Tarnowskie Góry;3;186;
+1007;Frydryk;Wenc;Politechnika Informatyczno-Elektroniczna;10;Poznań 40-853;V;1452;40-853;Poznań;;40-853;Poznań;2;144;
+1008;Aleksander;Bolkowski;Politechnika Królewska;10;Wisła 99-436;I;3247;99-436;Wisła;;99-436;Wisła;3;202;
+1009;Celestyna;Ozga;Politechnika Informatyczno-Elektroniczna;10;Dąbrowa Górnicza 75-727;II;1377;75-727;Dąbrowa Górnicza;;75-727;Dąbrowa Górnicza;2;28;
+1010;Lucja;Wicinska;Uniwersytet Królewski;10;Katowice 72-241;I;2180;72-241;Katowice;;72-241;Katowice;5;71;
+1011;Jerzy;Gibki;Uniwersytet Królewski;10;Mikołów 96-497;III;1770;96-497;Mikołów;;96-497;Mikołów;5;116;
+1012;Halina;Klimaszewska;Politechnika Informatyczno-Elektroniczna;10;Szamotuły 64-698;I;2138;64-698;Szamotuły;;64-698;Szamotuły;2;176;
+1013;Mateusz;Wolny;Uniwersytet Pedagogiczny;10;Włodowice 37-089;V;1240;37-089;Włodowice;;37-089;Włodowice;7;205;
+1014;Jadwiga;Tarkowska;Politechnika Informatyczno-Elektroniczna;10;Tychy 76-939;II;558;76-939;Tychy;;76-939;Tychy;2;193;
+1015;Tomasz;Bansik;Uniwersytet Królewski;10;Nałęczów 83-630;II;2355;83-630;Nałęczów;;83-630;Nałęczów;5;123;
+1016;Zofia;Staniec;Politechnika Królewska;10;Karniewo 21-405;II;610;21-405;Karniewo;;21-405;Karniewo;3;70;
+1017;Jerzy;Barankiewicz;Politechnika Królewska;10;Olkusz 19-255;I;869;19-255;Olkusz;;19-255;Olkusz;3;130;
+1018;Anna;Ludwin;Uniwersytet Królewski;10;Barwinek 09-428;IV;2514;09-428;Barwinek;;09-428;Barwinek;5;5;
+1019;Jaroslaw;Nowik;Politechnika Królewska;10;Nowy Sącz 62-813;III;3069;62-813;Nowy Sącz;;62-813;Nowy Sącz;3;124;
+1020;Kamil;Kozlowski;Uniwersytet Pedagogiczny;10;Wolbrom 46-174;V;843;46-174;Wolbrom;;46-174;Wolbrom;7;208;
+1021;Anna;Klubicka;Politechnika Informatyczno-Elektroniczna;10;Puławy 66-219;I;2039;66-219;Puławy;;66-219;Puławy;2;149;
+1022;Paulina;Barcik;Uniwersytet Królewski;10;Zakopane 00-995;I;821;00-995;Zakopane;;00-995;Zakopane;5;212;
+1023;Edyta;Wojcik;Politechnika Informatyczno-Elektroniczna;10;Katowice 72-241;III;2649;72-241;Katowice;;72-241;Katowice;2;71;
+1024;Karol;Brodowicz;Politechnika Królewska;10;Jasło 92-050;IV;1519;92-050;Jasło;;92-050;Jasło;3;59;
+1025;Kamil;Malek;Uniwersytet Ekonomiczny;10;Miechów 47-553;II;2719;47-553;Miechów;;47-553;Miechów;4;111;
+1026;Ewa;Holda;Politechnika Informatyczno-Elektroniczna;10;Wejherowo 68-209;II;628;68-209;Wejherowo;;68-209;Wejherowo;2;200;
+1027;Anna;Krakowska;Politechnika Informatyczno-Elektroniczna;10;Głubczyce 65-458;I;3035;65-458;Głubczyce;;65-458;Głubczyce;2;44;
+1028;Honorata;Jasinska;Politechnika Informatyczno-Elektroniczna;10;Dąbrowa Górnicza 75-727;II;530;75-727;Dąbrowa Górnicza;;75-727;Dąbrowa Górnicza;2;28;
+1029;Roman;Badurzewski;Politechnika Informatyczno-Elektroniczna;10;Rabka 30-698;I;2135;30-698;Rabka;;30-698;Rabka;2;152;
+1030;Mateusz;Switaj;Politechnika Królewska;10;Limanowa 65-385;I;1947;65-385;Limanowa;;65-385;Limanowa;3;100;
+1031;Franciszek;Piaty;Politechnika Informatyczno-Elektroniczna;10;Jejkowice 67-738;IV;1202;67-738;Jejkowice;;67-738;Jejkowice;2;63;
+1032;Mikolaj;Pietras;Politechnika Królewska;10;Gliwice 11-608;I;2686;11-608;Gliwice;;11-608;Gliwice;3;43;
+1033;Urszula;Misiak;Politechnika Królewska;10;Ustroń 51-637;II;590;51-637;Ustroń;;51-637;Ustroń;3;194;
+1034;Anna;Halinowska;Politechnika Informatyczno-Elektroniczna;10;Świętochłowice 38-932;I;1934;38-932;Świętochłowice;;38-932;Świętochłowice;2;183;
+1035;Antoni;Borowicz;Uniwersytet Królewski;10;Olkusz 19-255;IV;2699;19-255;Olkusz;;19-255;Olkusz;5;130;
+1036;Jozef;Maj;Politechnika Informatyczno-Elektroniczna;10;Jaworzno 98-650;II;1191;98-650;Jaworzno;;98-650;Jaworzno;2;61;
+1037;Zofia;Miejska;Akademia Sztuk Pięknych;#N/D;Przemyśl 38-959;II;3283;38-959;Przemyśl;;38-959;Przemyśl;1;147;
+1038;Andrzej;Dubala;Politechnika Informatyczno-Elektroniczna;10;Siemianowice Sląskie 09-006;I;2519;09-006;Siemianowice Sląskie;;09-006;Siemianowice Sląskie;2;162;
+1039;Wincenty;Klimkiewicz;Uniwersytet Królewski;10;Racibórz 00-355;I;1416;00-355;Racibórz;;00-355;Racibórz;5;153;
+1040;Zdzislawa;Hejak;Politechnika Informatyczno-Elektroniczna;10;Przemyśl 38-959;IV;2233;38-959;Przemyśl;;38-959;Przemyśl;2;147;
+1041;Franciszek;Leszczynski;Uniwersytet Królewski;10;Mysłowice 13-220;IV;2676;13-220;Mysłowice;;13-220;Mysłowice;5;121;
+1042;Maksym;Majewski;Politechnika Informatyczno-Elektroniczna;10;Łomża 22-623;III;1309;22-623;Łomża;;22-623;Łomża;2;108;
+1043;Kamil;Kucharski;Politechnika Informatyczno-Elektroniczna;10;Wolbrom 46-174;II;923;46-174;Wolbrom;;46-174;Wolbrom;2;208;
+1044;Elwira;Banowicz;Politechnika Królewska;10;Jastrzębie-Zdrój 51-394;I;1397;51-394;Jastrzębie-Zdrój;;51-394;Jastrzębie-Zdrój;3;60;
+1045;Zofia;Skrzydlewska;Politechnika Informatyczno-Elektroniczna;10;Siemianowice Sląskie 09-006;V;1545;09-006;Siemianowice Sląskie;;09-006;Siemianowice Sląskie;2;162;
+1046;Miloslaw;Kozik;Politechnika Informatyczno-Elektroniczna;10;Sośnicowice 15-658;III;2367;15-658;Sośnicowice;;15-658;Sośnicowice;2;171;
+1047;Danuta;Kowalczyk;Wyższa Szkoła Techniczna;10;Wrocław 62-182;V;2844;62-182;Wrocław;;62-182;Wrocław;10;209;
+1048;Hanna;Aleksy;Uniwersytet Sportu i Turystyki;10;Ciechanów 37-640;I;3031;37-640;Ciechanów;;37-640;Ciechanów;9;23;
+1049;Alina;Literacka;Uniwersytet Królewski;10;Kielce 04-274;I;576;04-274;Kielce;;04-274;Kielce;5;75;
+1050;Karol;Medrzec;Uniwersytet Królewski;10;Malbork 70-239;II;1603;70-239;Malbork;;70-239;Malbork;5;109;
+1051;Anastazja;Grabowska;Politechnika Informatyczno-Elektroniczna;10;Mikołów 96-497;V;2706;96-497;Mikołów;;96-497;Mikołów;2;116;
+1052;Malgorzata;Katowska;Politechnika Informatyczno-Elektroniczna;10;Sławków 42-081;I;3076;42-081;Sławków;;42-081;Sławków;2;167;
+1053;Adam;Wolski;Politechnika Informatyczno-Elektroniczna;10;Miechów 47-553;I;3241;47-553;Miechów;;47-553;Miechów;2;111;
+1054;Dorota;Roos;Uniwersytet Sportu i Turystyki;10;Lędziny 27-535;I;852;27-535;Lędziny;;27-535;Lędziny;9;99;
+1055;Ewa;Baranicz;Politechnika Królewska;10;Bielsk Podlaski 96-087;I;2580;96-087;Bielsk Podlaski;;96-087;Bielsk Podlaski;3;11;
+1056;Serafin;Symanski;Politechnika Informatyczno-Elektroniczna;10;Katowice 72-241;II;683;72-241;Katowice;;72-241;Katowice;2;71;
+1057;Wioletta;Maciejewska;Politechnika Informatyczno-Elektroniczna;10;Kalisz 29-379;V;668;29-379;Kalisz;;29-379;Kalisz;2;69;
+1058;Julita;Ciecierska;Uniwersytet Królewski;10;Kuźnia Raciborska 78-122;I;1273;78-122;Kuźnia Raciborska;;78-122;Kuźnia Raciborska;5;94;
+1059;Natalia;Kosciuszko;Uniwersytet Królewski;10;Zawiercie 58-922;I;1628;58-922;Zawiercie;;58-922;Zawiercie;5;215;
+1060;Karina;Siwczynska;Politechnika Informatyczno-Elektroniczna;10;Kielce 04-274;III;1035;04-274;Kielce;;04-274;Kielce;2;75;
+1061;Katarzyna;Augustynik;Politechnika Informatyczno-Elektroniczna;10;Sosnowiec 14-721;I;3052;14-721;Sosnowiec;;14-721;Sosnowiec;2;170;
+1062;Danuta;Bialecka;Politechnika Informatyczno-Elektroniczna;10;Limanowa 65-385;I;685;65-385;Limanowa;;65-385;Limanowa;2;100;
+1063;Damian;Wanad;Uniwersytet Królewski;10;Tarnowskie Góry 24-243;I;1651;24-243;Tarnowskie Góry;;24-243;Tarnowskie Góry;5;186;
+1064;Michalina;Busz;Politechnika Informatyczno-Elektroniczna;10;Kędzierzyn-Koźle 81-133;IV;639;81-133;Kędzierzyn-Koźle;;81-133;Kędzierzyn-Koźle;2;73;
+1065;Mateusz;Mrusz;Politechnika Informatyczno-Elektroniczna;10;Szczekociny 66-008;II;1808;66-008;Szczekociny;;66-008;Szczekociny;2;179;
+1066;Artur;Wolicz;Uniwersytet Królewski;10;Tarnobrzeg 85-266;I;2893;85-266;Tarnobrzeg;;85-266;Tarnobrzeg;5;185;
+1067;Zygmunt;Czajkowski;Politechnika Królewska;10;Istebna 22-654;II;2861;22-654;Istebna;;22-654;Istebna;3;56;
+1068;Adam;Babecki;Uniwersytet Rolniczy;10;Strzelce Opolskie 60-596;I;2536;60-596;Strzelce Opolskie;;60-596;Strzelce Opolskie;8;172;
+1069;Patryk;Sowa;Uniwersytet Królewski;10;Katowice 72-241;IV;2922;72-241;Katowice;;72-241;Katowice;5;71;
+1070;Barbara;Czarnecka;Politechnika Informatyczno-Elektroniczna;10;Przemyśl 38-959;V;2940;38-959;Przemyśl;;38-959;Przemyśl;2;147;
+1071;Karolina;Biegajczyk;Politechnika Informatyczno-Elektroniczna;10;Głuchołazy 30-136;I;2054;30-136;Głuchołazy;;30-136;Głuchołazy;2;45;
+1072;Kajetan;Kuzon;Politechnika Informatyczno-Elektroniczna;10;Legionowo 36-889;I;1249;36-889;Legionowo;;36-889;Legionowo;2;96;
+1073;Kamil;Bajer;Akademia Sztuk Pięknych;#N/D;Nysa 72-297;I;3074;72-297;Nysa;;72-297;Nysa;1;126;
+1074;Jakub;Kucharczyk;Politechnika Królewska;10;Mysłowice 13-220;I;2404;13-220;Mysłowice;;13-220;Mysłowice;3;121;
+1075;Rafal;Turowski;Uniwersytet Królewski;10;Pszczyna 53-858;III;1908;53-858;Pszczyna;;53-858;Pszczyna;5;148;
+1076;Witold;Muraszkowski;Politechnika Informatyczno-Elektroniczna;10;Mikołów 96-497;II;1357;96-497;Mikołów;;96-497;Mikołów;2;116;
+1077;Waclawa;Henka;Politechnika Informatyczno-Elektroniczna;10;Żywiec 00-137;III;799;00-137;Żywiec;;00-137;Żywiec;2;220;
+1078;Janusz;Sekula;Politechnika Informatyczno-Elektroniczna;10;Mikołów 96-497;I;850;96-497;Mikołów;;96-497;Mikołów;2;116;
+1079;Dariusz;Barcinski;Uniwersytet Królewski;10;Konin 39-551;II;1115;39-551;Konin;;39-551;Konin;5;83;
+1080;Jerzy;Obornicki;Politechnika Informatyczno-Elektroniczna;10;Krzeszowice 91-488;I;2015;91-488;Krzeszowice;;91-488;Krzeszowice;2;91;
+1081;Katarzyna;Hohenberg;Politechnika Informatyczno-Elektroniczna;10;Węgorzewo 67-547;I;1653;67-547;Węgorzewo;;67-547;Węgorzewo;2;201;
+1082;Grzegorz;Wroclawski;Uniwersytet Królewski;10;Ogrodzieniec 82-082;IV;1899;82-082;Ogrodzieniec;;82-082;Ogrodzieniec;5;129;
+1083;Anna;Kubiak;Politechnika Informatyczno-Elektroniczna;10;Chorzów 97-545;I;3222;97-545;Chorzów;;97-545;Chorzów;2;21;
+1084;Adam;Kalka;Politechnika Informatyczno-Elektroniczna;10;Rybnik 24-983;I;427;24-983;Rybnik;;24-983;Rybnik;2;158;
+1085;Andrzej;Blasik;Politechnika Informatyczno-Elektroniczna;10;Miechów 47-553;I;2289;47-553;Miechów;;47-553;Miechów;2;111;
+1086;Kuba;Sonarska;Politechnika Informatyczno-Elektroniczna;10;Ruda Sląska 12-684;II;966;12-684;Ruda Sląska;;12-684;Ruda Sląska;2;157;
+1087;Henryk;Macutkiewicz;Uniwersytet Sportu i Turystyki;10;Mysłowice 13-220;III;2086;13-220;Mysłowice;;13-220;Mysłowice;9;121;
+1088;Irmina;Kilen;Politechnika Królewska;10;Krosno 80-338;I;1985;80-338;Krosno;;80-338;Krosno;3;89;
+1089;Malgorzata;Pietrzyk;Politechnika Królewska;10;Lędziny 27-535;I;3243;27-535;Lędziny;;27-535;Lędziny;3;99;
+1090;Kazimiera;Sobiecka;Politechnika Informatyczno-Elektroniczna;10;Ustroń 51-637;I;1402;51-637;Ustroń;;51-637;Ustroń;2;194;
+1091;Rafal;Wierzbicki;Akademia Sztuk Pięknych;#N/D;Katowice 72-241;I;2823;72-241;Katowice;;72-241;Katowice;1;71;
+1092;Anna;Witek;Uniwersytet Rolniczy;10;Ruda Sląska 12-684;I;2729;12-684;Ruda Sląska;;12-684;Ruda Sląska;8;157;
+1093;Martyna;Lamorska;Uniwersytet Pedagogiczny;10;Wisła 99-436;I;740;99-436;Wisła;;99-436;Wisła;7;202;
+1094;Elzbieta;Matczak;Politechnika Informatyczno-Elektroniczna;10;Katowice 72-241;V;1528;72-241;Katowice;;72-241;Katowice;2;71;
+1095;Lucyna;Wojciechowska;Politechnika Królewska;10;Tarnowskie Góry 24-243;III;2806;24-243;Tarnowskie Góry;;24-243;Tarnowskie Góry;3;186;
+1096;Dorota;Chenowska;Politechnika Królewska;10;Nowy Targ 84-043;I;2956;84-043;Nowy Targ;;84-043;Nowy Targ;3;125;
+1097;Juliusz;Piechocki;Uniwersytet Królewski;10;Głubczyce 65-458;IV;3134;65-458;Głubczyce;;65-458;Głubczyce;5;44;
+1098;Zbigniew;Stypula;Uniwersytet Królewski;10;Ełk 05-563;I;1878;05-563;Ełk;;05-563;Ełk;5;38;
+1099;Maciej;Rojkiewicz;Politechnika Królewska;10;Ogrodzieniec 82-082;I;2143;82-082;Ogrodzieniec;;82-082;Ogrodzieniec;3;129;
+1100;Agnieszka;Kaczmarczyk;Uniwersytet Sportu i Turystyki;10;Sosnowiec 14-721;I;2348;14-721;Sosnowiec;;14-721;Sosnowiec;9;170;
+1101;Barbara;Swiegoda;Uniwersytet Królewski;10;Katowice 72-241;I;2919;72-241;Katowice;;72-241;Katowice;5;71;
+1102;Natasza;Duda;Uniwersytet Sportu i Turystyki;10;Sopot 77-187;III;2125;77-187;Sopot;;77-187;Sopot;9;169;
+1103;Elzbieta;Matuszewska;Politechnika Informatyczno-Elektroniczna;10;Limanowa 65-385;I;1140;65-385;Limanowa;;65-385;Limanowa;2;100;
+1104;Anna;Stefanska;Politechnika Informatyczno-Elektroniczna;10;Sławków 42-081;I;2185;42-081;Sławków;;42-081;Sławków;2;167;
+1105;Franciszek;Bartoszek;Politechnika Królewska;10;Rzeszów 89-735;I;1232;89-735;Rzeszów;;89-735;Rzeszów;3;159;
+1106;Marta;Arast;Uniwersytet Królewski;10;Żory 29-724;I;1470;29-724;Żory;;29-724;Żory;5;218;
+1107;Maria;Chojnacka;Uniwersytet Ekonomiczny;10;Barlinek 83-236;I;1239;83-236;Barlinek;;83-236;Barlinek;4;4;
+1108;Wojciech;Gorski;Politechnika Informatyczno-Elektroniczna;10;Sieradz 62-407;III;2548;62-407;Sieradz;;62-407;Sieradz;2;163;
+1109;Lucyna;Sokolowska;Akademia Sztuk Pięknych;#N/D;Tworóg 62-560;V;2832;62-560;Tworóg;;62-560;Tworóg;1;192;
+1110;Bronislaw;Wozniak;Uniwersytet Królewski;10;Strzelce Opolskie 60-596;I;2796;60-596;Strzelce Opolskie;;60-596;Strzelce Opolskie;5;172;
+1111;Angelika;Mrozek;Politechnika Królewska;10;Tarnów 87-348;IV;2291;87-348;Tarnów;;87-348;Tarnów;3;187;
+1112;Edward;Malinowski;Politechnika Królewska;10;Trzebinia 26-607;I;3265;26-607;Trzebinia;;26-607;Trzebinia;3;191;
+1113;Izabella;Beniowska;Politechnika Królewska;10;Gdańsk 83-271;I;3322;83-271;Gdańsk;;83-271;Gdańsk;3;39;
+1114;Aneta;Basista;Uniwersytet Królewski;10;Piotrków Trybunalski 04-419;I;2579;04-419;Piotrków Trybunalski;;04-419;Piotrków Trybunalski;5;140;
+1115;Agata;Altman;Uniwersytet Królewski;10;Jasło 92-050;I;2584;92-050;Jasło;;92-050;Jasło;5;59;
+1116;Adelajda;Nucinska;Politechnika Informatyczno-Elektroniczna;10;Tarnów 87-348;V;1289;87-348;Tarnów;;87-348;Tarnów;2;187;
+1117;Witold;Mus;Uniwersytet Królewski;10;Dęblin 53-807;V;1912;53-807;Dęblin;;53-807;Dęblin;5;31;
+1118;Przemyslaw;Lipert;Politechnika Informatyczno-Elektroniczna;10;Lubliniec 14-322;II;1929;14-322;Lubliniec;;14-322;Lubliniec;2;104;
+1119;Adam;Beben;Politechnika Informatyczno-Elektroniczna;10;Kobylin 02-635;I;2162;02-635;Kobylin;;02-635;Kobylin;2;78;
+1120;Roksana;Kajka;Politechnika Informatyczno-Elektroniczna;10;Kogutek 99-754;II;2036;99-754;Kogutek;;99-754;Kogutek;2;80;
+1121;Dominika;Pudlowicz;Politechnika Informatyczno-Elektroniczna;10;Katowice 72-241;I;2824;72-241;Katowice;;72-241;Katowice;2;71;
+1122;Aleksy;Rebacz;Uniwersytet Królewski;10;Białystok 54-632;I;2784;54-632;Białystok;;54-632;Białystok;5;10;
+1123;Zygfryd;Klimczyk;Uniwersytet Królewski;10;Olkusz 19-255;I;1955;19-255;Olkusz;;19-255;Olkusz;5;130;
+1124;Boguslawa;Ostrowska;Uniwersytet Królewski;10;Tarnowskie Góry 24-243;V;2466;24-243;Tarnowskie Góry;;24-243;Tarnowskie Góry;5;186;
+1125;Celina;Bekasiewicz;Uniwersytet Rolniczy;10;Jasło 92-050;I;1526;92-050;Jasło;;92-050;Jasło;8;59;
+1126;Marcin;Pawlowski;Politechnika Królewska;10;Ruda Sląska 12-684;II;2438;12-684;Ruda Sląska;;12-684;Ruda Sląska;3;157;
+1127;Elzbieta;Czwartek;Politechnika Królewska;10;Chorzów 97-545;I;2846;97-545;Chorzów;;97-545;Chorzów;3;21;
+1128;Jan;Bialek;Politechnika Informatyczno-Elektroniczna;10;Miechów 47-553;I;1686;47-553;Miechów;;47-553;Miechów;2;111;
+1129;Robert;Zalesiak;Politechnika Królewska;10;Kobylin-Borzymy 21-258;I;1115;21-258;Kobylin-Borzymy;;21-258;Kobylin-Borzymy;3;79;
+1130;Adrianna;Wojtczak;Uniwersytet Ekonomiczny;10;Kruszwica 33-294;I;2847;33-294;Kruszwica;;33-294;Kruszwica;4;90;
+1131;Aniela;Dymek;Uniwersytet Pedagogiczny;10;Trzebinia 26-607;IV;2207;26-607;Trzebinia;;26-607;Trzebinia;7;191;
+1132;Marek;Zawodnik;Politechnika Królewska;10;Katowice 72-241;I;3294;72-241;Katowice;;72-241;Katowice;3;71;
+1133;Antoni;Kaber;Uniwersytet Królewski;10;Ogrodzieniec 82-082;I;2522;82-082;Ogrodzieniec;;82-082;Ogrodzieniec;5;129;
+1134;Grzegorz;Serocki;Politechnika Królewska;10;Pila 06-355;I;2664;06-355;Pila;;06-355;Pila;3;138;
+1135;Iwona;Kedrak;Politechnika Informatyczno-Elektroniczna;10;Jeżewo 53-780;III;3062;53-780;Jeżewo;;53-780;Jeżewo;2;65;
+1136;Tomasz;Janowski;Uniwersytet Pedagogiczny;10;Trzebinia 26-607;II;2163;26-607;Trzebinia;;26-607;Trzebinia;7;191;
+1137;Izabella;Chorzowik;Politechnika Informatyczno-Elektroniczna;10;Mikołów 96-497;I;2409;96-497;Mikołów;;96-497;Mikołów;2;116;
+1138;Stanislaw;Zelazko;Politechnika Informatyczno-Elektroniczna;10;Lubliniec 14-322;V;1363;14-322;Lubliniec;;14-322;Lubliniec;2;104;
+1139;Karolina;Wozniakiewicz;Politechnika Informatyczno-Elektroniczna;10;Wisła 99-436;I;2909;99-436;Wisła;;99-436;Wisła;2;202;
+1140;Wioletta;Zawadzka;Politechnika Informatyczno-Elektroniczna;10;Wadowice 47-222;II;2254;47-222;Wadowice;;47-222;Wadowice;2;195;
+1141;Danuta;Jachimowicz;Uniwersytet Królewski;10;Gorzów Wielkopolski 78-003;I;705;78-003;Gorzów Wielkopolski;;78-003;Gorzów Wielkopolski;5;47;
+1142;Hanna;Bidowska;Politechnika Informatyczno-Elektroniczna;10;Wojkowice 84-273;I;2551;84-273;Wojkowice;;84-273;Wojkowice;2;207;
+1143;Magdalena;Klekowska;Uniwersytet Królewski;10;Zakopane 00-995;I;2511;00-995;Zakopane;;00-995;Zakopane;5;212;
+1144;Anna;Michajlow;Uniwersytet Królewski;10;Kraśnik 90-749;I;2312;90-749;Kraśnik;;90-749;Kraśnik;5;88;
+1145;Bartosz;Tomaszewski;Politechnika Królewska;10;Wisła 99-436;II;1511;99-436;Wisła;;99-436;Wisła;3;202;
+1146;Filip;Zukowski;Politechnika Informatyczno-Elektroniczna;10;Ruda Sląska 12-684;I;1740;12-684;Ruda Sląska;;12-684;Ruda Sląska;2;157;
+1147;Jadwiga;Graniecka;Politechnika Informatyczno-Elektroniczna;10;Strzelce Opolskie 60-596;I;1499;60-596;Strzelce Opolskie;;60-596;Strzelce Opolskie;2;172;
+1148;Dorota;Kozikowska;Politechnika Królewska;10;Świeradów-Zdrój 01-685;I;2928;01-685;Świeradów-Zdrój;;01-685;Świeradów-Zdrój;3;182;
+1149;Mariusz;Adamowiczek;Politechnika Informatyczno-Elektroniczna;10;Głuchołazy 30-136;I;2393;30-136;Głuchołazy;;30-136;Głuchołazy;2;45;
+1150;Marta;Berakowska;Uniwersytet Ekonomiczny;10;Szczekociny 66-008;I;1850;66-008;Szczekociny;;66-008;Szczekociny;4;179;
+1151;Kacper;Sokolowski;Uniwersytet Królewski;10;Lublin 79-726;II;1241;79-726;Lublin;;79-726;Lublin;5;103;
+1152;Janusz;Sapek;Politechnika Królewska;10;Nowy Targ 84-043;II;1160;84-043;Nowy Targ;;84-043;Nowy Targ;3;125;
+1153;Zofia;Glapa;Uniwersytet Królewski;10;Zawiercie 58-922;I;600;58-922;Zawiercie;;58-922;Zawiercie;5;215;
+1154;Aleksandra;Koszewska;Uniwersytet Królewski;10;Katowice 72-241;I;700;72-241;Katowice;;72-241;Katowice;5;71;
+1155;Jadwiga;Chaberow;Politechnika Informatyczno-Elektroniczna;10;Medyka 67-566;I;2396;67-566;Medyka;;67-566;Medyka;2;110;
+1156;Tomasz;Gates;Uniwersytet Rolniczy;10;Alwernia 27-938;II;1421;27-938;Alwernia;;27-938;Alwernia;8;2;
+1157;Wiktoria;Wieczorek;Uniwersytet Królewski;10;Tychy 76-939;V;2186;76-939;Tychy;;76-939;Tychy;5;193;
+1158;Patrycja;Borna;Uniwersytet Królewski;10;Zambrów 53-324;II;1500;53-324;Zambrów;;53-324;Zambrów;5;213;
+1159;Szymon;Brandys;Politechnika Informatyczno-Elektroniczna;10;Koniaków 34-607;II;2119;34-607;Koniaków;;34-607;Koniaków;2;82;
+1160;Michal;Zwierzynski;Uniwersytet Królewski;10;Inowrocław 21-327;I;1370;21-327;Inowrocław;;21-327;Inowrocław;5;55;
+1161;Dyta;Nowakowska;Politechnika Informatyczno-Elektroniczna;10;Prudnik 09-823;V;1435;09-823;Prudnik;;09-823;Prudnik;2;145;
+1162;Anna;Sabat;Uniwersytet Królewski;10;Sośnicowice 15-658;I;1223;15-658;Sośnicowice;;15-658;Sośnicowice;5;171;
+1163;Beata;Gajewska;Uniwersytet Królewski;10;Jejkowice 67-738;I;455;67-738;Jejkowice;;67-738;Jejkowice;5;63;
+1164;Michal;Kupiec;Uniwersytet Królewski;10;Alwernia 27-938;II;936;27-938;Alwernia;;27-938;Alwernia;5;2;
+1165;Elzbieta;Lubanska;Akademia Sztuk Pięknych;#N/D;Lubaczów 60-915;I;2715;60-915;Lubaczów;;60-915;Lubaczów;1;102;
+1166;Dariusz;Konczak;Politechnika Informatyczno-Elektroniczna;10;Limanowa 65-385;I;2351;65-385;Limanowa;;65-385;Limanowa;2;100;
+1167;Stefan;Blazejczyk;Uniwersytet Królewski;10;Jaworzynka 56-921;II;1799;56-921;Jaworzynka;;56-921;Jaworzynka;5;62;
+1168;Malgorzata;Zielinska;Uniwersytet Królewski;10;Oświęcim 27-702;V;1345;27-702;Oświęcim;;27-702;Oświęcim;5;135;
+1169;Julia;Adamiak;Politechnika Informatyczno-Elektroniczna;10;Będzin 69-501;I;2254;69-501;Będzin;;69-501;Będzin;2;7;
+1170;Michal;Bujak;Uniwersytet Królewski;10;Tarnów 87-348;I;1454;87-348;Tarnów;;87-348;Tarnów;5;187;
+1171;Stefan;Lipski;Uniwersytet Królewski;10;Oświęcim 27-702;II;2529;27-702;Oświęcim;;27-702;Oświęcim;5;135;
+1172;Krzysztof;Wachowicz;Politechnika Królewska;10;Dęblin 53-807;I;1928;53-807;Dęblin;;53-807;Dęblin;3;31;
+1173;Seweryn;Kubica;Uniwersytet Rolniczy;10;Zakopane 00-995;II;2831;00-995;Zakopane;;00-995;Zakopane;8;212;
+1174;Kamil;Wojcicki;Uniwersytet Królewski;10;Dęblin 53-807;III;1354;53-807;Dęblin;;53-807;Dęblin;5;31;
+1175;Tomasz;Aniol;Uniwersytet Pedagogiczny;10;Siemianowice Sląskie 09-006;II;1824;09-006;Siemianowice Sląskie;;09-006;Siemianowice Sląskie;7;162;
+1176;Judyta;Krawiec;Uniwersytet Królewski;10;Rogoźnik 74-768;V;2911;74-768;Rogoźnik;;74-768;Rogoźnik;5;156;
+1177;Wojciech;Mielczarek;Politechnika Informatyczno-Elektroniczna;10;Mikołów 96-497;III;1485;96-497;Mikołów;;96-497;Mikołów;2;116;
+1178;Malgorzata;Janiszewska;Politechnika Królewska;10;Ustroń 51-637;II;3127;51-637;Ustroń;;51-637;Ustroń;3;194;
+1179;Ewa;Pawluk;Akademia Sztuk Pięknych;#N/D;Wałbrzych 62-834;I;3218;62-834;Wałbrzych;;62-834;Wałbrzych;1;197;
+1180;Izabella;Olszewska;Uniwersytet Sportu i Turystyki;10;Opole 16-549;I;2183;16-549;Opole;;16-549;Opole;9;133;
+1181;Wojciech;Bartus;Politechnika Informatyczno-Elektroniczna;10;Rzeszów 89-735;I;1185;89-735;Rzeszów;;89-735;Rzeszów;2;159;
+1182;Borys;Krolikiewicz;Uniwersytet Królewski;10;Przemyśl 38-959;I;2506;38-959;Przemyśl;;38-959;Przemyśl;5;147;
+1183;Anna;Dziwak;Politechnika Informatyczno-Elektroniczna;10;Racibórz 00-355;I;2519;00-355;Racibórz;;00-355;Racibórz;2;153;
+1184;Monika;Nocun;Politechnika Informatyczno-Elektroniczna;10;Rybnik 24-983;I;1744;24-983;Rybnik;;24-983;Rybnik;2;158;
+1185;Jolanta;Dworek;Uniwersytet Pedagogiczny;10;Puławy 66-219;I;2126;66-219;Puławy;;66-219;Puławy;7;149;
+1186;Marcin;Rusin;Politechnika Królewska;10;Oświęcim 27-702;IV;2578;27-702;Oświęcim;;27-702;Oświęcim;3;135;
+1187;Rafal;Eminowicz;Politechnika Informatyczno-Elektroniczna;10;Nysa 72-297;IV;2555;72-297;Nysa;;72-297;Nysa;2;126;
+1188;Wiga;Debska;Politechnika Królewska;10;Lędziny 27-535;II;523;27-535;Lędziny;;27-535;Lędziny;3;99;
+1189;Zbigniew;Adamczyk;Politechnika Informatyczno-Elektroniczna;10;Wałbrzych 62-834;III;2121;62-834;Wałbrzych;;62-834;Wałbrzych;2;197;
+1190;Stanislaw;Pigulski;Politechnika Królewska;10;Medyka 67-566;II;1340;67-566;Medyka;;67-566;Medyka;3;110;
+1191;Kinga;Pisarska;Uniwersytet Sportu i Turystyki;10;Jejkowice 67-738;I;2716;67-738;Jejkowice;;67-738;Jejkowice;9;63;
+1192;Wojciech;Jagodzinski;Uniwersytet Królewski;10;Limanowa 65-385;V;818;65-385;Limanowa;;65-385;Limanowa;5;100;
+1193;Marcin;Cwikowski;Uniwersytet Królewski;10;Tarnów 87-348;III;1144;87-348;Tarnów;;87-348;Tarnów;5;187;
+1194;Witold;Czarnecki;Akademia Sztuk Pięknych;#N/D;Kędzierzyn-Koźle 81-133;II;3010;81-133;Kędzierzyn-Koźle;;81-133;Kędzierzyn-Koźle;1;73;
+1195;Ewa;Szczublewska;Politechnika Informatyczno-Elektroniczna;10;Dobieszowice 34-734;I;420;34-734;Dobieszowice;;34-734;Dobieszowice;2;34;
+1196;Celina;Tomaszewska;Uniwersytet Królewski;10;Tarnowskie Góry 24-243;V;872;24-243;Tarnowskie Góry;;24-243;Tarnowskie Góry;5;186;
+1197;Robert;Oleszko;Uniwersytet Królewski;10;Chełm 37-997;III;1922;37-997;Chełm;;37-997;Chełm;5;20;
+1198;Alicja;Kwasniak;Politechnika Królewska;10;Barwinek 09-428;V;1860;09-428;Barwinek;;09-428;Barwinek;3;5;
+1199;Ewa;Wasiak;Politechnika Informatyczno-Elektroniczna;10;Żory 29-724;I;2653;29-724;Żory;;29-724;Żory;2;218;
+1200;Jakub;Szczepanski;Uniwersytet Królewski;10;Kłomnice 43-045;I;1120;43-045;Kłomnice;;43-045;Kłomnice;5;77;
+1201;Julita;Burza;Uniwersytet Królewski;10;Katowice 72-241;II;882;72-241;Katowice;;72-241;Katowice;5;71;
+1202;Anna;Szendzielorz;Politechnika Królewska;10;Walce 28-103;I;2403;28-103;Walce;;28-103;Walce;3;196;
+1203;Grzegorz;Misiek;Uniwersytet Królewski;10;Gierałtowice 04-834;III;3156;04-834;Gierałtowice;;04-834;Gierałtowice;5;42;
+1204;Rafal;Szkwarek;Politechnika Królewska;10;Lubliniec 14-322;IV;2859;14-322;Lubliniec;;14-322;Lubliniec;3;104;
+1205;Agnieszka;Malicka;Politechnika Informatyczno-Elektroniczna;10;Istebna 22-654;I;644;22-654;Istebna;;22-654;Istebna;2;56;
+1206;Anna;Milewska;Politechnika Królewska;10;Tarnów 87-348;I;1430;87-348;Tarnów;;87-348;Tarnów;3;187;
+1207;Mikolaj;Hejdysz;Politechnika Królewska;10;Sośnicowice 15-658;I;1373;15-658;Sośnicowice;;15-658;Sośnicowice;3;171;
+1208;Maciej;Skoczylas;Politechnika Informatyczno-Elektroniczna;10;Mikołów 96-497;I;1809;96-497;Mikołów;;96-497;Mikołów;2;116;
+1209;Tomasz;Szymik;Uniwersytet Królewski;10;Jejkowice 67-738;V;2629;67-738;Jejkowice;;67-738;Jejkowice;5;63;
+1210;Anastazja;Haszczyc;Uniwersytet Królewski;10;Jasło 92-050;IV;2724;92-050;Jasło;;92-050;Jasło;5;59;
+1211;Klaudiusz;Sokolowski;Uniwersytet Rolniczy;10;Bytom 80-339;III;1207;80-339;Bytom;;80-339;Bytom;8;18;
+1212;Dorota;Szymanek;Uniwersytet Królewski;10;Ogrodzieniec 82-082;I;1364;82-082;Ogrodzieniec;;82-082;Ogrodzieniec;5;129;
+1213;Maja;Jedrzejczyk;Politechnika Informatyczno-Elektroniczna;10;Jasło 92-050;I;838;92-050;Jasło;;92-050;Jasło;2;59;
+1214;Tomasz;Adamiecki;Akademia Sztuk Pięknych;#N/D;Głuchołazy 30-136;II;661;30-136;Głuchołazy;;30-136;Głuchołazy;1;45;
+1215;Dominik;Rolla;Uniwersytet Królewski;10;Gryfice 51-783;I;3078;51-783;Gryfice;;51-783;Gryfice;5;50;
+1216;Beata;Podlaska;Politechnika Informatyczno-Elektroniczna;10;Katowice 72-241;I;354;72-241;Katowice;;72-241;Katowice;2;71;
+1217;Boguslaw;Olszewski;Politechnika Informatyczno-Elektroniczna;10;Chełm 37-997;II;1256;37-997;Chełm;;37-997;Chełm;2;20;
+1218;Alicja;Strojna;Politechnika Informatyczno-Elektroniczna;10;Będzin 69-501;I;2838;69-501;Będzin;;69-501;Będzin;2;7;
+1219;Anna;Konieczna;Uniwersytet Pedagogiczny;10;Wrocław 62-182;III;992;62-182;Wrocław;;62-182;Wrocław;7;209;
+1220;Jadwiga;Przybylska;Uniwersytet Królewski;10;Sośnicowice 15-658;I;2199;15-658;Sośnicowice;;15-658;Sośnicowice;5;171;
+1221;Adrian;Banaszczyk;Uniwersytet Królewski;10;Julianka 95-306;I;697;95-306;Julianka;;95-306;Julianka;5;68;
+1222;Anna;Mikocka;Politechnika Informatyczno-Elektroniczna;10;Siedlce 14-461;II;1680;14-461;Siedlce;;14-461;Siedlce;2;161;
+1223;Karol;Abramczyk;Politechnika Informatyczno-Elektroniczna;10;Sosnowiec 14-721;I;2638;14-721;Sosnowiec;;14-721;Sosnowiec;2;170;
+1224;Anna;Miecznikowska;Wyższa Szkoła Techniczna;10;Rzeszów 89-735;V;955;89-735;Rzeszów;;89-735;Rzeszów;10;159;
+1225;Beata;Ciechanowicz;Uniwersytet Ekonomiczny;10;Nowy Targ 84-043;V;1778;84-043;Nowy Targ;;84-043;Nowy Targ;4;125;
+1226;Anna;Kaminska;Politechnika Królewska;10;Bożewo 94-896;IV;1960;94-896;Bożewo;;94-896;Bożewo;3;13;
+1227;Piotr;Jaworski;Politechnika Informatyczno-Elektroniczna;10;Pyrzowice 49-345;I;2303;49-345;Pyrzowice;;49-345;Pyrzowice;2;150;
+1228;Daniel;Felinski;Politechnika Informatyczno-Elektroniczna;10;Sosnowiec 14-721;I;2268;14-721;Sosnowiec;;14-721;Sosnowiec;2;170;
+1229;Natalia;Sobolewska;Politechnika Królewska;10;Jędrzejów 62-049;I;2408;62-049;Jędrzejów;;62-049;Jędrzejów;3;66;
+1230;Tomasz;Wozniak;Politechnika Informatyczno-Elektroniczna;10;Sławków 42-081;III;1695;42-081;Sławków;;42-081;Sławków;2;167;
+1231;Zofia;Sikora;Uniwersytet Królewski;10;Głuchołazy 30-136;II;1866;30-136;Głuchołazy;;30-136;Głuchołazy;5;45;
+1232;Helena;Bliszczyk;Politechnika Informatyczno-Elektroniczna;10;Miechów 47-553;I;2104;47-553;Miechów;;47-553;Miechów;2;111;
+1233;Kacper;Klimka;Uniwersytet Ekonomiczny;10;Witonia 21-857;IV;2072;21-857;Witonia;;21-857;Witonia;4;203;
+1234;Ewelia;Basiak;Politechnika Królewska;10;Siewierz 65-885;I;1994;65-885;Siewierz;;65-885;Siewierz;3;164;
+1235;Piotr;Nowak ;Politechnika Królewska;10;Tarnobrzeg 85-266;II;3039;85-266;Tarnobrzeg;;85-266;Tarnobrzeg;3;185;
+1236;Ewa;Biel;Politechnika Królewska;10;Lędziny 27-535;I;2416;27-535;Lędziny;;27-535;Lędziny;3;99;
+1237;Dominik;Balik;Politechnika Informatyczno-Elektroniczna;10;Kędzierzyn-Koźle 81-133;II;1068;81-133;Kędzierzyn-Koźle;;81-133;Kędzierzyn-Koźle;2;73;
+1238;Marcin;Kowalski;Uniwersytet Królewski;10;Szczyrk 75-361;V;3197;75-361;Szczyrk;;75-361;Szczyrk;5;180;
+1239;Izaak;Gawron;Uniwersytet Królewski;10;Tworóg 62-560;I;1231;62-560;Tworóg;;62-560;Tworóg;5;192;
+1240;Michal;Piwonski;Uniwersytet Królewski;10;Lubliniec 14-322;I;2417;14-322;Lubliniec;;14-322;Lubliniec;5;104;
+1241;Joanna;Nowak;Uniwersytet Rolniczy;10;Dobre Miasto 52-964;I;2178;52-964;Dobre Miasto;;52-964;Dobre Miasto;8;35;
+1242;Ewa;Niewiarowska;Uniwersytet Królewski;10;Rzeszów 89-735;I;2722;89-735;Rzeszów;;89-735;Rzeszów;5;159;
+1243;Walenty;Rutkowski;Uniwersytet Królewski;10;Wadowice 47-222;IV;890;47-222;Wadowice;;47-222;Wadowice;5;195;
+1244;Roman;Jarosz;Uniwersytet Rolniczy;10;Kępice 66-251;III;2129;66-251;Kępice;;66-251;Kępice;8;74;
+1245;Lukasz;Kotala;Politechnika Królewska;10;Kościan 26-594;II;653;26-594;Kościan;;26-594;Kościan;3;86;
+1246;Bartlomiej;Konny;Uniwersytet Królewski;10;Chełm 37-997;IV;2964;37-997;Chełm;;37-997;Chełm;5;20;
+1247;Janina;Giza;Politechnika Informatyczno-Elektroniczna;10;Kędzierzyn-Koźle 81-133;I;3335;81-133;Kędzierzyn-Koźle;;81-133;Kędzierzyn-Koźle;2;73;
+1248;Dorota;Chojnacka;Politechnika Informatyczno-Elektroniczna;10;Lubliniec 14-322;III;2107;14-322;Lubliniec;;14-322;Lubliniec;2;104;
+1249;Bogdan;Nowakowski;Politechnika Królewska;10;Zabrze 91-525;I;1290;91-525;Zabrze;;91-525;Zabrze;3;211;
+1250;Pawel;Krol;Politechnika Królewska;10;Wodzisław Sląski 83-544;V;1109;83-544;Wodzisław Sląski;;83-544;Wodzisław Sląski;3;206;
+1251;Henryk;Walczak;Politechnika Królewska;10;Szczekociny 66-008;III;3035;66-008;Szczekociny;;66-008;Szczekociny;3;179;
+1252;Stefan;Tomkow;Uniwersytet Królewski;10;Rybnik 24-983;II;3197;24-983;Rybnik;;24-983;Rybnik;5;158;
+1253;Ireneusz;Banaszkiewicz;Uniwersytet Sportu i Turystyki;10;Gierałtowice 04-834;I;1251;04-834;Gierałtowice;;04-834;Gierałtowice;9;42;
+1254;Zofia;Gala;Politechnika Królewska;10;Zawiercie 58-922;II;2861;58-922;Zawiercie;;58-922;Zawiercie;3;215;
+1255;Juliusz;Linek;Politechnika Informatyczno-Elektroniczna;10;Kleszczów 18-459;I;1244;18-459;Kleszczów;;18-459;Kleszczów;2;76;
+1256;Franciszek;Kosiorowski;Uniwersytet Królewski;10;Nowy Sącz 62-813;III;1470;62-813;Nowy Sącz;;62-813;Nowy Sącz;5;124;
+1257;Anna;Sobol;Politechnika Informatyczno-Elektroniczna;10;Kuźnia Raciborska 78-122;I;1204;78-122;Kuźnia Raciborska;;78-122;Kuźnia Raciborska;2;94;
+1258;Dariusz;Reszczynski;Politechnika Informatyczno-Elektroniczna;10;Nysa 72-297;I;1048;72-297;Nysa;;72-297;Nysa;2;126;
+1259;Karol;Furmanik;Uniwersytet Rolniczy;10;Rzeszów 89-735;I;2387;89-735;Rzeszów;;89-735;Rzeszów;8;159;
+1260;Krystian;Pieniak;Politechnika Informatyczno-Elektroniczna;10;Siemianowice Sląskie 09-006;I;1949;09-006;Siemianowice Sląskie;;09-006;Siemianowice Sląskie;2;162;
+1261;Wladyslaw;Olcha;Uniwersytet Królewski;10;Toruń 90-535;III;1117;90-535;Toruń;;90-535;Toruń;5;190;
+1262;Aleksandra;Majewska;Politechnika Królewska;10;Nowy Targ 84-043;I;2206;84-043;Nowy Targ;;84-043;Nowy Targ;3;125;
+1263;Jan;Kowalewicz;Uniwersytet Królewski;10;Zabrodzie 71-608;I;2283;71-608;Zabrodzie;;71-608;Zabrodzie;5;210;
+1264;Krystyna;Barszczyk;Politechnika Informatyczno-Elektroniczna;10;Sucha Beskidzka 98-902;I;2407;98-902;Sucha Beskidzka;;98-902;Sucha Beskidzka;2;173;
+1265;Lidia;Juzak;Politechnika Informatyczno-Elektroniczna;10;Sośnicowice 15-658;III;1073;15-658;Sośnicowice;;15-658;Sośnicowice;2;171;
+1266;Joanna;Bilska;Politechnika Królewska;10;Kędzierzyn-Koźle 81-133;I;2807;81-133;Kędzierzyn-Koźle;;81-133;Kędzierzyn-Koźle;3;73;
+1267;Maciej;Cisasny;Politechnika Królewska;10;Pyrzowice 49-345;II;1739;49-345;Pyrzowice;;49-345;Pyrzowice;3;150;
+1268;Malwina;Manna;Politechnika Królewska;10;Gliwice 11-608;III;3161;11-608;Gliwice;;11-608;Gliwice;3;43;
+1269;Monika;Antoszewska;Politechnika Informatyczno-Elektroniczna;10;Zamość 99-773;I;2847;99-773;Zamość;;99-773;Zamość;2;214;
+1270;Andrzej;Konik;Politechnika Informatyczno-Elektroniczna;10;Oświęcim 27-702;IV;1498;27-702;Oświęcim;;27-702;Oświęcim;2;135;
+1271;Rafal;Kucharski;Wyższa Szkoła Techniczna;10;Tychy 76-939;II;1345;76-939;Tychy;;76-939;Tychy;10;193;
+1272;Natalia;Rybinska;Politechnika Informatyczno-Elektroniczna;10;Lubliniec 14-322;I;2872;14-322;Lubliniec;;14-322;Lubliniec;2;104;
+1273;Zygmunt;Jablonski;Politechnika Królewska;10;Sanok 71-890;IV;1185;71-890;Sanok;;71-890;Sanok;3;160;
+1274;Jolanta;Tomczak;Akademia Sztuk Pięknych;#N/D;Strzelce Opolskie 60-596;I;3335;60-596;Strzelce Opolskie;;60-596;Strzelce Opolskie;1;172;
+1275;Andrzej;Kononowicz;Politechnika Królewska;10;Kogutek 99-754;IV;2730;99-754;Kogutek;;99-754;Kogutek;3;80;
+1276;Zygmunt;Szczygielski;Politechnika Informatyczno-Elektroniczna;10;Nałęczów 83-630;II;2500;83-630;Nałęczów;;83-630;Nałęczów;2;123;
+1277;Karolina;Michalec;Uniwersytet Królewski;10;Jasło 92-050;I;2797;92-050;Jasło;;92-050;Jasło;5;59;
+1278;Marcin;Bydgoski;Politechnika Informatyczno-Elektroniczna;10;Bochnia 89-362;I;578;89-362;Bochnia;;89-362;Bochnia;2;12;
+1279;Irena;Banaczek;Politechnika Królewska;10;Ruda Sląska 12-684;I;3085;12-684;Ruda Sląska;;12-684;Ruda Sląska;3;157;
+1280;Adam;Bodny;Politechnika Informatyczno-Elektroniczna;10;Rzeszów 89-735;IV;1207;89-735;Rzeszów;;89-735;Rzeszów;2;159;
+1281;Michal;Krzysztofinski;Uniwersytet Królewski;10;Sławków 42-081;V;2642;42-081;Sławków;;42-081;Sławków;5;167;
+1282;Borys;Zimnowoda;Politechnika Informatyczno-Elektroniczna;10;Katowice 72-241;I;1058;72-241;Katowice;;72-241;Katowice;2;71;
+1283;Tadeusz;Sadowski;Uniwersytet Królewski;10;Cieszyn 68-101;II;1003;68-101;Cieszyn;;68-101;Cieszyn;5;25;
+1284;Paulina;Chaberek;Politechnika Królewska;10;Świnoujskie 13-345;I;2806;13-345;Świnoujskie;;13-345;Świnoujskie;3;184;
+1285;Izabella;Wlodarczak;Politechnika Informatyczno-Elektroniczna;10;Bielsk Podlaski 96-087;I;1069;96-087;Bielsk Podlaski;;96-087;Bielsk Podlaski;2;11;
+1286;Anna;Potocka;Uniwersytet Rolniczy;10;Zakopane 00-995;I;1593;00-995;Zakopane;;00-995;Zakopane;8;212;
+1287;Jedrzej;Kurzawinskai;Uniwersytet Królewski;10;Jasło 92-050;V;3296;92-050;Jasło;;92-050;Jasło;5;59;
+1288;Roksana;Sokolowska;Politechnika Informatyczno-Elektroniczna;10;Tychy 76-939;V;2430;76-939;Tychy;;76-939;Tychy;2;193;
+1289;Malgorzata;Albert;Uniwersytet Królewski;10;Szczekociny 66-008;I;440;66-008;Szczekociny;;66-008;Szczekociny;5;179;
+1290;Sabina;Krakowiak;Uniwersytet Królewski;10;Łazy 63-587;II;2800;63-587;Łazy;;63-587;Łazy;5;106;
+1291;Tadeusz;Terlecki;Uniwersytet Królewski;10;Tarnobrzeg 85-266;II;546;85-266;Tarnobrzeg;;85-266;Tarnobrzeg;5;185;
+1292;Lech;Smolarz;Uniwersytet Królewski;10;Oborniki 33-160;I;1255;33-160;Oborniki;;33-160;Oborniki;5;127;
+1293;Jacek;Huzar;Wyższa Szkoła Techniczna;10;Chorzów 97-545;V;1559;97-545;Chorzów;;97-545;Chorzów;10;21;
+1294;Izabella;Wreczycka;Uniwersytet Rolniczy;10;Nowy Sącz 62-813;V;1873;62-813;Nowy Sącz;;62-813;Nowy Sącz;8;124;
+1295;Dariusz;Kratka;Politechnika Królewska;10;Jastrzębie-Zdrój 51-394;I;2509;51-394;Jastrzębie-Zdrój;;51-394;Jastrzębie-Zdrój;3;60;
+1296;Krystyna;Charkow;Politechnika Królewska;10;Koniaków 34-607;I;398;34-607;Koniaków;;34-607;Koniaków;3;82;
+1297;Ewelina;Korczak;Uniwersytet Królewski;10;Wodzisław Sląski 83-544;I;2906;83-544;Wodzisław Sląski;;83-544;Wodzisław Sląski;5;206;
+1298;Mikolaj;Szala;Akademia Sztuk Pięknych;#N/D;Tarnobrzeg 85-266;I;2325;85-266;Tarnobrzeg;;85-266;Tarnobrzeg;1;185;
+1299;Dorota;Boszcz;Uniwersytet Królewski;10;Bielsk Podlaski 96-087;I;2162;96-087;Bielsk Podlaski;;96-087;Bielsk Podlaski;5;11;
+1300;Edmund;Malborski;Uniwersytet Rolniczy;10;Rzeszów 89-735;I;681;89-735;Rzeszów;;89-735;Rzeszów;8;159;
+1301;Michalina;Mol;Politechnika Informatyczno-Elektroniczna;10;Nałęczów 83-630;IV;2081;83-630;Nałęczów;;83-630;Nałęczów;2;123;
+1302;Marcin;Wolak;Politechnika Informatyczno-Elektroniczna;10;Ruda Sląska 12-684;II;775;12-684;Ruda Sląska;;12-684;Ruda Sląska;2;157;
+1303;Gorzegorz;Turek;Uniwersytet Królewski;10;Częstochowa 86-116;I;2498;86-116;Częstochowa;;86-116;Częstochowa;5;26;
+1304;Alicja;Kwiecinska;Politechnika Informatyczno-Elektroniczna;10;Kędzierzyn-Koźle 81-133;I;632;81-133;Kędzierzyn-Koźle;;81-133;Kędzierzyn-Koźle;2;73;
+1305;Alfred;Babalewski;Politechnika Informatyczno-Elektroniczna;10;Bytom 80-339;I;2451;80-339;Bytom;;80-339;Bytom;2;18;
+1306;Matylda;Marzec;Uniwersytet Królewski;10;Kuźnia Raciborska 78-122;II;2995;78-122;Kuźnia Raciborska;;78-122;Kuźnia Raciborska;5;94;
+1307;Rafal;Ramotowski;Politechnika Informatyczno-Elektroniczna;10;Strzelce Opolskie 60-596;IV;861;60-596;Strzelce Opolskie;;60-596;Strzelce Opolskie;2;172;
+1308;Kinga;Pogoda;Politechnika Informatyczno-Elektroniczna;10;Gliwice 11-608;I;3213;11-608;Gliwice;;11-608;Gliwice;2;43;
+1309;Kamil;Sokolowski;Uniwersytet Królewski;10;Cieszyn 68-101;V;1845;68-101;Cieszyn;;68-101;Cieszyn;5;25;
+1310;Andrzej;Barabuk;Uniwersytet Ekonomiczny;10;Chorzów 97-545;I;1227;97-545;Chorzów;;97-545;Chorzów;4;21;
+1311;Agnieszka;Kapuscinska;Politechnika Królewska;10;Nowy Targ 84-043;II;2227;84-043;Nowy Targ;;84-043;Nowy Targ;3;125;
+1312;Edmund;Salezy;Uniwersytet Królewski;10;Rajcza 18-286;I;990;18-286;Rajcza;;18-286;Rajcza;5;155;
+1313;Ryszard;Baranek;Uniwersytet Królewski;10;Ogrodniki 14-095;I;1047;14-095;Ogrodniki;;14-095;Ogrodniki;5;128;
+1314;Tomasz;Krolikiewicz;Politechnika Informatyczno-Elektroniczna;10;Mysłowice 13-220;III;2856;13-220;Mysłowice;;13-220;Mysłowice;2;121;
+1315;Wiktor;Holynski;Politechnika Informatyczno-Elektroniczna;10;Siemianowice Sląskie 09-006;V;2522;09-006;Siemianowice Sląskie;;09-006;Siemianowice Sląskie;2;162;
+1316;Kazimierz;Celejewski;Politechnika Informatyczno-Elektroniczna;10;Wisła 99-436;I;568;99-436;Wisła;;99-436;Wisła;2;202;
+1317;Jaroslaw;Szturc;Politechnika Królewska;10;Racibórz 00-355;I;3131;00-355;Racibórz;;00-355;Racibórz;3;153;
+1318;Kamil;Klimintowicz;Uniwersytet Królewski;10;Chyżne 76-235;III;2101;76-235;Chyżne;;76-235;Chyżne;5;22;
+1319;Jerzy;Zambrowicz;Politechnika Informatyczno-Elektroniczna;10;Kety 36-844;I;515;36-844;Kety;;36-844;Kety;2;72;
+1320;Jakub;Magielewski;Politechnika Informatyczno-Elektroniczna;10;Sieradz 62-407;I;3116;62-407;Sieradz;;62-407;Sieradz;2;163;
+1321;Adrian;Misztal;Uniwersytet Królewski;10;Oświęcim 27-702;I;3349;27-702;Oświęcim;;27-702;Oświęcim;5;135;
+1322;Maciej;Babicz;Uniwersytet Królewski;10;Ustroń 51-637;IV;1645;51-637;Ustroń;;51-637;Ustroń;5;194;
+1323;Barbara;Barska;Uniwersytet Królewski;10;Ogrodzieniec 82-082;IV;1047;82-082;Ogrodzieniec;;82-082;Ogrodzieniec;5;129;
+1324;Krystyna;Boss;Uniwersytet Królewski;10;Brzesko 96-703;I;3040;96-703;Brzesko;;96-703;Brzesko;5;16;
+1325;Tomasz;Hubisz;Uniwersytet Królewski;10;Pyrzowice 49-345;I;1470;49-345;Pyrzowice;;49-345;Pyrzowice;5;150;
+1326;Eleonora;Gregoruk;Uniwersytet Królewski;10;Rybnik 24-983;I;1150;24-983;Rybnik;;24-983;Rybnik;5;158;
+1327;Zbigniew;Rodek;Uniwersytet Pedagogiczny;10;Ruda Sląska 12-684;II;1357;12-684;Ruda Sląska;;12-684;Ruda Sląska;7;157;
+1328;Wlodzislaw;Wojtowicz;Politechnika Królewska;10;Katowice 72-241;V;807;72-241;Katowice;;72-241;Katowice;3;71;
+1329;Marek;Liderski;Uniwersytet Sportu i Turystyki;10;Świętochłowice 38-932;I;2536;38-932;Świętochłowice;;38-932;Świętochłowice;9;183;
+1330;Zofia;Nowak ;Uniwersytet Królewski;10;Pyrzowice 49-345;I;434;49-345;Pyrzowice;;49-345;Pyrzowice;5;150;
+1331;Karol;Banach;Uniwersytet Królewski;10;Wojkowice 84-273;I;2840;84-273;Wojkowice;;84-273;Wojkowice;5;207;
+1332;Franciszek;Dziedzic;Uniwersytet Królewski;10;Walce 28-103;I;2312;28-103;Walce;;28-103;Walce;5;196;
+1333;Mariola;Kucharska;Uniwersytet Królewski;10;Mikołów 96-497;I;373;96-497;Mikołów;;96-497;Mikołów;5;116;
+1334;Michal;Batorowicz;Politechnika Królewska;10;Świętochłowice 38-932;I;1287;38-932;Świętochłowice;;38-932;Świętochłowice;3;183;
+1335;Aleksandra;Piotrowska;Politechnika Informatyczno-Elektroniczna;10;Lublin 79-726;I;1210;79-726;Lublin;;79-726;Lublin;2;103;
+1336;Jaroslaw;Matusz;Wyższa Szkoła Techniczna;10;Rybnik 24-983;V;2156;24-983;Rybnik;;24-983;Rybnik;10;158;
+1337;Krystyna;Zukowska;Politechnika Królewska;10;Grudziądz 43-210;I;1150;43-210;Grudziądz;;43-210;Grudziądz;3;49;
+1338;Witold;Witkowski;Politechnika Informatyczno-Elektroniczna;10;Świętochłowice 38-932;II;2162;38-932;Świętochłowice;;38-932;Świętochłowice;2;183;
+1339;Edward;Balowski;Uniwersytet Królewski;10;Rabka 30-698;I;1187;30-698;Rabka;;30-698;Rabka;5;152;
+1340;Jan;Wilczek;Politechnika Informatyczno-Elektroniczna;10;Kuźnia Raciborska 78-122;I;1387;78-122;Kuźnia Raciborska;;78-122;Kuźnia Raciborska;2;94;
+1341;Krystian;Szatylowicz;Uniwersytet Pedagogiczny;10;Radom 43-586;V;2564;43-586;Radom;;43-586;Radom;7;154;
+1342;Ewelina;Paca;Politechnika Królewska;10;Nałęczów 83-630;I;350;83-630;Nałęczów;;83-630;Nałęczów;3;123;
+1343;Adam;Piotrowski;Uniwersytet Sportu i Turystyki;10;Bochnia 89-362;V;3121;89-362;Bochnia;;89-362;Bochnia;9;12;
+1344;Anna;Rolek;Politechnika Informatyczno-Elektroniczna;10;Tarnów 87-348;II;615;87-348;Tarnów;;87-348;Tarnów;2;187;
+1345;Grzegorz;Kalamar;Uniwersytet Królewski;10;Miechów 47-553;II;412;47-553;Miechów;;47-553;Miechów;5;111;
+1346;Jan;Witaj;Uniwersytet Królewski;10;Aleksandrow Kujawski 53-614;I;400;53-614;Aleksandrow Kujawski;;53-614;Aleksandrow Kujawski;5;1;
+1347;Magdalena;Antos;Politechnika Informatyczno-Elektroniczna;10;Ruda Sląska 12-684;I;430;12-684;Ruda Sląska;;12-684;Ruda Sląska;2;157;
+1348;Joanna;Wasowicz;Uniwersytet Królewski;10;Białaszewo 56-545;I;757;56-545;Białaszewo;;56-545;Białaszewo;5;9;
+1349;Przemyslaw;Dobrzynski;Uniwersytet Pedagogiczny;10;Jędrzejów 62-049;I;2648;62-049;Jędrzejów;;62-049;Jędrzejów;7;66;
+1350;Piotr;Kisielewicz;Politechnika Królewska;10;Zgorzelec 79-972;I;3026;79-972;Zgorzelec;;79-972;Zgorzelec;3;216;
+1351;Jerzy;Banan;Politechnika Królewska;10;Będzin 69-501;I;1463;69-501;Będzin;;69-501;Będzin;3;7;
+1352;Rafal;Blocki;Politechnika Informatyczno-Elektroniczna;10;Świętochłowice 38-932;I;2425;38-932;Świętochłowice;;38-932;Świętochłowice;2;183;
+1353;Bartosz;Bek;Uniwersytet Królewski;10;Tarnów 87-348;I;669;87-348;Tarnów;;87-348;Tarnów;5;187;
+1354;Piotr;Bentkowski;Uniwersytet Królewski;10;Siewierz 65-885;I;2587;65-885;Siewierz;;65-885;Siewierz;5;164;
+1355;Bernard;Kregiel;Politechnika Informatyczno-Elektroniczna;10;Rzeszów 89-735;I;2289;89-735;Rzeszów;;89-735;Rzeszów;2;159;
+1356;Malgorzata;Cichawa;Uniwersytet Królewski;10;Długopole-Zdrój 07-772;II;1949;07-772;Długopole-Zdrój;;07-772;Długopole-Zdrój;5;33;
+1357;Danuta;Pietruszka;Uniwersytet Ekonomiczny;10;Istebna 22-654;I;918;22-654;Istebna;;22-654;Istebna;4;56;
+1358;Andrzej;Korzeniewski;Politechnika Informatyczno-Elektroniczna;10;Siemianowice Sląskie 09-006;I;3116;09-006;Siemianowice Sląskie;;09-006;Siemianowice Sląskie;2;162;
+1359;Zofia;Bakus;Uniwersytet Królewski;10;Kielce 04-274;II;945;04-274;Kielce;;04-274;Kielce;5;75;
+1360;Miron;Symanski;Uniwersytet Ekonomiczny;10;Nowy Targ 84-043;V;3075;84-043;Nowy Targ;;84-043;Nowy Targ;4;125;
+1361;Witold;Kornacki;Politechnika Królewska;10;Mikołów 96-497;I;2770;96-497;Mikołów;;96-497;Mikołów;3;116;
+1362;Mikolaj;Grochalski;Akademia Sztuk Pięknych;#N/D;Tarnobrzeg 85-266;I;1047;85-266;Tarnobrzeg;;85-266;Tarnobrzeg;1;185;
+1363;Marcin;Walczak;Uniwersytet Królewski;10;Wadowice 47-222;V;2063;47-222;Wadowice;;47-222;Wadowice;5;195;
+1364;Jacek;Rynkiewicz;Politechnika Królewska;10;Sanok 71-890;I;1578;71-890;Sanok;;71-890;Sanok;3;160;
+1365;Marcin;Janeczek;Politechnika Informatyczno-Elektroniczna;10;Pyrzowice 49-345;IV;628;49-345;Pyrzowice;;49-345;Pyrzowice;2;150;
+1366;Halina;Bajerek;Politechnika Królewska;10;Bielsk Podlaski 96-087;I;2047;96-087;Bielsk Podlaski;;96-087;Bielsk Podlaski;3;11;
+1367;Dominik;Zelechowski;Uniwersytet Pedagogiczny;10;Pilica 15-308;I;2926;15-308;Pilica;;15-308;Pilica;7;139;
+1368;Antoni;Buchalterz;Politechnika Informatyczno-Elektroniczna;10;Nowy Targ 84-043;III;1308;84-043;Nowy Targ;;84-043;Nowy Targ;2;125;
+1369;Joanna;Majeczek;Politechnika Informatyczno-Elektroniczna;10;Gliwice 11-608;I;3060;11-608;Gliwice;;11-608;Gliwice;2;43;
+1370;Patrycja;Majka;Uniwersytet Sportu i Turystyki;10;Świętochłowice 38-932;I;783;38-932;Świętochłowice;;38-932;Świętochłowice;9;183;
+1371;Bronislawa;Zwozniak;Politechnika Informatyczno-Elektroniczna;10;Tworóg 62-560;III;2009;62-560;Tworóg;;62-560;Tworóg;2;192;
+1372;Lukasz;Ostrobramski;Politechnika Informatyczno-Elektroniczna;10;Tarnów 87-348;II;2376;87-348;Tarnów;;87-348;Tarnów;2;187;
+1373;Piotr;Baranski;Politechnika Informatyczno-Elektroniczna;10;Krosno 80-338;I;2861;80-338;Krosno;;80-338;Krosno;2;89;
+1374;Barbara;Kaczmarek;Politechnika Informatyczno-Elektroniczna;10;Krosno 80-338;II;2792;80-338;Krosno;;80-338;Krosno;2;89;
+1375;Adam;Warka;Politechnika Królewska;10;Rzeszów 89-735;II;1217;89-735;Rzeszów;;89-735;Rzeszów;3;159;
+1376;Ewa;Pustelnik;Akademia Sztuk Pięknych;#N/D;Trzebinia 26-607;I;1449;26-607;Trzebinia;;26-607;Trzebinia;1;191;
+1377;Jerzy;Soplica;Uniwersytet Ekonomiczny;10;Dobre Miasto 52-964;I;2472;52-964;Dobre Miasto;;52-964;Dobre Miasto;4;35;
+1378;Wojciech;Kaminski;Uniwersytet Królewski;10;Trzebinia 26-607;V;587;26-607;Trzebinia;;26-607;Trzebinia;5;191;
+1379;Boguslawa;Sawicka;Uniwersytet Ekonomiczny;10;Bielsk Podlaski 96-087;V;2168;96-087;Bielsk Podlaski;;96-087;Bielsk Podlaski;4;11;
+1380;Wincenty;Pohorecki;Uniwersytet Muzyczny;10;Pyrzowice 49-345;II;1619;49-345;Pyrzowice;;49-345;Pyrzowice;6;150;
+1381;Maciej;Proniewicz;Politechnika Informatyczno-Elektroniczna;10;Sucha Beskidzka 98-902;III;1252;98-902;Sucha Beskidzka;;98-902;Sucha Beskidzka;2;173;
+1382;Wislawa;Slonina;Politechnika Królewska;10;Krapkowice 94-560;IV;2012;94-560;Krapkowice;;94-560;Krapkowice;3;87;
+1383;Danuta;Krak;Politechnika Informatyczno-Elektroniczna;10;Kędzierzyn-Koźle 81-133;I;2171;81-133;Kędzierzyn-Koźle;;81-133;Kędzierzyn-Koźle;2;73;
+1384;Janusz;Wrobel;Uniwersytet Królewski;10;Świętochłowice 38-932;V;3234;38-932;Świętochłowice;;38-932;Świętochłowice;5;183;
+1385;Marek;Poludniak;Uniwersytet Rolniczy;10;Piechowice 57-943;V;1569;57-943;Piechowice;;57-943;Piechowice;8;137;
+1386;Hanna;Karska;Uniwersytet Królewski;10;Puławy 66-219;I;1912;66-219;Puławy;;66-219;Puławy;5;149;
+1387;Patrycja;Dona;Politechnika Królewska;10;Sośnicowice 15-658;I;2571;15-658;Sośnicowice;;15-658;Sośnicowice;3;171;
+1388;Szymon;Kulik;Akademia Sztuk Pięknych;#N/D;Bochnia 89-362;I;834;89-362;Bochnia;;89-362;Bochnia;1;12;
+1389;Sonia;Kozubik;Uniwersytet Królewski;10;Ustroń 51-637;I;768;51-637;Ustroń;;51-637;Ustroń;5;194;
+1390;Mikolaj;Mela;Uniwersytet Królewski;10;Limanowa 65-385;III;2192;65-385;Limanowa;;65-385;Limanowa;5;100;
+1391;Ewelina;Rykala;Politechnika Królewska;10;Gierałtowice 04-834;I;1236;04-834;Gierałtowice;;04-834;Gierałtowice;3;42;
+1392;Jedrzej;Banas;Uniwersytet Królewski;10;Krzeszowice 91-488;V;2002;91-488;Krzeszowice;;91-488;Krzeszowice;5;91;
+1393;Beata;Myrcik;Uniwersytet Królewski;10;Sosnowiec 14-721;III;2330;14-721;Sosnowiec;;14-721;Sosnowiec;5;170;
+1394;Anna;Ostrowska;Uniwersytet Królewski;10;Kielce 04-274;I;622;04-274;Kielce;;04-274;Kielce;5;75;
+1395;Henryka;Blizna;Uniwersytet Pedagogiczny;10;Świętochłowice 38-932;II;3006;38-932;Świętochłowice;;38-932;Świętochłowice;7;183;
+1396;Cecylia;Jaskolska;Akademia Sztuk Pięknych;#N/D;Kościan 26-594;III;3050;26-594;Kościan;;26-594;Kościan;1;86;
+1397;Piotr;Siudut;Uniwersytet Królewski;10;Lędziny 27-535;I;2195;27-535;Lędziny;;27-535;Lędziny;5;99;
+1398;Arnold;Bandera;Uniwersytet Rolniczy;10;Kielce 04-274;I;500;04-274;Kielce;;04-274;Kielce;8;75;
+1399;Janusz;Slomski;Politechnika Królewska;10;Kępice 66-251;III;2778;66-251;Kępice;;66-251;Kępice;3;74;
+1400;Alicja;Gorniak;Wyższa Szkoła Techniczna;10;Gorki Male 36-984;I;658;36-984;Gorki Male;;36-984;Gorki Male;10;46;
+1401;Lukasz;Bajor;Politechnika Informatyczno-Elektroniczna;10;Warszawa 83-294;I;1527;83-294;Warszawa;;83-294;Warszawa;2;198;
+1402;Grzegorz;Zaba;Uniwersytet Królewski;10;Opole 16-549;III;1006;16-549;Opole;;16-549;Opole;5;133;
+1403;Patryk;Zychowicz;Politechnika Informatyczno-Elektroniczna;10;Sanok 71-890;I;2391;71-890;Sanok;;71-890;Sanok;2;160;
+1404;Malgorzata;Bedka;Politechnika Informatyczno-Elektroniczna;10;Ustroń 51-637;II;2494;51-637;Ustroń;;51-637;Ustroń;2;194;
+1405;Zygmunt;Augustyniak;Uniwersytet Sportu i Turystyki;10;Dęblin 53-807;II;2006;53-807;Dęblin;;53-807;Dęblin;9;31;
+1406;Adam;Grzmot;Politechnika Informatyczno-Elektroniczna;10;Oświęcim 27-702;V;890;27-702;Oświęcim;;27-702;Oświęcim;2;135;
+1407;Jolanta;Guryn;Politechnika Informatyczno-Elektroniczna;10;Mikołów 96-497;I;2391;96-497;Mikołów;;96-497;Mikołów;2;116;
+1408;Joanna;Warzecha;Politechnika Informatyczno-Elektroniczna;10;Częstochowa 86-116;III;833;86-116;Częstochowa;;86-116;Częstochowa;2;26;
+1409;Alina;Nowak;Politechnika Królewska;10;Ciechocinek 98-839;I;1234;98-839;Ciechocinek;;98-839;Ciechocinek;3;24;
+1410;Piotr;Papier;Politechnika Informatyczno-Elektroniczna;10;Rajcza 18-286;I;987;18-286;Rajcza;;18-286;Rajcza;2;155;
+1411;Patrycja;Fleisch;Uniwersytet Pedagogiczny;10;Bytom 80-339;I;585;80-339;Bytom;;80-339;Bytom;7;18;
+1412;Adam;Cichowas;Uniwersytet Królewski;10;Karniewo 21-405;I;2865;21-405;Karniewo;;21-405;Karniewo;5;70;
+1413;Dominika;Kierat;Politechnika Informatyczno-Elektroniczna;10;Wadowice 47-222;I;1493;47-222;Wadowice;;47-222;Wadowice;2;195;
+1414;Piotr;Targosz;Politechnika Królewska;10;Chalupki 70-071;I;2597;70-071;Chalupki;;70-071;Chalupki;3;19;
+1415;Michal;Szmigin;Uniwersytet Królewski;10;Świętochłowice 38-932;III;3126;38-932;Świętochłowice;;38-932;Świętochłowice;5;183;
+1416;Antoni;Graczyk;Politechnika Informatyczno-Elektroniczna;10;Pyrzowice 49-345;IV;2209;49-345;Pyrzowice;;49-345;Pyrzowice;2;150;
+1417;Malgorzata;Balinska;Politechnika Informatyczno-Elektroniczna;10;Elbląg 10-656;I;1709;10-656;Elbląg;;10-656;Elbląg;2;37;
+1418;Justyna;Sliwinska;Politechnika Informatyczno-Elektroniczna;10;Kielce 04-274;I;2818;04-274;Kielce;;04-274;Kielce;2;75;
+1419;Witold;Kowal;Politechnika Królewska;10;Tarnobrzeg 85-266;II;2591;85-266;Tarnobrzeg;;85-266;Tarnobrzeg;3;185;
+1420;Beata;Rejkowicz;Politechnika Informatyczno-Elektroniczna;10;Nowy Targ 84-043;I;1822;84-043;Nowy Targ;;84-043;Nowy Targ;2;125;
+1421;Marta;Bajerka;Uniwersytet Królewski;10;Sławków 42-081;I;2757;42-081;Sławków;;42-081;Sławków;5;167;
+1422;Karolina;Krynicka;Uniwersytet Królewski;10;Racibórz 00-355;I;962;00-355;Racibórz;;00-355;Racibórz;5;153;
+1423;Zofia;Cybulska;Politechnika Królewska;10;Koniaków 34-607;II;2100;34-607;Koniaków;;34-607;Koniaków;3;82;
+1424;Kacper;Gajdemski;Uniwersytet Królewski;10;Przemyśl 38-959;III;2793;38-959;Przemyśl;;38-959;Przemyśl;5;147;
+1425;Adam;Prokop;Politechnika Informatyczno-Elektroniczna;10;Gubin 94-706;I;898;94-706;Gubin;;94-706;Gubin;2;51;
+1426;Kleopatra;Janska;Uniwersytet Królewski;10;Tarnobrzeg 85-266;I;724;85-266;Tarnobrzeg;;85-266;Tarnobrzeg;5;185;
+1427;Jadwiga;Balcerowska;Uniwersytet Królewski;10;Szczyrk 75-361;I;1158;75-361;Szczyrk;;75-361;Szczyrk;5;180;
+1428;Joanna;Podczasiak;Uniwersytet Ekonomiczny;10;Długopole-Zdrój 07-772;I;921;07-772;Długopole-Zdrój;;07-772;Długopole-Zdrój;4;33;
+1429;Hanna;Cabaj;Uniwersytet Królewski;10;Katowice 72-241;V;2281;72-241;Katowice;;72-241;Katowice;5;71;
+1430;Katarzyna;Komar;Uniwersytet Królewski;10;Oświęcim 27-702;I;2969;27-702;Oświęcim;;27-702;Oświęcim;5;135;
+1431;Pawel;Zmelty;Politechnika Informatyczno-Elektroniczna;10;Strzelce Opolskie 60-596;I;397;60-596;Strzelce Opolskie;;60-596;Strzelce Opolskie;2;172;
+1432;Adam;Kral;Politechnika Królewska;10;Siewierz 65-885;I;2164;65-885;Siewierz;;65-885;Siewierz;3;164;
+1433;Kajetan;Szczepanski;Politechnika Informatyczno-Elektroniczna;10;Strzelce Opolskie 60-596;IV;2369;60-596;Strzelce Opolskie;;60-596;Strzelce Opolskie;2;172;
+1434;Adrian;Badera;Uniwersytet Pedagogiczny;10;Sławków 42-081;I;2481;42-081;Sławków;;42-081;Sławków;7;167;
+1435;Adelajda;Czerwinska;Uniwersytet Królewski;10;Tarnobrzeg 85-266;III;2940;85-266;Tarnobrzeg;;85-266;Tarnobrzeg;5;185;
+1436;Alina;Miekus;Politechnika Informatyczno-Elektroniczna;10;Strzelce Opolskie 60-596;I;896;60-596;Strzelce Opolskie;;60-596;Strzelce Opolskie;2;172;
+1437;Lidia;Sroda;Politechnika Informatyczno-Elektroniczna;10;Wadowice 47-222;IV;1577;47-222;Wadowice;;47-222;Wadowice;2;195;
+1438;Alicja;Danek;Uniwersytet Królewski;10;Tarnów 87-348;I;787;87-348;Tarnów;;87-348;Tarnów;5;187;
+1439;Danuta;Muniak;Uniwersytet Królewski;10;Mysłowice 13-220;I;1924;13-220;Mysłowice;;13-220;Mysłowice;5;121;
+1440;Natalia;Zawalinska;Politechnika Informatyczno-Elektroniczna;10;Lędziny 27-535;I;1082;27-535;Lędziny;;27-535;Lędziny;2;99;
+1441;Emila;Florek;Uniwersytet Królewski;10;Piwniczna-Zdrój 09-592;I;2316;09-592;Piwniczna-Zdrój;;09-592;Piwniczna-Zdrój;5;141;
+1442;Adam;Lewik;Politechnika Królewska;10;Bielsk Podlaski 96-087;IV;2728;96-087;Bielsk Podlaski;;96-087;Bielsk Podlaski;3;11;
+1443;Jadwiga;Duzy;Politechnika Informatyczno-Elektroniczna;10;Walce 28-103;I;2256;28-103;Walce;;28-103;Walce;2;196;
+1444;Kacper;Billa;Uniwersytet Ekonomiczny;10;Katowice 72-241;IV;2354;72-241;Katowice;;72-241;Katowice;4;71;
+1445;Jan;Witaszczyk;Uniwersytet Królewski;10;Żory 29-724;V;973;29-724;Żory;;29-724;Żory;5;218;
+1446;Michal;Katon;Uniwersytet Królewski;10;Sośnicowice 15-658;IV;689;15-658;Sośnicowice;;15-658;Sośnicowice;5;171;
+1447;Janusz;Rys;Politechnika Informatyczno-Elektroniczna;10;Dębowiec 36-478;V;1216;36-478;Dębowiec;;36-478;Dębowiec;2;32;
+1448;Celina;Bednarska;Politechnika Królewska;10;Zamość 99-773;I;1264;99-773;Zamość;;99-773;Zamość;3;214;
+1449;Jan;Majewski;Politechnika Informatyczno-Elektroniczna;10;Częstochowa 86-116;I;2899;86-116;Częstochowa;;86-116;Częstochowa;2;26;
+1450;Janina;Witarek;Akademia Sztuk Pięknych;#N/D;Międzyrzecz 64-542;I;1863;64-542;Międzyrzecz;;64-542;Międzyrzecz;1;113;
+1451;Karolina;Rogowska;Uniwersytet Pedagogiczny;10;Oborniki 33-160;I;3050;33-160;Oborniki;;33-160;Oborniki;7;127;
+1452;Oskar;Ploszaj;Uniwersytet Królewski;10;Kleszczów 18-459;II;1257;18-459;Kleszczów;;18-459;Kleszczów;5;76;
+1453;Anna;Marciniak;Uniwersytet Królewski;10;Jędrzejów 62-049;V;3038;62-049;Jędrzejów;;62-049;Jędrzejów;5;66;
+1454;Arkadiusz;Pyzikowski;Uniwersytet Królewski;10;Sławków 42-081;III;2036;42-081;Sławków;;42-081;Sławków;5;167;
+1455;Marcin;Szumowski;Politechnika Informatyczno-Elektroniczna;10;Dęblin 53-807;I;1310;53-807;Dęblin;;53-807;Dęblin;2;31;
+1456;Anastazja;Czarnecka;Uniwersytet Królewski;10;Katowice 72-241;II;1700;72-241;Katowice;;72-241;Katowice;5;71;
+1457;Leszek;Bareczek;Akademia Sztuk Pięknych;#N/D;Nowy Targ 84-043;I;2922;84-043;Nowy Targ;;84-043;Nowy Targ;1;125;
+1458;Beata;Pogonska;Akademia Sztuk Pięknych;#N/D;Kobylin-Borzymy 21-258;IV;2983;21-258;Kobylin-Borzymy;;21-258;Kobylin-Borzymy;1;79;
+1459;Klaudia;Dziarska;Uniwersytet Ekonomiczny;10;Lubaczów 60-915;V;1945;60-915;Lubaczów;;60-915;Lubaczów;4;102;
+1460;Zofia;Mazowiecka;Uniwersytet Rolniczy;10;Ruda Sląska 12-684;II;1965;12-684;Ruda Sląska;;12-684;Ruda Sląska;8;157;
+1461;Rafal;Radwan;Politechnika Informatyczno-Elektroniczna;10;Giebło 76-179;IV;2914;76-179;Giebło;;76-179;Giebło;2;41;
+1462;Karolina;Dabrowka;Politechnika Królewska;10;Poraj 80-436;I;2145;80-436;Poraj;;80-436;Poraj;3;143;
+1463;Kinga;Winkler;Uniwersytet Królewski;10;Tworóg 62-560;I;2655;62-560;Tworóg;;62-560;Tworóg;5;192;
+1464;Brygida;Molikiewicz;Politechnika Królewska;10;Tworóg 62-560;I;725;62-560;Tworóg;;62-560;Tworóg;3;192;
+1465;Adam;Wojtas;Politechnika Informatyczno-Elektroniczna;10;Siemianowice Sląskie 09-006;I;1906;09-006;Siemianowice Sląskie;;09-006;Siemianowice Sląskie;2;162;
+1466;Anna;Balcerek;Akademia Sztuk Pięknych;#N/D;Tychy 76-939;I;1624;76-939;Tychy;;76-939;Tychy;1;193;
+1467;Nicola;Oleksza;Politechnika Królewska;10;Częstochowa 86-116;I;381;86-116;Częstochowa;;86-116;Częstochowa;3;26;
+1468;Walery;Susel;Politechnika Informatyczno-Elektroniczna;10;Nowy Sącz 62-813;III;2097;62-813;Nowy Sącz;;62-813;Nowy Sącz;2;124;
+1469;Janusz;Tkaczyk;Uniwersytet Królewski;10;Mysłowice 13-220;I;633;13-220;Mysłowice;;13-220;Mysłowice;5;121;
+1470;Maria;Bujaczka;Politechnika Informatyczno-Elektroniczna;10;Nowy Sącz 62-813;I;1216;62-813;Nowy Sącz;;62-813;Nowy Sącz;2;124;
+1471;Olgierd;Rokpol;Uniwersytet Ekonomiczny;10;Ciechanów 37-640;I;3348;37-640;Ciechanów;;37-640;Ciechanów;4;23;
+1472;Adrianna;Wojtas;Politechnika Królewska;10;Koniaków 34-607;II;2746;34-607;Koniaków;;34-607;Koniaków;3;82;
+1473;Jan;Orlowski;Politechnika Informatyczno-Elektroniczna;10;Nałęczów 83-630;I;1314;83-630;Nałęczów;;83-630;Nałęczów;2;123;
+1474;Marcin;Budzisz;Politechnika Informatyczno-Elektroniczna;10;Gliwice 11-608;I;1837;11-608;Gliwice;;11-608;Gliwice;2;43;
+1475;Adrianna;Tarara;Uniwersytet Ekonomiczny;10;Katowice 72-241;II;3255;72-241;Katowice;;72-241;Katowice;4;71;
+1476;Anna;Marchlewska;Uniwersytet Królewski;10;Mikołów 96-497;I;385;96-497;Mikołów;;96-497;Mikołów;5;116;
+1477;Kamil;Tusinski;Uniwersytet Królewski;10;Olszyna 69-786;IV;1663;69-786;Olszyna;;69-786;Olszyna;5;132;
+1478;Mateusz;Pyla;Uniwersytet Królewski;10;Chalupki 70-071;III;2902;70-071;Chalupki;;70-071;Chalupki;5;19;
+1479;Halina;Fido;Politechnika Informatyczno-Elektroniczna;10;Świętochłowice 38-932;IV;3069;38-932;Świętochłowice;;38-932;Świętochłowice;2;183;
+1480;Magdalena;Sznyrowska;Politechnika Informatyczno-Elektroniczna;10;Siemianowice Sląskie 09-006;I;1096;09-006;Siemianowice Sląskie;;09-006;Siemianowice Sląskie;2;162;
+1481;Martyn;Milek;Politechnika Królewska;10;Józefów 40-643;IV;1363;40-643;Józefów;;40-643;Józefów;3;67;
+1482;Janina;Ciechanowicz;Uniwersytet Ekonomiczny;10;Katowice 72-241;I;2829;72-241;Katowice;;72-241;Katowice;4;71;
+1483;Alicja;Chrzan;Uniwersytet Rolniczy;10;Halinów 33-056;I;1489;33-056;Halinów;;33-056;Halinów;8;52;
+1484;Andrzej;Bawar;Uniwersytet Królewski;10;Tworóg 62-560;I;1189;62-560;Tworóg;;62-560;Tworóg;5;192;
+1485;Patryk;Barcikowski;Politechnika Informatyczno-Elektroniczna;10;Dąbrowa Górnicza 75-727;I;2031;75-727;Dąbrowa Górnicza;;75-727;Dąbrowa Górnicza;2;28;
+1486;Ewelina;Marzec;Politechnika Informatyczno-Elektroniczna;10;Szczekociny 66-008;II;1993;66-008;Szczekociny;;66-008;Szczekociny;2;179;
+1487;Laura;Ochota;Uniwersytet Królewski;10;Wodzisław Sląski 83-544;I;1622;83-544;Wodzisław Sląski;;83-544;Wodzisław Sląski;5;206;
+1488;Ewelina;Chojna;Uniwersytet Pedagogiczny;10;Alwernia 27-938;I;355;27-938;Alwernia;;27-938;Alwernia;7;2;
+1489;Zbigniew;Fijas;Politechnika Informatyczno-Elektroniczna;10;Rajcza 18-286;II;2746;18-286;Rajcza;;18-286;Rajcza;2;155;
+1490;Grazyna;Sikorowicz;Politechnika Informatyczno-Elektroniczna;10;Tychy 76-939;I;505;76-939;Tychy;;76-939;Tychy;2;193;
+1491;Ireneusz;Szydlak;Politechnika Informatyczno-Elektroniczna;10;Tychy 76-939;II;1971;76-939;Tychy;;76-939;Tychy;2;193;
+1492;Malgorzata;Bronicz;Uniwersytet Królewski;10;Ełk 05-563;I;2290;05-563;Ełk;;05-563;Ełk;5;38;
+1493;Paulina;Malecka;Wyższa Szkoła Techniczna;10;Gierałtowice 04-834;I;2037;04-834;Gierałtowice;;04-834;Gierałtowice;10;42;
+1494;Krystian;Dunaj;Politechnika Informatyczno-Elektroniczna;10;Trzebinia 26-607;V;2634;26-607;Trzebinia;;26-607;Trzebinia;2;191;
+1495;Zbigniew;Milion;Uniwersytet Rolniczy;10;Bytom 80-339;II;545;80-339;Bytom;;80-339;Bytom;8;18;
+1496;Alan;Nieszporek;Politechnika Informatyczno-Elektroniczna;10;Myszków 91-786;I;1921;91-786;Myszków;;91-786;Myszków;2;122;
+1497;Wanda;Barabasz;Politechnika Królewska;10;Tarnów 87-348;II;1227;87-348;Tarnów;;87-348;Tarnów;3;187;
+1498;Dawid;Adamek;Politechnika Informatyczno-Elektroniczna;10;Jasło 92-050;I;1512;92-050;Jasło;;92-050;Jasło;2;59;
+1499;Ewa;Malkowska;Politechnika Informatyczno-Elektroniczna;10;Jeżewo 53-780;I;1388;53-780;Jeżewo;;53-780;Jeżewo;2;65;
+1500;Paulina;Andruszewska;Politechnika Informatyczno-Elektroniczna;10;Nałęczów 83-630;I;766;83-630;Nałęczów;;83-630;Nałęczów;2;123;
+1501;Elzbieta;Kosinska;Politechnika Informatyczno-Elektroniczna;10;Legnica 58-930;I;2455;58-930;Legnica;;58-930;Legnica;2;97;
+1502;Artur;Biankowski;Uniwersytet Królewski;10;Radom 43-586;I;577;43-586;Radom;;43-586;Radom;5;154;
+1503;Malgorzata;Podsiadlo;Politechnika Informatyczno-Elektroniczna;10;Daszyna 43-141;I;1164;43-141;Daszyna;;43-141;Daszyna;2;27;
+1504;Wioletta;Oliwa;Uniwersytet Królewski;10;Gubin 94-706;III;762;94-706;Gubin;;94-706;Gubin;5;51;
+1505;Eustachy;Czyrnek;Politechnika Informatyczno-Elektroniczna;10;Kędzierzyn-Koźle 81-133;IV;536;81-133;Kędzierzyn-Koźle;;81-133;Kędzierzyn-Koźle;2;73;
+1506;Boguslawa;Kowalska;Politechnika Informatyczno-Elektroniczna;10;Bochnia 89-362;III;2453;89-362;Bochnia;;89-362;Bochnia;2;12;
+1507;Antoni;Rutkowski;Uniwersytet Królewski;10;Trzebinia 26-607;I;3173;26-607;Trzebinia;;26-607;Trzebinia;5;191;
+1508;Michal;Kowalski;Politechnika Informatyczno-Elektroniczna;10;Będzin 69-501;V;2706;69-501;Będzin;;69-501;Będzin;2;7;
+1509;Agnieszka;Ćmiel;Politechnika Królewska;10;Sucha Beskidzka 98-902;I;2319;98-902;Sucha Beskidzka;;98-902;Sucha Beskidzka;3;173;
+1510;Wieslaw;Helski;Politechnika Informatyczno-Elektroniczna;10;Walce 28-103;II;534;28-103;Walce;;28-103;Walce;2;196;
+1511;Aleksy;Domagalik;Uniwersytet Ekonomiczny;10;Białystok 54-632;II;1749;54-632;Białystok;;54-632;Białystok;4;10;
+1512;Katarzyna;Ogrodniczak;Uniwersytet Pedagogiczny;10;Warszawa 83-294;III;1421;83-294;Warszawa;;83-294;Warszawa;7;198;
+1513;Maciej;Kaminski;Politechnika Informatyczno-Elektroniczna;10;Dobre Miasto 52-964;III;1509;52-964;Dobre Miasto;;52-964;Dobre Miasto;2;35;
+1514;Bronislaw;Chwala;Uniwersytet Królewski;10;Trzebinia 26-607;I;1032;26-607;Trzebinia;;26-607;Trzebinia;5;191;
+1515;Jozafat;Marcinkiewicz;Politechnika Informatyczno-Elektroniczna;10;Gostyń 97-023;III;3054;97-023;Gostyń;;97-023;Gostyń;2;48;
+1516;Miron;Mewa;Uniwersytet Królewski;10;Kłomnice 43-045;V;2311;43-045;Kłomnice;;43-045;Kłomnice;5;77;
+1517;Zofia;Piwowarczyk;Akademia Sztuk Pięknych;#N/D;Nysa 72-297;V;1206;72-297;Nysa;;72-297;Nysa;1;126;
+1518;Jakub;Grzybowski;Uniwersytet Pedagogiczny;10;Kielce 04-274;I;2915;04-274;Kielce;;04-274;Kielce;7;75;
+1519;Janusz;Kowalonek;Uniwersytet Pedagogiczny;10;Gliwice 11-608;II;1974;11-608;Gliwice;;11-608;Gliwice;7;43;
+1520;Teresa;Wrobel;Politechnika Królewska;10;Nowy Sącz 62-813;IV;2341;62-813;Nowy Sącz;;62-813;Nowy Sącz;3;124;
+1521;Karolina;Kryniewska;Politechnika Królewska;10;Świętochłowice 38-932;I;795;38-932;Świętochłowice;;38-932;Świętochłowice;3;183;
+1522;Sergiusz;Migdalowski;Uniwersytet Królewski;10;Katowice 72-241;IV;2008;72-241;Katowice;;72-241;Katowice;5;71;
+1523;Tomasz;Gwozdziewicz;Politechnika Informatyczno-Elektroniczna;10;Grudziądz 43-210;II;1995;43-210;Grudziądz;;43-210;Grudziądz;2;49;
+1524;Ryszard;Lubaszka;Politechnika Informatyczno-Elektroniczna;10;Zakopane 00-995;II;1399;00-995;Zakopane;;00-995;Zakopane;2;212;
+1525;Jakub;Wilinski;Politechnika Informatyczno-Elektroniczna;10;Świętochłowice 38-932;III;1525;38-932;Świętochłowice;;38-932;Świętochłowice;2;183;
+1526;Tadeusz;Sienkiewicz;Politechnika Informatyczno-Elektroniczna;10;Skierniewice 18-665;II;3207;18-665;Skierniewice;;18-665;Skierniewice;2;165;
+1527;Jakub;Hajdukiewicz;Uniwersytet Królewski;10;Sosnowiec 14-721;I;1627;14-721;Sosnowiec;;14-721;Sosnowiec;5;170;
+1528;Ilona;Banasiewicz;Uniwersytet Królewski;10;Ogrodzieniec 82-082;I;2796;82-082;Ogrodzieniec;;82-082;Ogrodzieniec;5;129;
+1529;Slawomir;Balcerowski;Politechnika Informatyczno-Elektroniczna;10;Sosnowiec 14-721;II;1236;14-721;Sosnowiec;;14-721;Sosnowiec;2;170;
+1530;Tomasz;Witas;Politechnika Informatyczno-Elektroniczna;10;Wolbrom 46-174;II;2728;46-174;Wolbrom;;46-174;Wolbrom;2;208;
+1531;Slawomir;Kominiarz;Uniwersytet Królewski;10;Tarnów 87-348;V;1882;87-348;Tarnów;;87-348;Tarnów;5;187;
+1532;Krystyna;Damska;Politechnika Informatyczno-Elektroniczna;10;Tarnobrzeg 85-266;I;1502;85-266;Tarnobrzeg;;85-266;Tarnobrzeg;2;185;
+1533;Jan;Oleksy;Politechnika Królewska;10;Ciechocinek 98-839;III;3180;98-839;Ciechocinek;;98-839;Ciechocinek;3;24;
+1534;Agata;Najowicz;Uniwersytet Królewski;10;Prudnik 09-823;I;2951;09-823;Prudnik;;09-823;Prudnik;5;145;
+1535;Agata;Rakulska;Uniwersytet Królewski;10;Nałęczów 83-630;I;1824;83-630;Nałęczów;;83-630;Nałęczów;5;123;
+1536;Wiktor;Buczkowski;Uniwersytet Królewski;10;Bielsk Podlaski 96-087;II;1267;96-087;Bielsk Podlaski;;96-087;Bielsk Podlaski;5;11;
+1537;Alicja;Kraus;Politechnika Królewska;10;Jaworzno 98-650;I;3162;98-650;Jaworzno;;98-650;Jaworzno;3;61;
+1538;Michal;Polak;Uniwersytet Ekonomiczny;10;Warszawa 83-294;I;1720;83-294;Warszawa;;83-294;Warszawa;4;198;
+1539;Henryk;Barylka;Politechnika Informatyczno-Elektroniczna;10;Rajcza 18-286;I;2909;18-286;Rajcza;;18-286;Rajcza;2;155;
+1540;Barbara;Wolej;Politechnika Królewska;10;Nysa 72-297;I;1795;72-297;Nysa;;72-297;Nysa;3;126;
+1541;Adelajda;Klimczyk;Uniwersytet Królewski;10;Siemianowice Sląskie 09-006;II;1932;09-006;Siemianowice Sląskie;;09-006;Siemianowice Sląskie;5;162;
+1542;Kamil;Baranowski;Politechnika Informatyczno-Elektroniczna;10;Giebło 76-179;I;2743;76-179;Giebło;;76-179;Giebło;2;41;
+1543;Dawid;Kruk;Politechnika Królewska;10;Olkusz 19-255;I;810;19-255;Olkusz;;19-255;Olkusz;3;130;
+1544;Anna;Kowalska;Uniwersytet Królewski;10;Nysa 72-297;I;1612;72-297;Nysa;;72-297;Nysa;5;126;
+1545;Robert;Zalewicz;Politechnika Królewska;10;Olkusz 19-255;II;784;19-255;Olkusz;;19-255;Olkusz;3;130;
+1546;Rafal;Swiderski;Politechnika Królewska;10;Katowice 72-241;I;1310;72-241;Katowice;;72-241;Katowice;3;71;
+1547;Edyta;Rebajn;Uniwersytet Pedagogiczny;10;Rybnik 24-983;I;801;24-983;Rybnik;;24-983;Rybnik;7;158;
+1548;Klara;Sokolowska;Politechnika Królewska;10;Sucha Beskidzka 98-902;V;557;98-902;Sucha Beskidzka;;98-902;Sucha Beskidzka;3;173;
+1549;Barbara;Josiak;Uniwersytet Królewski;10;Jaworzynka 56-921;I;3281;56-921;Jaworzynka;;56-921;Jaworzynka;5;62;
+1550;Beata;Walczak;Uniwersytet Królewski;10;Świętochłowice 38-932;IV;986;38-932;Świętochłowice;;38-932;Świętochłowice;5;183;
+1551;Beata;Rompalska;Uniwersytet Królewski;10;Katowice 72-241;I;2272;72-241;Katowice;;72-241;Katowice;5;71;
+1552;Krystiana;Wolna;Politechnika Informatyczno-Elektroniczna;10;Młynarze 72-438;III;2215;72-438;Młynarze;;72-438;Młynarze;2;118;
+1553;Anna;Rozalska;Uniwersytet Królewski;10;Nysa 72-297;I;471;72-297;Nysa;;72-297;Nysa;5;126;
+1554;Czeslaw;Kawa;Politechnika Informatyczno-Elektroniczna;10;Gliwice 11-608;I;3138;11-608;Gliwice;;11-608;Gliwice;2;43;
+1555;Dorota;Lichwa;Politechnika Królewska;10;Istebna 22-654;I;1005;22-654;Istebna;;22-654;Istebna;3;56;
+1556;Mateusz;Kozlowski;Akademia Sztuk Pięknych;#N/D;Gorki Male 36-984;I;3332;36-984;Gorki Male;;36-984;Gorki Male;1;46;
+1557;Mateusz;Ceglarz;Uniwersytet Ekonomiczny;10;Kępice 66-251;I;771;66-251;Kępice;;66-251;Kępice;4;74;
+1558;Andrzej;Balicki;Politechnika Informatyczno-Elektroniczna;10;Mikołajki 83-977;I;2463;83-977;Mikołajki;;83-977;Mikołajki;2;115;
+1559;Halina;Malewska;Uniwersytet Królewski;10;Warszawa 83-294;V;2999;83-294;Warszawa;;83-294;Warszawa;5;198;
+1560;Bartosz;Pawlik;Akademia Sztuk Pięknych;#N/D;Zakopane 00-995;I;2115;00-995;Zakopane;;00-995;Zakopane;1;212;
+1561;Marek;Majcher;Politechnika Informatyczno-Elektroniczna;10;Gorzów Wielkopolski 78-003;I;3128;78-003;Gorzów Wielkopolski;;78-003;Gorzów Wielkopolski;2;47;
+1562;Rafal;Wozny;Uniwersytet Królewski;10;Sobotka 16-386;II;1187;16-386;Sobotka;;16-386;Sobotka;5;168;
+1563;Mieczyslaw;Zuchowski;Politechnika Informatyczno-Elektroniczna;10;Koniaków 34-607;I;1745;34-607;Koniaków;;34-607;Koniaków;2;82;
+1564;Ziemowit;Szczepanski;Akademia Sztuk Pięknych;#N/D;Żywiec 00-137;III;1834;00-137;Żywiec;;00-137;Żywiec;1;220;
+1565;Anna;Pankiewicz;Uniwersytet Królewski;10;Nowy Sącz 62-813;I;2463;62-813;Nowy Sącz;;62-813;Nowy Sącz;5;124;
+1566;Zbigniew;Ostrowski;Politechnika Informatyczno-Elektroniczna;10;Tychy 76-939;II;2095;76-939;Tychy;;76-939;Tychy;2;193;
+1567;Daria;Antonkiewicz;Uniwersytet Królewski;10;Strzelce Opolskie 60-596;I;848;60-596;Strzelce Opolskie;;60-596;Strzelce Opolskie;5;172;
+1568;Renata;Chyla;Politechnika Królewska;10;Myszków 91-786;II;3318;91-786;Myszków;;91-786;Myszków;3;122;
+1569;Karina;Urban;Uniwersytet Królewski;10;Alwernia 27-938;II;1392;27-938;Alwernia;;27-938;Alwernia;5;2;
+1570;Anna;Dudek;Akademia Sztuk Pięknych;#N/D;Żywiec 00-137;II;3196;00-137;Żywiec;;00-137;Żywiec;1;220;
+1571;Piotr;Chwalek;Uniwersytet Sportu i Turystyki;10;Rajcza 18-286;I;982;18-286;Rajcza;;18-286;Rajcza;9;155;
+1572;Zygfryd;Lechowski;Politechnika Informatyczno-Elektroniczna;10;Kleszczów 18-459;I;2032;18-459;Kleszczów;;18-459;Kleszczów;2;76;
+1573;Irena;Calka;Uniwersytet Królewski;10;Bielsk Podlaski 96-087;I;3103;96-087;Bielsk Podlaski;;96-087;Bielsk Podlaski;5;11;
+1574;Karol;Wiercioch;Politechnika Informatyczno-Elektroniczna;10;Biała Podlaska 00-425;III;1875;00-425;Biała Podlaska;;00-425;Biała Podlaska;2;8;
+1575;Tomasz;Cwierz;Uniwersytet Królewski;10;Debrzno 03-065;IV;666;03-065;Debrzno;;03-065;Debrzno;5;29;
+1576;Adam;Kanarek;Uniwersytet Ekonomiczny;10;Jelenia Góra 14-742;I;1134;14-742;Jelenia Góra;;14-742;Jelenia Góra;4;64;
+1577;Beata;Tyliba;Uniwersytet Królewski;10;Toruń 90-535;IV;3223;90-535;Toruń;;90-535;Toruń;5;190;
+1578;Ewa;Bartosz;Akademia Sztuk Pięknych;#N/D;Racibórz 00-355;I;2717;00-355;Racibórz;;00-355;Racibórz;1;153;
+1579;Piotr;Smietanski;Politechnika Informatyczno-Elektroniczna;10;Jastrzębie-Zdrój 51-394;IV;3233;51-394;Jastrzębie-Zdrój;;51-394;Jastrzębie-Zdrój;2;60;
+1580;Slawomir;Malcharek;Politechnika Informatyczno-Elektroniczna;10;Olkusz 19-255;II;607;19-255;Olkusz;;19-255;Olkusz;2;130;
+1581;Lechoslaw;Bitwa;Akademia Sztuk Pięknych;#N/D;Wojkowice 84-273;I;1641;84-273;Wojkowice;;84-273;Wojkowice;1;207;
+1582;Aleksander;Polak;Politechnika Informatyczno-Elektroniczna;10;Siewierz 65-885;I;1516;65-885;Siewierz;;65-885;Siewierz;2;164;
+1583;Janusz;Kmicic;Politechnika Informatyczno-Elektroniczna;10;Będzin 69-501;I;1121;69-501;Będzin;;69-501;Będzin;2;7;
+1584;Cezar;Pawlak;Politechnika Królewska;10;Bochnia 89-362;I;1693;89-362;Bochnia;;89-362;Bochnia;3;12;
+1585;Mateusz;Symanski;Politechnika Informatyczno-Elektroniczna;10;Mikołów 96-497;V;955;96-497;Mikołów;;96-497;Mikołów;2;116;
+1586;Maria;Kazmierowska;Politechnika Informatyczno-Elektroniczna;10;Prudnik 09-823;I;859;09-823;Prudnik;;09-823;Prudnik;2;145;
+1587;Mateusz;Szwaja;Uniwersytet Sportu i Turystyki;10;Głubczyce 65-458;I;649;65-458;Głubczyce;;65-458;Głubczyce;9;44;
+1588;Ewa;Laczna;Politechnika Królewska;10;Prudnik 09-823;V;2539;09-823;Prudnik;;09-823;Prudnik;3;145;
+1589;Irena;Magiera;Politechnika Informatyczno-Elektroniczna;10;Tarnobrzeg 85-266;I;1898;85-266;Tarnobrzeg;;85-266;Tarnobrzeg;2;185;
+1590;Pawel;Jakubowski;Uniwersytet Ekonomiczny;10;Lódź 92-577;II;1145;92-577;Lódź;;92-577;Lódź;4;101;
+1591;Karol;Szymanski;Politechnika Informatyczno-Elektroniczna;10;Kępice 66-251;I;2706;66-251;Kępice;;66-251;Kępice;2;74;
+1592;Adam;Nieweglowski;Uniwersytet Królewski;10;Sławków 42-081;I;2497;42-081;Sławków;;42-081;Sławków;5;167;
+1593;Leszek;Kieslowski;Uniwersytet Królewski;10;Ciechanów 37-640;I;1190;37-640;Ciechanów;;37-640;Ciechanów;5;23;
+1594;Piotr;Bielawa;Politechnika Królewska;10;Przasnysz 81-084;I;3047;81-084;Przasnysz;;81-084;Przasnysz;3;146;
+1595;Konstantyn;Sokolowski;Politechnika Królewska;10;Lublin 79-726;III;1293;kod_pocztowy;miejsce_zam;;kod_pocztowy;miejsce_zam;3;112;
+1596;Lech;Balickiewicz;Uniwersytet Królewski;10;Kielce 04-274;I;2987;04-274;Kielce;;04-274;Kielce;5;75;
+1597;Marek;Kwolek;Politechnika Informatyczno-Elektroniczna;10;Ruda Sląska 12-684;I;2982;12-684;Ruda Sląska;;12-684;Ruda Sląska;2;157;
+1598;Anna;Galaszewska;Politechnika Informatyczno-Elektroniczna;10;Wojkowice 84-273;I;3016;84-273;Wojkowice;;84-273;Wojkowice;2;207;
+1599;Agnieszka;Garbaczyk;Politechnika Informatyczno-Elektroniczna;10;Gostyń 97-023;I;2910;97-023;Gostyń;;97-023;Gostyń;2;48;
+1600;Laura;Cedro;Uniwersytet Królewski;10;Przemyśl 38-959;I;2764;38-959;Przemyśl;;38-959;Przemyśl;5;147;
+1601;Rita;Pieczenczyk;Politechnika Informatyczno-Elektroniczna;10;Żywiec 00-137;II;2229;00-137;Żywiec;;00-137;Żywiec;2;220;
+1602;Waclawa;Borkowska;Politechnika Królewska;10;Szczyrk 75-361;I;1683;75-361;Szczyrk;;75-361;Szczyrk;3;180;
+1603;Adrian;Melnik;Politechnika Informatyczno-Elektroniczna;10;Ogrodzieniec 82-082;I;424;82-082;Ogrodzieniec;;82-082;Ogrodzieniec;2;129;
+1604;Anna;Czernicka;Politechnika Informatyczno-Elektroniczna;10;Hrebenne 37-873;I;2437;37-873;Hrebenne;;37-873;Hrebenne;2;53;
+1605;Czeslaw;Balonski;Akademia Sztuk Pięknych;#N/D;Mikołów 96-497;I;629;96-497;Mikołów;;96-497;Mikołów;1;116;
+1606;Agnieszka;Banczak;Politechnika Królewska;10;Dębica 53-306;I;2368;53-306;Dębica;;53-306;Dębica;3;30;
+1607;Oskar;Piekarski;Politechnika Królewska;10;Pilica 15-308;II;401;15-308;Pilica;;15-308;Pilica;3;139;
+1608;Wieslaw;Mazurek;Politechnika Królewska;10;Radom 43-586;II;2574;43-586;Radom;;43-586;Radom;3;154;
+1609;Walenty;Mondkiewicz;Politechnika Królewska;10;Nowy Sącz 62-813;III;1793;62-813;Nowy Sącz;;62-813;Nowy Sącz;3;124;
+1610;Mateusz;Felerski;Uniwersytet Królewski;10;Gubin 94-706;I;2355;94-706;Gubin;;94-706;Gubin;5;51;
+1611;Roza;Zawodna;Uniwersytet Pedagogiczny;10;Gostyń 97-023;III;2291;97-023;Gostyń;;97-023;Gostyń;7;48;
+1612;Wladyslawa;Bijak;Politechnika Informatyczno-Elektroniczna;10;Wadowice 47-222;V;1271;47-222;Wadowice;;47-222;Wadowice;2;195;
+1613;Bozena;Chechelska;Uniwersytet Królewski;10;Katowice 72-241;I;870;72-241;Katowice;;72-241;Katowice;5;71;
+1614;Adam;Sasimski;Uniwersytet Pedagogiczny;10;Siewierz 65-885;I;2957;65-885;Siewierz;;65-885;Siewierz;7;164;
+1615;Julianna;Abacka;Politechnika Królewska;10;Julianka 95-306;IV;2583;kod_pocztowy;miejsce_zam;;kod_pocztowy;miejsce_zam;3;112;
+1616;Krzysztof;Chojnacki;Uniwersytet Królewski;10;Trzebinia 26-607;I;2422;26-607;Trzebinia;;26-607;Trzebinia;5;191;

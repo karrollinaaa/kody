@@ -1,0 +1,221 @@
+id_miasta,nazwa_miasta
+1,Aleksandrow Kujawski
+2,Alwernia
+3,Baborów
+4,Barlinek
+5,Barwinek
+6,Bezledy
+7,Bêdzin
+8,Bia³a Podlaska
+9,Bia³aszewo
+10,Bia³ystok
+11,Bielsk Podlaski
+12,Bochnia
+13,Bo¿ewo
+14,Brañsk
+15,Brzeg Dolny
+16,Brzesko
+17,Bydgoszcz
+18,Bytom
+19,Chalupki
+20,Che³m
+21,Chorzów
+22,Chy¿ne
+23,Ciechanów
+24,Ciechocinek
+25,Cieszyn
+26,Czêstochowa
+27,Daszyna
+28,D¹browa Górnicza
+29,Debrzno
+30,Dêbica
+31,Dêblin
+32,Dêbowiec
+33,D³ugopole-Zdrój
+34,Dobieszowice
+35,Dobre Miasto
+36,Dzier¿oniów
+37,Elbl¹g
+38,E³k
+39,Gdañsk
+40,Gdynia
+41,Gieb³o
+42,Giera³towice
+43,Gliwice
+44,G³ubczyce
+45,G³ucho³azy
+46,Gorki Male
+47,Gorzów Wielkopolski
+48,Gostyñ
+49,Grudzi¹dz
+50,Gryfice
+51,Gubin
+52,Halinów
+53,Hrebenne
+54,I³awa
+55,Inowroc³aw
+56,Istebna
+57,Izbica Kujawska
+58,Jakuszyce
+59,Jas³o
+60,Jastrzêbie-Zdrój
+61,Jaworzno
+62,Jaworzynka
+63,Jejkowice
+64,Jelenia Góra
+65,Je¿ewo
+66,Jêdrzejów
+67,Józefów
+68,Julianka
+69,Kalisz
+70,Karniewo
+71,Katowice
+72,Kety
+73,Kêdzierzyn-KoŸle
+74,Kêpice
+75,Kielce
+76,Kleszczów
+77,K³omnice
+78,Kobylin
+79,Kobylin-Borzymy
+80,Kogutek
+81,Ko³baskowo
+82,Koniaków
+83,Konin
+84,Kostrzyn
+85,Koszalin
+86,Koœcian
+87,Krapkowice
+88,Kraœnik
+89,Krosno
+90,Kruszwica
+91,Krzeszowice
+92,Krzy¿ Wielkopolski
+93,Kudowa-S³one
+94,KuŸnia Raciborska
+95,KuŸnica Bia³ostocka
+96,Legionowo
+97,Legnica
+98,Leszno
+99,Lêdziny
+100,Limanowa
+101,LódŸ
+102,Lubaczów
+103,Lublin
+104,Lubliniec
+105,Lwówek Sl¹ski
+106,£azy
+107,£êczyca
+108,£om¿a
+109,Malbork
+110,Medyka
+111,Miechów
+112,miejsce_zam
+113,Miêdzyrzecz
+114,Miêdzyrzecze
+115,Miko³ajki
+116,Miko³ów
+117,Mirów
+118,M³ynarze
+119,Monki
+120,Mordy
+121,Mys³owice
+122,Myszków
+123,Na³êczów
+124,Nowy S¹cz
+125,Nowy Targ
+126,Nysa
+127,Oborniki
+128,Ogrodniki
+129,Ogrodzieniec
+130,Olkusz
+131,Olsztyn
+132,Olszyna
+133,Opole
+134,Ostro³êka
+135,Oœwiêcim
+136,Otmuchów
+137,Piechowice
+138,Pila
+139,Pilica
+140,Piotrków Trybunalski
+141,Piwniczna-Zdrój
+142,P³ock
+143,Poraj
+144,Poznañ
+145,Prudnik
+146,Przasnysz
+147,Przemyœl
+148,Pszczyna
+149,Pu³awy
+150,Pyrzowice
+151,Pyrzyce
+152,Rabka
+153,Racibórz
+154,Radom
+155,Rajcza
+156,RogoŸnik
+157,Ruda Sl¹ska
+158,Rybnik
+159,Rzeszów
+160,Sanok
+161,Siedlce
+162,Siemianowice Sl¹skie
+163,Sieradz
+164,Siewierz
+165,Skierniewice
+166,Skorogoszcz
+167,S³awków
+168,Sobotka
+169,Sopot
+170,Sosnowiec
+171,Soœnicowice
+172,Strzelce Opolskie
+173,Sucha Beskidzka
+174,Sura¿
+175,Suwa³ki
+176,Szamotu³y
+177,Szczecin
+178,Szczecinek
+179,Szczekociny
+180,Szczyrk
+181,Œwiecko
+182,Œwieradów-Zdrój
+183,Œwiêtoch³owice
+184,Œwinoujskie
+185,Tarnobrzeg
+186,Tarnowskie Góry
+187,Tarnów
+188,Terespol
+189,Tomaszów Lubelski
+190,Toruñ
+191,Trzebinia
+192,Tworóg
+193,Tychy
+194,Ustroñ
+195,Wadowice
+196,Walce
+197,Wa³brzych
+198,Warszawa
+199,W¹growiec
+200,Wejherowo
+201,Wêgorzewo
+202,Wis³a
+203,Witonia
+204,W³oc³awek
+205,W³odowice
+206,Wodzis³aw Sl¹ski
+207,Wojkowice
+208,Wolbrom
+209,Wroc³aw
+210,Zabrodzie
+211,Zabrze
+212,Zakopane
+213,Zambrów
+214,Zamoœæ
+215,Zawiercie
+216,Zgorzelec
+217,Zielona Góra
+218,¯ory
+219,¯yrardów
+220,¯ywiec
