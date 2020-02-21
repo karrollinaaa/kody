@@ -1,0 +1,16 @@
+101.1.
+Podaj, ile kobiet i ilu mężczyzn uczęszczało na zajęcia Fitness TBC. Zwróć uwagę, że
+niektóre osoby mogły być na tych zajęciach kilkakrotnie, a w zestawieniu powinny być
+uwzględnione tylko raz.
+101.2.
+Utwórz zestawienie, w którym dla każdego obiektu podasz, jaką łączną kwotę zapłacono za
+prowadzone w nim zajęcia.
+101.3.
+Podaj nazwiska i imiona osób, które w dniu 16 kwietnia 2014 r. uczestniczyły w więcej niż
+jednych zajęciach.
+101.4.
+Podaj rodzaj zajęć, w których uczestniczyło najwięcej osób. Podaj podaj liczbę tych osób
+i nazwę obiektu, w którym te zajęcia były prowadzone.
+101.5.
+Utwórz zestawienie, w którym dla każdego obiektu podasz, ile odnotowano w nim wejść na
+zajęcia. Zestawienie uporządkuj alfabetycznie według nazw obiektów.
